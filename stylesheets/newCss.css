@@ -1,0 +1,2224 @@
+/* line 1, ../sass/newCss.scss */
+p {
+  margin-bottom: 18px;
+}
+
+/* line 4, ../sass/newCss.scss */
+h1, h2, h3, h4, h5, h6, p, ul, ol, pre, table, blockquote, input, select, textarea {
+  margin-bottom: 24px;
+  margin-top: 0;
+  padding: 0;
+}
+
+/* line 9, ../sass/newCss.scss */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: 400 16px Open Sans;
+  vertical-align: baseline;
+  zoom: 1;
+}
+
+/* line 18, ../sass/newCss.scss */
+.block {
+  display: block;
+}
+
+/* line 21, ../sass/newCss.scss */
+.form-icon, .form-icon-right {
+  position: relative;
+}
+/* line 23, ../sass/newCss.scss */
+.form-icon i, .form-icon-right i {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  color: #999;
+}
+
+/* line 30, ../sass/newCss.scss */
+.main-search-wrapper {
+  width: 80%;
+  margin: auto;
+  z-index: 9;
+}
+/* line 34, ../sass/newCss.scss */
+.main-search-wrapper .inner {
+  background: rgba(0, 0, 0, 0.3);
+  padding: 30px;
+  margin: 0 auto;
+  margin-top: 30px;
+  width: 73.5%;
+}
+/* line 41, ../sass/newCss.scss */
+.main-search-wrapper .typeahead-container {
+  position: relative;
+}
+/* line 43, ../sass/newCss.scss */
+.main-search-wrapper .typeahead-container .typeahead-field input {
+  background: #fff;
+}
+/* line 47, ../sass/newCss.scss */
+.main-search-wrapper label {
+  text-transform: uppercase;
+  color: #FFF;
+  font-weight: 400;
+  font-family: Open Sans;
+  margin: 0 0 8px;
+}
+/* line 54, ../sass/newCss.scss */
+.main-search-wrapper .form-lg i {
+  font-size: 18px;
+  bottom: 12px;
+}
+/* line 58, ../sass/newCss.scss */
+.main-search-wrapper .form-control[readonly] {
+  background: #FFF;
+}
+/* line 61, ../sass/newCss.scss */
+.main-search-wrapper .form-icon-right .form-control {
+  padding-right: 28px;
+}
+
+/* line 66, ../sass/newCss.scss */
+.btn-lg.btn-icon {
+  padding-right: 66px;
+}
+
+/* line 70, ../sass/newCss.scss */
+.btn-icon {
+  position: relative;
+  padding-right: 36px;
+}
+
+/* line 74, ../sass/newCss.scss */
+.btn {
+  text-transform: uppercase;
+  font-size: 11px;
+  letter-spacing: 3px;
+  font-weight: 500;
+  padding: 10px;
+}
+
+/* line 81, ../sass/newCss.scss */
+.btn-lg.btn-icon .icon {
+  width: 46px;
+  padding-top: 13px;
+  font-size: 12px;
+}
+
+/* line 86, ../sass/newCss.scss */
+.btn-icon .icon {
+  position: absolute;
+  top: -1px;
+  bottom: -1px;
+  right: 0;
+  width: 36px;
+  text-align: center;
+  display: block;
+  border-left: 1px solid rgba(255, 255, 255, 0.2);
+  font-size: 12px;
+  padding-top: 10px;
+}
+
+/* line 98, ../sass/newCss.scss */
+.btn-primary:hover, .btn-info:hover, .btn-success:hover, .btn-danger:hover, .btn-warning:hover {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+/* line 101, ../sass/newCss.scss */
+.fancy-select {
+  position: relative;
+  color: #005294;
+}
+
+/* line 105, ../sass/newCss.scss */
+.fancy-select .form-control {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: #999;
+}
+
+/* line 113, ../sass/newCss.scss */
+.gap-20 .col-sm-1, .gap-20 .col-sm-2, .gap-20 .col-sm-3, .gap-20 .col-sm-4, .gap-20 .col-sm-5, .gap-20 .col-sm-6, .gap-20 .col-sm-7, .gap-20 .col-sm-8, .gap-20 .col-sm-9, .gap-20 .col-sm-10, .gap-20 .col-sm-11, .gap-20 .col-sm-12, .gap-20 .col-md-1, .gap-20 .col-md-2, .gap-20 .col-md-3, .gap-20 .col-md-4, .gap-20 .col-md-5, .gap-20 .col-md-6, .gap-20 .col-md-7, .gap-20 .col-md-8, .gap-20 .col-md-9, .gap-20 .col-md-10, .gap-20 .col-md-11, .gap-20 .col-md-12 {
+  padding-right: 10px !important;
+  padding-left: 10px !important;
+}
+
+/* line 118, ../sass/newCss.scss */
+.intro-text.get-started {
+  background-image: url("http://crenoveative.com/envato/extretion/images/hero-header/03.jpg");
+  position: relative;
+  padding: 180px 0;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* line 125, ../sass/newCss.scss */
+.intro-text.get-started .checkbox {
+  margin-top: 4px;
+}
+
+/* two-tone css start  */
+/* line 131, ../sass/newCss.scss */
+.two-tone-layout {
+  overflow: hidden;
+}
+/* line 133, ../sass/newCss.scss */
+.two-tone-layout .container {
+  overflow: visible;
+  padding-right: 335px;
+}
+/* line 137, ../sass/newCss.scss */
+.two-tone-layout .content-wrapper {
+  position: relative;
+  background: #F7F7F7;
+  padding-right: 30px;
+}
+/* line 141, ../sass/newCss.scss */
+.two-tone-layout .content-wrapper:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 999px;
+  left: -999px;
+  background: #F7F7F7;
+}
+/* line 151, ../sass/newCss.scss */
+.two-tone-layout .sidebar-wrapper {
+  position: relative;
+  background: #EDEDED;
+  margin-right: -320px;
+  width: 320px;
+  padding-left: 30px;
+  border-left: 1px solid #E5E5E5;
+}
+/* line 158, ../sass/newCss.scss */
+.two-tone-layout .sidebar-wrapper:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 999px;
+  right: -999px;
+  background: #EDEDED;
+}
+
+/* line 169, ../sass/newCss.scss */
+.two-tone-wrapper {
+  width: 100%;
+  margin: auto;
+}
+/* line 172, ../sass/newCss.scss */
+.two-tone-wrapper > div {
+  margin: 0;
+}
+
+/* line 176, ../sass/newCss.scss */
+.two-tone-table {
+  display: table;
+}
+/* line 178, ../sass/newCss.scss */
+.two-tone-table .two-tone-col {
+  display: table-cell;
+}
+
+/* line 182, ../sass/newCss.scss */
+.two-tone-content {
+  width: 72%;
+}
+/* line 184, ../sass/newCss.scss */
+.two-tone-content > .inner {
+  padding: 35px 30px;
+  padding-left: 0;
+}
+
+/* line 189, ../sass/newCss.scss */
+.two-tone-sidebar {
+  width: 28%;
+  background: #EDEDED;
+  position: relative;
+  border-left: 1px solid #E5E5E5;
+}
+/* line 194, ../sass/newCss.scss */
+.two-tone-sidebar:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: -1000px;
+  width: 1000px;
+  background: #EDEDED;
+}
+/* line 203, ../sass/newCss.scss */
+.two-tone-sidebar > .inner {
+  padding: 35px 30px;
+  padding-right: 0;
+}
+
+/* line 208, ../sass/newCss.scss */
+.table-div {
+  display: table;
+}
+
+/* line 211, ../sass/newCss.scss */
+.table-cell-div {
+  display: table-cell;
+}
+
+/* line 215, ../sass/newCss.scss */
+.equal-content-sidebar .container {
+  padding: 0;
+  padding-right: 360px;
+  padding-left: 15px;
+  overflow: hidden;
+}
+/* line 221, ../sass/newCss.scss */
+.equal-content-sidebar .content-wrapper {
+  float: left;
+  width: 100%;
+  background-color: #fff;
+  padding-bottom: 99999px;
+  margin-bottom: -99999px;
+}
+/* line 228, ../sass/newCss.scss */
+.equal-content-sidebar .sidebar-wrapper {
+  float: right;
+  margin-right: -345px;
+  width: 310px;
+  background-color: #fff;
+  padding-bottom: 99999px;
+  margin-bottom: -99999px;
+}
+
+/* line 238, ../sass/newCss.scss */
+.equal-content-sidebar.left-sidebar .container {
+  padding-right: 15px;
+  padding-left: 360px;
+}
+
+/* line 244, ../sass/newCss.scss */
+.left-sidebar .content-wrapper {
+  float: right;
+}
+/* line 247, ../sass/newCss.scss */
+.left-sidebar .sidebar-wrapper {
+  float: left;
+  margin-left: -345px;
+}
+
+/* line 253, ../sass/newCss.scss */
+.two-tone-layout.left-sidebar .container {
+  padding-right: 15px;
+  padding-left: 335px;
+}
+/* line 257, ../sass/newCss.scss */
+.two-tone-layout.left-sidebar .content-wrapper {
+  float: right;
+  padding-right: 0;
+  padding-left: 30px;
+}
+/* line 261, ../sass/newCss.scss */
+.two-tone-layout.left-sidebar .content-wrapper:after {
+  left: auto;
+  right: -999px;
+}
+/* line 266, ../sass/newCss.scss */
+.two-tone-layout.left-sidebar .sidebar-wrapper {
+  padding-left: 0;
+  padding-right: 30px;
+  margin-left: -320px;
+  border-right: 1px solid #E5E5E5;
+  border-left: 0;
+}
+/* line 272, ../sass/newCss.scss */
+.two-tone-layout.left-sidebar .sidebar-wrapper:after {
+  right: auto;
+  left: -999px;
+}
+
+/* line 279, ../sass/newCss.scss */
+.two-tone-layout.size-2 .container {
+  overflow: visible;
+  padding-right: 265px;
+}
+/* line 283, ../sass/newCss.scss */
+.two-tone-layout.size-2 .content-wrapper {
+  background: #F7F7F7;
+  padding-right: 30px;
+}
+/* line 286, ../sass/newCss.scss */
+.two-tone-layout.size-2 .content-wrapper:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 999px;
+  left: -999px;
+  background: #F7F7F7;
+}
+/* line 296, ../sass/newCss.scss */
+.two-tone-layout.size-2 .sidebar-wrapper {
+  background: #EDEDED;
+  margin-right: -250px;
+  width: 250px;
+  padding-left: 30px;
+  border-left: 1px solid #E5E5E5;
+}
+
+/* line 305, ../sass/newCss.scss */
+.two-tone-layout.left-sidebar.size-2 .container {
+  padding-right: 15px;
+  padding-left: 265px;
+}
+/* line 309, ../sass/newCss.scss */
+.two-tone-layout.left-sidebar.size-2 .content-wrapper {
+  float: right;
+  padding-right: 0;
+  padding-left: 30px;
+}
+/* line 313, ../sass/newCss.scss */
+.two-tone-layout.left-sidebar.size-2 .content-wrapper:after {
+  left: auto;
+  right: -999px;
+}
+/* line 318, ../sass/newCss.scss */
+.two-tone-layout.left-sidebar.size-2 .sidebar-wrapper {
+  padding-left: 0;
+  padding-right: 30px;
+  margin-left: -250px;
+  border-right: 1px solid #E5E5E5;
+  border-left: 0;
+}
+/* line 324, ../sass/newCss.scss */
+.two-tone-layout.left-sidebar.size-2 .sidebar-wrapper:after {
+  right: auto;
+  left: -999px;
+}
+
+@media only screen and (max-width: 1199px) {
+  /* line 332, ../sass/newCss.scss */
+  .equal-content-sidebar .container {
+    padding-right: 330px;
+    padding-left: 15px;
+  }
+  /* line 336, ../sass/newCss.scss */
+  .equal-content-sidebar .sidebar-wrapper {
+    margin-right: -315px;
+    width: 280px;
+  }
+
+  /* line 342, ../sass/newCss.scss */
+  .equal-content-sidebar.left-sidebar .container {
+    padding-left: 330px;
+  }
+
+  /* line 347, ../sass/newCss.scss */
+  .left-sidebar .sidebar-wrapper {
+    margin-left: -315px;
+  }
+
+  /* line 352, ../sass/newCss.scss */
+  .two-tone-layout .container {
+    overflow: visible;
+    padding-right: 320px;
+  }
+  /* line 356, ../sass/newCss.scss */
+  .two-tone-layout .sidebar-wrapper {
+    margin-right: -305px;
+    width: 305px;
+    padding-left: 30px;
+  }
+
+  /* line 363, ../sass/newCss.scss */
+  .two-tone-layout.left-sidebar .container {
+    padding-left: 320px;
+  }
+  /* line 366, ../sass/newCss.scss */
+  .two-tone-layout.left-sidebar .sidebar-wrapper {
+    margin-left: -305px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  /* line 373, ../sass/newCss.scss */
+  .equal-content-sidebar .container {
+    padding: 0 15px;
+  }
+  /* line 376, ../sass/newCss.scss */
+  .equal-content-sidebar .content-wrapper {
+    float: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-bottom: 30px;
+  }
+  /* line 382, ../sass/newCss.scss */
+  .equal-content-sidebar .sidebar-wrapper {
+    float: none;
+    margin-right: 0;
+    width: 100%;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+
+  /* line 391, ../sass/newCss.scss */
+  .equal-content-sidebar.left-sidebar .container {
+    padding-left: 15px;
+  }
+
+  /* line 396, ../sass/newCss.scss */
+  .left-sidebar .content-wrapper {
+    float: none;
+    margin-bottom: 0;
+  }
+  /* line 400, ../sass/newCss.scss */
+  .left-sidebar .sidebar-wrapper {
+    float: none;
+    margin-left: 0;
+    margin-bottom: 30px;
+  }
+
+  /* line 407, ../sass/newCss.scss */
+  .two-tone-layout .content-wrapper {
+    padding: 0;
+  }
+  /* line 409, ../sass/newCss.scss */
+  .two-tone-layout .content-wrapper:after {
+    display: none;
+  }
+  /* line 413, ../sass/newCss.scss */
+  .two-tone-layout .sidebar-wrapper {
+    margin-right: 0;
+    width: 100%;
+    padding: 0 5px;
+    padding-top: 0;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: 1px solid #E5E5E5;
+  }
+  /* line 422, ../sass/newCss.scss */
+  .two-tone-layout .sidebar-wrapper:after {
+    display: none;
+  }
+
+  /* line 428, ../sass/newCss.scss */
+  .two-tone-layout.left-sidebar .container {
+    padding-left: 15px;
+  }
+  /* line 431, ../sass/newCss.scss */
+  .two-tone-layout.left-sidebar .content-wrapper {
+    padding: 0 20px;
+  }
+  /* line 434, ../sass/newCss.scss */
+  .two-tone-layout.left-sidebar .sidebar-wrapper {
+    margin-left: 0;
+    width: 100%;
+    padding: 0 5px;
+    border-left: 0;
+  }
+
+  /* line 442, ../sass/newCss.scss */
+  .two-tone-layout.size-2 .container {
+    padding: 0;
+  }
+  /* line 445, ../sass/newCss.scss */
+  .two-tone-layout.size-2 .content-wrapper {
+    background: #F7F7F7;
+    padding-right: 30px;
+  }
+  /* line 448, ../sass/newCss.scss */
+  .two-tone-layout.size-2 .content-wrapper:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 999px;
+    left: -999px;
+    background: #F7F7F7;
+  }
+  /* line 458, ../sass/newCss.scss */
+  .two-tone-layout.size-2 .sidebar-wrapper {
+    margin-right: 0;
+    width: 100%;
+    padding: 0 5px;
+    padding-top: 0;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: 1px solid #E5E5E5;
+  }
+
+  /* line 470, ../sass/newCss.scss */
+  .two-tone-layout.left-sidebar.size-2 .container {
+    padding-left: 15px;
+  }
+  /* line 473, ../sass/newCss.scss */
+  .two-tone-layout.left-sidebar.size-2 .content-wrapper {
+    padding: 0;
+  }
+  /* line 475, ../sass/newCss.scss */
+  .two-tone-layout.left-sidebar.size-2 .content-wrapper:after {
+    display: none;
+  }
+  /* line 479, ../sass/newCss.scss */
+  .two-tone-layout.left-sidebar.size-2 .sidebar-wrapper {
+    margin-left: 0;
+    width: 100%;
+    padding: 0 5px;
+    border: 1px solid #E5E5E5;
+  }
+  /* line 480, ../sass/newCss.scss */
+  .two-tone-layout.left-sidebar.size-2 .sidebar-wrapper:after {
+    display: none;
+  }
+}
+@media only screen and (max-width: 767px) {
+  /* line 492, ../sass/newCss.scss */
+  .two-tone-layout .content-wrapper {
+    padding: 0;
+  }
+
+  /* line 497, ../sass/newCss.scss */
+  .two-tone-layout.left-sidebar .content-wrapper {
+    padding: 0;
+  }
+}
+/*two-tone scss end*/
+/**
+ * Layout - Equal Content Sidebar
+*/
+/* line 509, ../sass/newCss.scss */
+.equal-content-sidebar-by-js {
+  overflow-x: hidden;
+}
+
+/* line 510, ../sass/newCss.scss */
+.equal-content-sidebar-by-js .content-wrapper {
+  float: left;
+  width: 75%;
+  vertical-align: top;
+  background: #F7F7F7;
+  padding-left: 30px;
+  position: relative;
+}
+
+/* line 511, ../sass/newCss.scss */
+.equal-content-sidebar-by-js .content-wrapper:before {
+  content: "";
+  background: #F7F7F7;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: -999px;
+  width: 999px;
+}
+
+/* line 512, ../sass/newCss.scss */
+.equal-content-sidebar-by-js .sidebar-wrapper {
+  float: left;
+  width: 25%;
+  vertical-align: top;
+  background: #EDEDED;
+  padding-right: 30px;
+  position: relative;
+  border-right: 1px solid #E5E5E5;
+}
+
+/* line 513, ../sass/newCss.scss */
+.equal-content-sidebar-by-js .sidebar-wrapper:before {
+  content: "";
+  background: #EDEDED;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -999px;
+  width: 999px;
+}
+
+/* line 515, ../sass/newCss.scss */
+.equal-content-sidebar-by-js.ratio-70-30 .content-wrapper {
+  width: 70%;
+}
+
+/* line 516, ../sass/newCss.scss */
+.equal-content-sidebar-by-js.ratio-70-30 .sidebar-wrapper {
+  width: 30%;
+}
+
+/* line 518, ../sass/newCss.scss */
+.equal-content-sidebar-by-js.ratio-65-35 .content-wrapper {
+  width: 65.5%;
+}
+
+/* line 519, ../sass/newCss.scss */
+.equal-content-sidebar-by-js.ratio-65-65 .sidebar-wrapper {
+  width: 34.5%;
+}
+
+/* line 521, ../sass/newCss.scss */
+.equal-content-sidebar-by-gridLex {
+  overflow-x: hidden;
+}
+
+/* line 522, ../sass/newCss.scss */
+.equal-content-sidebar-by-gridLex .content-wrapper {
+  background: #F7F7F7;
+  padding-left: 30px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  position: relative;
+  width: 100%;
+}
+
+/* line 523, ../sass/newCss.scss */
+.equal-content-sidebar-by-gridLex .content-wrapper:before {
+  content: "";
+  background: #F7F7F7;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: -999px;
+  width: 999px;
+}
+
+/* line 524, ../sass/newCss.scss */
+.equal-content-sidebar-by-gridLex .sidebar-wrapper {
+  background: #EDEDED;
+  padding-right: 30px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  position: relative;
+  border-right: 1px solid #E5E5E5;
+  width: 100%;
+}
+
+/* line 525, ../sass/newCss.scss */
+.equal-content-sidebar-by-gridLex .sidebar-wrapper:before {
+  content: "";
+  background: #EDEDED;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -999px;
+  width: 999px;
+}
+
+/* line 527, ../sass/newCss.scss */
+.equal-content-sidebar-by-js.right-sidebar .content-wrapper, .equal-content-sidebar-by-gridLex.right-sidebar .content-wrapper {
+  padding-left: 0;
+  padding-right: 30px;
+}
+
+/* line 528, ../sass/newCss.scss */
+.equal-content-sidebar-by-js.right-sidebar .content-wrapper:before, .equal-content-sidebar-by-gridLex.right-sidebar .content-wrapper:before {
+  right: auto;
+  left: -999px;
+}
+
+/* line 529, ../sass/newCss.scss */
+.equal-content-sidebar-by-js.right-sidebar .sidebar-wrapper, .equal-content-sidebar-by-gridLex.right-sidebar .sidebar-wrapper {
+  padding-right: 0;
+  padding-left: 30px;
+  float: right;
+  border-right: 0;
+  border-left: 1px solid #E5E5E5;
+}
+
+/* line 530, ../sass/newCss.scss */
+.equal-content-sidebar-by-js.right-sidebar .sidebar-wrapper:before, .equal-content-sidebar-by-gridLex.right-sidebar .sidebar-wrapper:before {
+  left: auto;
+  right: -999px;
+}
+
+@media only screen and (max-width: 1199px) {
+  /* line 533, ../sass/newCss.scss */
+  .equal-content-sidebar-by-js .content-wrapper {
+    width: 70%;
+  }
+
+  /* line 534, ../sass/newCss.scss */
+  .equal-content-sidebar-by-js .sidebar-wrapper {
+    width: 30%;
+  }
+}
+@media only screen and (max-width: 991px) {
+  /* line 538, ../sass/newCss.scss */
+  .equal-content-sidebar-by-js .content-wrapper {
+    width: 65%;
+  }
+
+  /* line 539, ../sass/newCss.scss */
+  .equal-content-sidebar-by-js .sidebar-wrapper {
+    width: 35%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  /* line 543, ../sass/newCss.scss */
+  .equal-content-sidebar-by-js .content-wrapper {
+    width: 100%;
+    padding-left: 0;
+  }
+
+  /* line 544, ../sass/newCss.scss */
+  .equal-content-sidebar-by-js .sidebar-wrapper {
+    width: 100%;
+    padding-right: 0;
+    border: 0 !important;
+  }
+
+  /* line 545, ../sass/newCss.scss */
+  .equal-content-sidebar-by-gridLex .content-wrapper {
+    padding-left: 0;
+  }
+
+  /* line 546, ../sass/newCss.scss */
+  .equal-content-sidebar-by-gridLex .sidebar-wrapper {
+    padding-right: 0;
+  }
+
+  /* line 547, ../sass/newCss.scss */
+  .equal-content-sidebar-by-js .content-wrapper:after, .equal-content-sidebar-by-gridLex .content-wrapper:after {
+    content: "";
+    background: #F7F7F7;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -999px;
+    width: 999px;
+  }
+
+  /* line 548, ../sass/newCss.scss */
+  .equal-content-sidebar-by-js .sidebar-wrapper:after, .equal-content-sidebar-by-gridLex .sidebar-wrapper:after {
+    content: "";
+    background: #EDEDED;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: -999px;
+    width: 999px;
+  }
+
+  /* line 550, ../sass/newCss.scss */
+  .equal-content-sidebar-by-js.right-sidebar .content-wrapper, .equal-content-sidebar-by-gridLex.right-sidebar .content-wrapper {
+    padding-right: 0;
+  }
+
+  /* line 551, ../sass/newCss.scss */
+  .equal-content-sidebar-by-js.right-sidebar .sidebar-wrapper, .equal-content-sidebar-by-gridLex.right-sidebar .sidebar-wrapper {
+    padding-left: 0;
+    float: right;
+  }
+
+  /* line 552, ../sass/newCss.scss */
+  .equal-content-sidebar-by-js.right-sidebar .content-wrapper:after, .equal-content-sidebar-by-gridLex.right-sidebar .content-wrapper:after {
+    left: auto;
+    right: -999px;
+  }
+
+  /* line 553, ../sass/newCss.scss */
+  .equal-content-sidebar-by-js.right-sidebar .sidebar-wrapper:after, .equal-content-sidebar-by-gridLex.right-sidebar .sidebar-wrapper:after {
+    right: auto;
+    left: -999px;
+  }
+}
+/*Layout - Equal Content Sidebar scss end*/
+/**
+ * Result Page
+ */
+/* line 564, ../sass/newCss.scss */
+.result-status {
+  position: relative;
+  margin-bottom: 25px;
+  border-bottom: 2px solid #E6E6E6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+/* line 570, ../sass/newCss.scss */
+.result-status p {
+  margin: 0;
+  font-size: 16px;
+}
+/* line 574, ../sass/newCss.scss */
+.result-status a.show-on-map {
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: -2px;
+  right: 0;
+  width: 93px;
+  line-height: 1;
+  font-size: 10px;
+  font-weight: 700;
+  text-align: center;
+  background-position: 50% 50%;
+  border-left: 5px solid #F7F7F7;
+}
+/* line 587, ../sass/newCss.scss */
+.result-status a.show-on-map img {
+  width: 30px;
+  margin: 0 auto;
+  margin-top: -15px;
+}
+/* line 592, ../sass/newCss.scss */
+.result-status a.show-on-map .absolute {
+  top: auto;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 5px;
+}
+/* line 600, ../sass/newCss.scss */
+.result-status .back-to-list {
+  position: absolute;
+  top: 0;
+  bottom: -2px;
+  right: 0;
+  width: 80px;
+  line-height: 18px;
+  font-size: 12px;
+  font-weight: 400;
+  text-align: center;
+  border-left: 5px solid #F7F7F7;
+  background: #18bb9c;
+  color: #FFF;
+  padding-top: 5px;
+}
+/* line 614, ../sass/newCss.scss */
+.result-status .back-to-list span {
+  display: block;
+  text-transform: uppercase;
+}
+/* line 618, ../sass/newCss.scss */
+.result-status .back-to-list a {
+  color: #FFF;
+  font-size: 14px;
+}
+/* line 621, ../sass/newCss.scss */
+.result-status .back-to-list a:hover {
+  color: rgba(255, 255, 255, 0.7);
+}
+/* line 625, ../sass/newCss.scss */
+.result-status .back-to-list a + a {
+  margin-left: 5px;
+}
+
+/* line 632, ../sass/newCss.scss */
+.sort-wrapper {
+  background: #EDEDED;
+  color: #5d5d5d;
+  margin: 0 0 5px;
+  border-top: 1px solid #E5E5E5;
+  border-bottom: 1px solid #E5E5E5;
+  margin-bottom: 28px;
+}
+/* line 639, ../sass/newCss.scss */
+.sort-wrapper > ul {
+  margin: 0;
+}
+/* line 641, ../sass/newCss.scss */
+.sort-wrapper > ul > li {
+  display: block;
+  float: left;
+}
+/* line 644, ../sass/newCss.scss */
+.sort-wrapper > ul > li > a {
+  color: #5d5d5d;
+  border-right: solid 1px #E5E5E5;
+  display: block;
+  padding: 10px 15px;
+}
+/* line 649, ../sass/newCss.scss */
+.sort-wrapper > ul > li > a:hover {
+  color: #18bb9c;
+}
+/* line 654, ../sass/newCss.scss */
+.sort-wrapper > ul > li.text {
+  border-right: solid 1px #E5E5E5;
+  padding: 10px 15px;
+  text-transform: uppercase;
+}
+/* line 659, ../sass/newCss.scss */
+.sort-wrapper > ul > li.list-grid {
+  float: right;
+}
+/* line 661, ../sass/newCss.scss */
+.sort-wrapper > ul > li.list-grid a {
+  float: right;
+  border-right: 0;
+  border-left: solid 1px #E5E5E5;
+  color: #5d5d5d;
+}
+/* line 669, ../sass/newCss.scss */
+.sort-wrapper > ul > li.active > a {
+  color: #18bb9c;
+}
+/* line 674, ../sass/newCss.scss */
+.sort-wrapper .dropdown-menu {
+  min-width: 80px;
+  margin: 0;
+}
+
+/* line 679, ../sass/newCss.scss */
+.result-search-form-wrapper {
+  background: #ededed;
+}
+/* line 681, ../sass/newCss.scss */
+.result-search-form-wrapper h3 {
+  color: #5d5d5d;
+  font-size: 20px;
+  line-height: 1;
+  margin: 5px 0 0;
+  text-transform: uppercase;
+  font-weight: 500;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  padding: 14px 20px;
+}
+/* line 691, ../sass/newCss.scss */
+.result-search-form-wrapper > .inner {
+  padding: 20px 15px;
+}
+/* line 695, ../sass/newCss.scss */
+.result-search-form-wrapper .form-control:focus {
+  border-color: #F65C33;
+}
+/* line 699, ../sass/newCss.scss */
+.result-search-form-wrapper label {
+  color: #5d5d5d;
+  font-weight: 400;
+  margin: 0 0 5px;
+}
+/* line 704, ../sass/newCss.scss */
+.result-search-form-wrapper .tooltip-inner {
+  max-width: 240px;
+}
+
+/* line 708, ../sass/newCss.scss */
+.result-filter-wrapper {
+  background: #FFF;
+  margin-top: 30px;
+}
+/* line 711, ../sass/newCss.scss */
+.result-filter-wrapper h3 {
+  margin: 20px;
+  margin-left: 40px;
+  position: relative;
+  text-transform: uppercase;
+  padding-left: 27px;
+  border-bottom: 1px solid #18bb9c;
+  padding-bottom: 2px;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+/* line 722, ../sass/newCss.scss */
+.result-filter-wrapper h3 .icon {
+  width: 36px;
+  height: 36px;
+  border: 1px solid #18bb9c;
+  position: absolute;
+  display: block;
+  top: -5px;
+  left: -20px;
+  text-align: center;
+  line-height: 34px;
+  border-radius: 50%;
+  color: #18bb9c;
+  font-size: 16px;
+}
+
+/* line 738, ../sass/newCss.scss */
+.filter-toggle {
+  margin: 0;
+  background: #FFF;
+  padding: 0;
+}
+/* line 742, ../sass/newCss.scss */
+.filter-toggle h4 {
+  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 1;
+  font-weight: 500;
+  letter-spacing: 1px;
+  background: #F7F7F7;
+  color: #333;
+  margin: 0;
+  padding: 18px 20px 15px;
+  border-top: 1px solid #E5E5E5;
+  border-bottom: 1px solid #E5E5E5;
+}
+/* line 754, ../sass/newCss.scss */
+.filter-toggle h4:after {
+  font-size: 8px;
+  top: 12px;
+  right: 20px;
+  border: 1px solid #999;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  line-height: 18px;
+  border-radius: 50%;
+  padding-left: 2px;
+  color: #999;
+}
+/* line 768, ../sass/newCss.scss */
+.filter-toggle h4.active {
+  color: #333;
+}
+/* line 771, ../sass/newCss.scss */
+.filter-toggle .another-toggle-inner {
+  padding: 15px 20px;
+}
+/* line 774, ../sass/newCss.scss */
+.filter-toggle .range-slider-wrapper {
+  margin-bottom: -10px;
+}
+
+/* line 778, ../sass/newCss.scss */
+.clear {
+  clear: both;
+  width: 100%;
+  overflow: hidden;
+}
+
+/* line 783, ../sass/newCss.scss */
+.result-paging-wrapper {
+  border-top: 2px solid #E6E6E6;
+  margin-top: 20px;
+  padding-top: 10px;
+}
+/* line 787, ../sass/newCss.scss */
+.result-paging-wrapper ul.paging {
+  float: right;
+}
+
+/* line 792, ../sass/newCss.scss */
+ul.paging li {
+  float: left;
+  margin-left: 2px;
+}
+/* line 795, ../sass/newCss.scss */
+ul.paging li a {
+  color: #636363;
+  padding: 2px 10px;
+}
+/* line 798, ../sass/newCss.scss */
+ul.paging li a:hover {
+  background: #18bb9c;
+  color: #FFF;
+}
+/* line 805, ../sass/newCss.scss */
+ul.paging li.active a {
+  background: #18bb9c;
+  color: #FFF;
+}
+/* line 811, ../sass/newCss.scss */
+ul.paging li.disable a {
+  cursor: not-allowed;
+  background: transparent;
+  color: #636363;
+}
+
+/* line 819, ../sass/newCss.scss */
+.text-center ul.paging {
+  float: none;
+  text-align: center;
+}
+/* line 822, ../sass/newCss.scss */
+.text-center ul.paging li {
+  float: none;
+  margin-left: 2px;
+  display: inline-block;
+}
+
+@media only screen and (max-width: 991px) {
+  /* line 830, ../sass/newCss.scss */
+  .result-status {
+    padding-right: 90px;
+    line-height: 16px;
+  }
+
+  /* line 834, ../sass/newCss.scss */
+  .result-search-form-wrapper {
+    margin-top: -5px;
+  }
+}
+@media (max-width: 767px) {
+  /* line 842, ../sass/newCss.scss */
+  .sort-wrapper > ul > li > a {
+    padding: 5px 10px;
+  }
+  /* line 846, ../sass/newCss.scss */
+  .sort-wrapper > ul > li.text {
+    padding: 5px 10px;
+  }
+
+  /* line 851, ../sass/newCss.scss */
+  .result-paging-wrapper {
+    text-align: center;
+  }
+  /* line 853, ../sass/newCss.scss */
+  .result-paging-wrapper ul.paging {
+    float: none !important;
+    padding: 0;
+    margin: 10px 0 0;
+  }
+  /* line 857, ../sass/newCss.scss */
+  .result-paging-wrapper ul.paging li {
+    float: none;
+    margin: 0;
+    display: inline-block;
+  }
+}
+@media (max-width: 479px) {
+  /* line 868, ../sass/newCss.scss */
+  .pagination > li > a {
+    padding: 8px 12px;
+  }
+  /* line 871, ../sass/newCss.scss */
+  .pagination > li > span {
+    padding: 8px 12px;
+  }
+
+  /* line 879, ../sass/newCss.scss */
+  .sort-wrapper > ul > li > a {
+    border-right: 0;
+    padding: 5px 5px;
+    padding: 5px 5px;
+  }
+  /* line 885, ../sass/newCss.scss */
+  .sort-wrapper > ul > li.text {
+    border-right: 0;
+    padding: 5px 5px;
+    padding: 5px 5px;
+  }
+  /* line 891, ../sass/newCss.scss */
+  .sort-wrapper > ul > li.list-grid a {
+    border-right: 0;
+    border-left: none;
+    padding-bottom: 0;
+    padding-top: 0;
+  }
+}
+/*Result scss end*/
+/* line 903, ../sass/newCss.scss */
+.schemeDetails {
+  transition: all linear 1.5s;
+}
+/* line 906, ../sass/newCss.scss */
+.schemeDetails .mfScheme {
+  opacity: 0.4;
+  padding: 10px 150px;
+  margin: 0px;
+  background: gray;
+}
+
+/**
+ * Hotel
+ */
+/* line 919, ../sass/newCss.scss */
+.top-hotel-grid-wrapper > .row > div {
+  margin: 0 0 20px;
+}
+/* line 924, ../sass/newCss.scss */
+.top-hotel-grid-wrapper > .row.gap-15 > div {
+  margin: 0 0 15px;
+}
+/* line 929, ../sass/newCss.scss */
+.top-hotel-grid-wrapper > .row.gap-10 > div {
+  margin: 0 0 10px;
+}
+
+/* line 934, ../sass/newCss.scss */
+.hotel-item-grid {
+  background: #FFF;
+  border: 1px solid #E6E6E6;
+  -webkit-box-shadow: 0px 0px 12px -3px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0px 0px 12px -3px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 0px 12px -3px rgba(0, 0, 0, 0.15);
+  border-bottom: 2px solid #DEDEDE;
+  transition: all .35s ease-in-out;
+  -webkit-transition: all .35s ease-in-out;
+  height: 100%;
+  min-height: 330px;
+  position: relative;
+  padding-top: 1px;
+  padding-bottom: 12px;
+}
+/* line 948, ../sass/newCss.scss */
+.hotel-item-grid:hover {
+  -webkit-box-shadow: 0px 0px 12px -3px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0px 0px 12px -3px rgba(0, 0, 0, 0.4);
+  box-shadow: 0px 0px 12px -3px rgba(0, 0, 0, 0.4);
+  border-bottom: 2px solid #18bb9c;
+}
+/* line 953, ../sass/newCss.scss */
+.hotel-item-grid:hover a {
+  text-decoration: none;
+}
+/* line 957, ../sass/newCss.scss */
+.hotel-item-grid:hover .image img {
+  transform: scale(1.15) rotate(5deg);
+  -ms-transform: scale(1.15) rotate(5deg);
+  -ms-transform: scale(1.15) rotate(5deg);
+}
+/* line 964, ../sass/newCss.scss */
+.hotel-item-grid .hotel-tag {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  font-size: 13px;
+  line-height: 13px;
+  padding: 5px 10px;
+  z-index: 29;
+}
+/* line 973, ../sass/newCss.scss */
+.hotel-item-grid a {
+  color: #636363;
+  display: block;
+}
+/* line 976, ../sass/newCss.scss */
+.hotel-item-grid a:hover {
+  text-decoration: none;
+}
+/* line 980, ../sass/newCss.scss */
+.hotel-item-grid .image {
+  overflow: hidden;
+  margin: 4px 5px 0;
+}
+/* line 983, ../sass/newCss.scss */
+.hotel-item-grid .image img {
+  transition: all .3s ease-in-out;
+}
+/* line 987, ../sass/newCss.scss */
+.hotel-item-grid .heading {
+  padding: 17px 15px 12px;
+  margin: 0 0 55px;
+}
+/* line 990, ../sass/newCss.scss */
+.hotel-item-grid .heading p {
+  margin-bottom: 5px;
+}
+/* line 994, ../sass/newCss.scss */
+.hotel-item-grid h4 {
+  font-size: 14px;
+  text-transform: uppercase;
+  line-height: 1;
+  margin: 4px 0 2px;
+  font-weight: 500;
+}
+/* line 1001, ../sass/newCss.scss */
+.hotel-item-grid .content {
+  padding: 15px 15px 17px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -2px;
+  border-top: 1px solid #DEDEDE;
+}
+/* line 1008, ../sass/newCss.scss */
+.hotel-item-grid .content:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 2px;
+  right: 50%;
+  width: 1px;
+  background: #DEDEDE;
+}
+/* line 1017, ../sass/newCss.scss */
+.hotel-item-grid .content p.price {
+  line-height: 1;
+  text-align: right;
+}
+/* line 1020, ../sass/newCss.scss */
+.hotel-item-grid .content p.price .block {
+  margin: 0;
+}
+/* line 1023, ../sass/newCss.scss */
+.hotel-item-grid .content p.price .number {
+  font-weight: 500;
+  font-size: 21px;
+  color: #005294;
+  font-family: Open Sans;
+}
+/* line 1031, ../sass/newCss.scss */
+.hotel-item-grid .raty-wrapper {
+  margin-top: 3px;
+}
+
+/* line 1036, ../sass/newCss.scss */
+.bg-white .hotel-item-grid {
+  background: #F2F2F2;
+}
+
+/* line 1041, ../sass/newCss.scss */
+.hotel-item-grid.alt-no-rating .heading {
+  margin: 0 0 20px;
+}
+/* line 1045, ../sass/newCss.scss */
+.hotel-item-grid.alt-no-rating .content p.price {
+  text-align: left !important;
+  position: relative;
+  padding-right: 20px;
+}
+/* line 1049, ../sass/newCss.scss */
+.hotel-item-grid.alt-no-rating .content p.price:after {
+  font-family: Open Sans;
+  content: "\e610";
+  position: absolute;
+  top: 6px;
+  right: -2px;
+  width: 12px;
+  display: block;
+  padding-left: 4px;
+}
+/* line 1059, ../sass/newCss.scss */
+.hotel-item-grid.alt-no-rating .content p.price span.block.mb-5 {
+  display: inline-block !important;
+  margin: 0 !important;
+}
+/* line 1064, ../sass/newCss.scss */
+.hotel-item-grid.alt-no-rating .content:after {
+  display: none;
+}
+
+/* line 1070, ../sass/newCss.scss */
+.min-height-alt .hotel-item-grid {
+  min-height: 315px;
+}
+
+/* line 1074, ../sass/newCss.scss */
+.infobox-hotel-item {
+  width: 260px;
+  background: #FFF;
+  background: rgba(255, 255, 255, 0.9);
+  position: relative;
+  z-index: 9999999;
+  font-size: 13px;
+}
+/* line 1081, ../sass/newCss.scss */
+.infobox-hotel-item a {
+  display: block;
+  color: #636363;
+}
+/* line 1086, ../sass/newCss.scss */
+.infobox-hotel-item .image img {
+  width: 100%;
+  display: block;
+}
+/* line 1092, ../sass/newCss.scss */
+.infobox-hotel-item .tripadvisor-module div {
+  font-size: 13px;
+  font-weight: 400;
+}
+/* line 1098, ../sass/newCss.scss */
+.infobox-hotel-item .tripadvisor-rate i {
+  margin-right: 3px;
+}
+/* line 1102, ../sass/newCss.scss */
+.infobox-hotel-item:after {
+  left: 50%;
+  bottom: -20px;
+  margin-left: -10px;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+  border-color: transparent;
+  border-top-color: #C7C7C7;
+  border-width: 10px;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+}
+/* line 1120, ../sass/newCss.scss */
+.infobox-hotel-item:hover:after {
+  border-top-color: #18bb9c;
+}
+
+/* line 1126, ../sass/newCss.scss */
+.infobox-hotel-item.hotel-item-grid .content {
+  bottom: -2px;
+}
+
+/* line 1130, ../sass/newCss.scss */
+.hotel-item-list-wrapper {
+  padding: 0px;
+}
+/* line 1132, ../sass/newCss.scss */
+.hotel-item-list-wrapper.comboSchemes {
+  background: whitesmoke;
+}
+/* line 1134, ../sass/newCss.scss */
+.hotel-item-list-wrapper.comboSchemes .data1 .hotel-item-list {
+  background: whitesmoke;
+}
+
+/* line 1137, ../sass/newCss.scss */
+.data1 {
+  margin: 0 0 10px;
+}
+/* line 1139, ../sass/newCss.scss */
+.data1:hover {
+  border: 1px solid #18bb9c;
+}
+
+/* line 1143, ../sass/newCss.scss */
+.hotel-item-list {
+  position: relative;
+  min-height: 130px;
+  background: #FFF;
+  border: 1px solid #E6E6E6;
+  -webkit-box-shadow: 0px 0px 12px -3px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0px 0px 12px -3px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 0px 12px -3px rgba(0, 0, 0, 0.15);
+  border-bottom: 2px solid #DEDEDE;
+  transition: all .35s ease-in-out;
+  -webkit-transition: all .35s ease-in-out;
+}
+/* line 1154, ../sass/newCss.scss */
+.hotel-item-list:hover {
+  -webkit-box-shadow: 0px 0px 12px -3px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0px 0px 12px -3px rgba(0, 0, 0, 0.4);
+  box-shadow: 0px 0px 12px -3px rgba(0, 0, 0, 0.4);
+}
+/* line 1159, ../sass/newCss.scss */
+.hotel-item-list a {
+  display: block;
+}
+/* line 1162, ../sass/newCss.scss */
+.hotel-item-list .image {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 5px;
+  bottom: 5px;
+  left: 5px;
+  background-size: cover;
+  background-position: center center;
+}
+/* line 1172, ../sass/newCss.scss */
+.hotel-item-list .content {
+  margin-left: 110px;
+  margin-right: 250px;
+  padding: 20px 20px 0;
+  border-left: 1px solid #E8E8E8;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+/* line 1184, ../sass/newCss.scss */
+.hotel-item-list .heading {
+  margin: 0px;
+}
+/* line 1186, ../sass/newCss.scss */
+.hotel-item-list .heading h4 {
+  font-size: 14px;
+  text-transform: uppercase;
+  line-height: 16px;
+  margin: 0 0 2px;
+  font-weight: 500;
+}
+/* line 1195, ../sass/newCss.scss */
+.hotel-item-list .risk-info p, .hotel-item-list .risk-info h3 {
+  font-size: 13px;
+}
+/* line 1197, ../sass/newCss.scss */
+.hotel-item-list .short-info {
+  line-height: 1.5;
+  margin-bottom: 50px;
+}
+/* line 1201, ../sass/newCss.scss */
+.hotel-item-list .absolute-bottom {
+  position: absolute;
+  bottom: 0;
+  right: 125px;
+  left: 276px;
+  border-top: 1px solid #E8E8E8;
+  padding: 15px 15px 17px;
+  padding-left: 0;
+  line-height: 1;
+}
+/* line 1211, ../sass/newCss.scss */
+.hotel-item-list .absolute-right {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 250px;
+  border-left: 1px solid #E8E8E8;
+  text-align: center;
+  line-height: 1.3;
+}
+/* line 1220, ../sass/newCss.scss */
+.hotel-item-list .absolute-right .star-rate {
+  float: right;
+}
+/* line 1224, ../sass/newCss.scss */
+.hotel-item-list .meta-option {
+  font-size: 13px;
+}
+/* line 1227, ../sass/newCss.scss */
+.hotel-item-list .price-wrapper {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
+/* line 1232, ../sass/newCss.scss */
+.hotel-item-list .price-wrapper .previousStats {
+  width: 100%;
+  border-top: 1px solid #E8E8E8;
+}
+/* line 1235, ../sass/newCss.scss */
+.hotel-item-list .price-wrapper .previousStats th {
+  font-weight: 600;
+}
+/* line 1236, ../sass/newCss.scss */
+.hotel-item-list .price-wrapper .previousStats th, .hotel-item-list .price-wrapper .previousStats td {
+  font-size: 10px;
+  padding: 3px 5px;
+  text-align: center;
+}
+/* line 1240, ../sass/newCss.scss */
+.hotel-item-list .price .number {
+  font-weight: 500;
+  font-size: 28px;
+  color: #005294;
+  font-family: Open Sans;
+}
+/* line 1247, ../sass/newCss.scss */
+.hotel-item-list .star-rate {
+  float: left;
+  margin-top: 5px;
+}
+/* line 1251, ../sass/newCss.scss */
+.hotel-item-list .btn-sm {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+/* line 1254, ../sass/newCss.scss */
+.hotel-item-list .btn-sm.btn-outline {
+  margin: 0;
+}
+
+/* line 1259, ../sass/newCss.scss */
+.hotel-item-list-2 {
+  position: relative;
+  background: #FFF;
+  border: 1px solid #E6E6E6;
+  -webkit-box-shadow: 0 0 12px -3px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 0 12px -3px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 0 12px -3px rgba(0, 0, 0, 0.15);
+  border-bottom: 2px solid #DEDEDE;
+  transition: all .35s ease-in-out;
+  -webkit-transition: all .35s ease-in-out;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+/* line 1271, ../sass/newCss.scss */
+.hotel-item-list-2:last-child {
+  margin-bottom: 0;
+}
+/* line 1274, ../sass/newCss.scss */
+.hotel-item-list-2:hover {
+  -webkit-box-shadow: 0 0 12px -3px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0 0 12px -3px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 0 12px -3px rgba(0, 0, 0, 0.4);
+  border-bottom: 2px solid #18bb9c;
+}
+/* line 1280, ../sass/newCss.scss */
+.hotel-item-list-2 .content {
+  margin-left: 150px;
+  margin-right: 150px;
+  padding: 10px 15px 0;
+  padding-right: 5px;
+  line-height: 1.2;
+  margin-bottom: 50px;
+  border-left: 1px solid #E8E8E8;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+/* line 1292, ../sass/newCss.scss */
+.hotel-item-list-2 .content .short-info {
+  position: relative;
+  padding-left: 60px;
+  line-height: 1.5;
+}
+/* line 1296, ../sass/newCss.scss */
+.hotel-item-list-2 .content .short-info .absolute {
+  font-weight: 700;
+}
+/* line 1301, ../sass/newCss.scss */
+.hotel-item-list-2 .heading {
+  margin: 0 0 12px;
+}
+/* line 1303, ../sass/newCss.scss */
+.hotel-item-list-2 .heading h4 {
+  font-size: 16px;
+  text-transform: uppercase;
+  line-height: 16px;
+  margin: 0 0 5px;
+  font-weight: 500;
+}
+/* line 1310, ../sass/newCss.scss */
+.hotel-item-list-2 .heading p {
+  line-height: 1.2;
+}
+/* line 1312, ../sass/newCss.scss */
+.hotel-item-list-2 .heading p .star-rate {
+  float: left;
+  margin-top: 1px;
+}
+/* line 1318, ../sass/newCss.scss */
+.hotel-item-list-2 .image {
+  float: left;
+  width: 250px;
+}
+/* line 1322, ../sass/newCss.scss */
+.hotel-item-list-2 .total-price {
+  margin-top: 10px;
+  position: absolute;
+  left: 250px;
+  bottom: 10px;
+  padding-left: 20px;
+}
+/* line 1328, ../sass/newCss.scss */
+.hotel-item-list-2 .total-price .price {
+  font-weight: 500;
+  font-size: 26px;
+  color: #005294;
+  font-family: Open Sans;
+}
+/* line 1335, ../sass/newCss.scss */
+.hotel-item-list-2 .absolute-right-top {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 210px;
+  padding: 10px;
+  border-left: 1px solid #E8E8E8;
+}
+/* line 1344, ../sass/newCss.scss */
+.hotel-item-list-2 .absolute-right-bottom {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 210px;
+  padding: 10px;
+  text-align: right;
+}
+/* line 1351, ../sass/newCss.scss */
+.hotel-item-list-2 .absolute-right-bottom p {
+  line-height: 1.2;
+  margin: 0 0 9px;
+}
+
+/* line 1357, ../sass/newCss.scss */
+ul.check-in-out {
+  margin-left: -5px;
+  margin-right: -5px;
+}
+/* line 1360, ../sass/newCss.scss */
+ul.check-in-out li {
+  width: 50%;
+  float: left;
+  text-align: center;
+  line-height: 1;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-bottom: 5px;
+}
+/* line 1368, ../sass/newCss.scss */
+ul.check-in-out li span {
+  display: block;
+  margin: 1px 0;
+}
+
+/* line 1374, ../sass/newCss.scss */
+.check-in-out-item {
+  background: #EBEBEB;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 14px 8px 7px;
+}
+/* line 1379, ../sass/newCss.scss */
+.check-in-out-item .date {
+  font-size: 26px;
+  font-weight: 700;
+  color: #005294;
+  margin: 4px 0;
+}
+/* line 1385, ../sass/newCss.scss */
+.check-in-out-item .day {
+  font-weight: 400;
+  letter-spacing: 1.5px;
+  font-size: 13px;
+  color: #333;
+}
+/* line 1391, ../sass/newCss.scss */
+.check-in-out-item .month-year {
+  color: #999;
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* line 1397, ../sass/newCss.scss */
+a.tripadvisor-module {
+  line-height: 16px;
+  color: #787878;
+  text-decoration: none;
+}
+/* line 1401, ../sass/newCss.scss */
+a.tripadvisor-module:hover {
+  color: #DB542E;
+}
+
+/* line 1405, ../sass/newCss.scss */
+.tripadvisor-module {
+  line-height: 16px;
+}
+/* line 1407, ../sass/newCss.scss */
+.tripadvisor-module .texting {
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 2px;
+  margin-top: 5px;
+  font-family: Open Sans;
+  color: #18bb9c;
+}
+
+/* line 1416, ../sass/newCss.scss */
+.tripadvisor-rate {
+  line-height: 16px;
+}
+/* line 1418, ../sass/newCss.scss */
+.tripadvisor-rate i {
+  color: #B2B2B2;
+  font-size: 13px;
+}
+/* line 1422, ../sass/newCss.scss */
+.tripadvisor-rate i.rated {
+  color: #469C3B;
+}
+
+@media (min-width: 479px) and (max-width: 620px) {
+  /* line 1427, ../sass/newCss.scss */
+  .previousStats {
+    display: none;
+  }
+
+  /* line 1428, ../sass/newCss.scss */
+  .hotel-item-list .absolute-right {
+    width: 200px;
+  }
+
+  /* line 1431, ../sass/newCss.scss */
+  .hotel-item-list .content {
+    margin-right: 200px;
+  }
+}
+@media (min-width: 991px) and (max-width: 1199px) {
+  /* line 1436, ../sass/newCss.scss */
+  .hidden-6m {
+    display: none;
+  }
+
+  /* line 1438, ../sass/newCss.scss */
+  .hotel-item-list .image {
+    bottom: auto;
+    height: 120px;
+    width: 150px;
+  }
+  /* line 1443, ../sass/newCss.scss */
+  .hotel-item-list .content {
+    margin-left: 158px;
+    margin-bottom: 75px;
+    padding: 10px 10px 0;
+    border-left: 1px solid #E8E8E8;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+  }
+  /* line 1453, ../sass/newCss.scss */
+  .hotel-item-list .absolute-bottom {
+    left: 175px;
+  }
+
+  /* line 1457, ../sass/newCss.scss */
+  .hotel-item-list-2 {
+    min-height: 180px;
+  }
+  /* line 1459, ../sass/newCss.scss */
+  .hotel-item-list-2 .content {
+    margin-left: 100px;
+    padding-top: 5px;
+  }
+  /* line 1463, ../sass/newCss.scss */
+  .hotel-item-list-2 .image {
+    width: 100px;
+    margin-top: 5px;
+    margin-left: 5px;
+  }
+  /* line 1468, ../sass/newCss.scss */
+  .hotel-item-list-2 .total-price {
+    left: 100px;
+  }
+
+  /* line 1472, ../sass/newCss.scss */
+  .mfScheme {
+    padding: 10px 100px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  /* line 1477, ../sass/newCss.scss */
+  .hotel-item-list-2 {
+    min-height: none;
+  }
+  /* line 1479, ../sass/newCss.scss */
+  .hotel-item-list-2 .image {
+    width: 130px;
+    margin-top: 5px;
+    margin-left: 5px;
+  }
+  /* line 1484, ../sass/newCss.scss */
+  .hotel-item-list-2 .content {
+    margin-left: 130px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+  }
+  /* line 1489, ../sass/newCss.scss */
+  .hotel-item-list-2 .total-price {
+    position: relative;
+    padding-left: 45px;
+    padding-top: 15px;
+  }
+  /* line 1494, ../sass/newCss.scss */
+  .hotel-item-list-2 .absolute-right-top {
+    position: relative;
+    bottom: auto;
+    width: auto;
+    margin: 5px 0 0;
+    margin-left: 145px;
+    padding: 0;
+    padding-right: 10px;
+    border-left: 0;
+  }
+  /* line 1504, ../sass/newCss.scss */
+  .hotel-item-list-2 .absolute-right-bottom {
+    position: relative;
+    width: auto;
+    margin-top: -25px;
+    margin-left: 135px;
+    text-align: left;
+  }
+
+  /* line 1512, ../sass/newCss.scss */
+  .mfScheme {
+    padding: 10px 50px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  /* line 1517, ../sass/newCss.scss */
+  .hotel-item-grid {
+    min-height: 280px;
+  }
+
+  /* line 1521, ../sass/newCss.scss */
+  .hotel-item-list .image {
+    height: 80px;
+    width: 100px;
+  }
+  /* line 1525, ../sass/newCss.scss */
+  .hotel-item-list .content {
+    margin-left: 108px;
+  }
+  /* line 1528, ../sass/newCss.scss */
+  .hotel-item-list .absolute-bottom {
+    left: 115px;
+  }
+
+  /* line 1532, ../sass/newCss.scss */
+  .mfScheme {
+    padding: 10px;
+  }
+}
+@media (max-width: 479px) {
+  /* line 1537, ../sass/newCss.scss */
+  .previousStats {
+    margin-top: 20px;
+  }
+
+  /* line 1538, ../sass/newCss.scss */
+  .hotel-item-grid {
+    min-height: 345px;
+  }
+
+  /* line 1542, ../sass/newCss.scss */
+  .hotel-item-list .image {
+    margin: auto;
+    margin-top: 170px;
+  }
+  /* line 1546, ../sass/newCss.scss */
+  .hotel-item-list .content {
+    margin: 0;
+    position: relative;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #E8E8E8;
+  }
+  /* line 1552, ../sass/newCss.scss */
+  .hotel-item-list .short-info {
+    margin-bottom: 10px;
+  }
+  /* line 1555, ../sass/newCss.scss */
+  .hotel-item-list .absolute-bottom {
+    position: relative;
+    left: 0;
+    top: 0;
+    bottom: auto;
+    padding: 15px;
+    width: 100%;
+    line-height: 1.4;
+    border-bottom: 1px solid #E8E8E8;
+    padding: 6px 10px 8px;
+  }
+  /* line 1566, ../sass/newCss.scss */
+  .hotel-item-list .absolute-right {
+    position: relative;
+    top: 0;
+    bottom: 0;
+    height: auto;
+    right: 0;
+    left: 48px;
+    width: 60%;
+    text-align: left;
+    line-height: 1.3;
+    padding: 10px 10px 0;
+    margin: auto;
+  }
+  /* line 1578, ../sass/newCss.scss */
+  .hotel-item-list .absolute-right .star-rate {
+    float: left;
+  }
+  /* line 1582, ../sass/newCss.scss */
+  .hotel-item-list .meta-option {
+    position: relative;
+    top: 0;
+    right: 0;
+    left: 0;
+    font-size: 13px;
+    width: 100%;
+  }
+  /* line 1589, ../sass/newCss.scss */
+  .hotel-item-list .meta-option .tripadvisor-module {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 15px;
+  }
+  /* line 1594, ../sass/newCss.scss */
+  .hotel-item-list .meta-option .tripadvisor-module > div {
+    display: inline-block;
+  }
+  /* line 1599, ../sass/newCss.scss */
+  .hotel-item-list .price-wrapper {
+    position: relative;
+    bottom: 10px;
+    right: auto;
+    left: 0;
+    text-align: center;
+    width: 100%;
+  }
+  /* line 1606, ../sass/newCss.scss */
+  .hotel-item-list .price-wrapper p.price {
+    margin: 0 0 5px;
+  }
+  /* line 1609, ../sass/newCss.scss */
+  .hotel-item-list .price-wrapper span.block {
+    display: inline-block !important;
+  }
+
+  /* line 1615, ../sass/newCss.scss */
+  .hotel-item-list-2 .image {
+    width: 100%;
+    margin-top: 5px;
+    margin-left: 5px;
+    padding-right: 10px;
+    float: none;
+  }
+  /* line 1622, ../sass/newCss.scss */
+  .hotel-item-list-2 .content {
+    margin: 0;
+    padding: 10px 5px 0;
+  }
+  /* line 1626, ../sass/newCss.scss */
+  .hotel-item-list-2 .total-price {
+    left: 0;
+    padding: 10px 0 0;
+    padding-left: 5px;
+  }
+  /* line 1631, ../sass/newCss.scss */
+  .hotel-item-list-2 .absolute-right-top {
+    margin-left: 5px;
+    padding: 0;
+    padding-right: 5px;
+  }
+  /* line 1636, ../sass/newCss.scss */
+  .hotel-item-list-2 .absolute-right-bottom {
+    margin-top: -25px;
+    margin-left: 0;
+    padding-left: 5px;
+  }
+
+  /* line 1642, ../sass/newCss.scss */
+  .mfScheme {
+    padding: 10px;
+  }
+}
+/*Hotel scss end*/
+/* line 1647, ../sass/newCss.scss */
+.font-icon-radio input[type="radio"] + label, .font-icon-checkbox input[type="checkbox"] + label {
+  background: none;
+  position: relative;
+  padding-left: 10px;
+}
+
+/* line 1652, ../sass/newCss.scss */
+input.checkbox {
+  border: none;
+}
+
+/* line 1655, ../sass/newCss.scss */
+input[type="radio"], input[type="checkbox"] {
+  float: left;
+  width: 18px;
+}
+
+@media (max-width: 479px) {
+  /* line 1660, ../sass/newCss.scss */
+  .col-xss-12 {
+    width: 100%;
+  }
+
+  /* line 1663, ../sass/newCss.scss */
+  .col-xss-7 {
+    width: 58.33333333%;
+  }
+
+  /* line 1666, ../sass/newCss.scss */
+  .col-xss-6 {
+    width: 50%;
+  }
+
+  /* line 1669, ../sass/newCss.scss */
+  .col-xss-5 {
+    width: 41.66666667%;
+  }
+
+  /* line 1672, ../sass/newCss.scss */
+  .col-xss-4 {
+    width: 33.33333333%;
+  }
+
+  /* line 1675, ../sass/newCss.scss */
+  .col-xss-3 {
+    width: 25%;
+  }
+}
+/* line 1679, ../sass/newCss.scss */
+.paddingLeft2 {
+  padding: 0 2px;
+}
+
+/* line 1683, ../sass/newCss.scss */
+.filter-toggle {
+  /*! margin: 0; */
+  /*! background: #FFF; */
+  /*! padding: 0; */
+}
+
+/* line 1689, ../sass/newCss.scss */
+.filter-toggle h4 {
+  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 1;
+  font-weight: 500;
+  letter-spacing: 1px;
+  background: #F7F7F7;
+  color: #333;
+  margin: 0;
+  padding: 18px 20px 15px;
+  border-top: 1px solid #E5E5E5;
+  border-bottom: 1px solid #E5E5E5;
+}
+
+/* line 1703, ../sass/newCss.scss */
+.filter-toggle h4.active {
+  color: #333;
+}
+
+/* line 1707, ../sass/newCss.scss */
+.filter-toggle h4:after {
+  font-size: 8px;
+  top: 12px;
+  right: 20px;
+  border: 1px solid #999;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  line-height: 18px;
+  border-radius: 50%;
+  padding-left: 2px;
+  color: #999;
+}
+
+/* line 1721, ../sass/newCss.scss */
+.filter-toggle .another-toggle-inner {
+  padding: 15px 20px;
+}
+
+/* line 1725, ../sass/newCss.scss */
+.filter-toggle .range-slider-wrapper {
+  margin-bottom: -10px;
+}
+
+/* line 1729, ../sass/newCss.scss */
+.cart .cartItem {
+  margin: 2px;
+  cursor: pointer;
+  background: white;
+  color: #333333;
+  border-color: #dddddd;
+  padding-bottom: 0;
+}
+/* line 1736, ../sass/newCss.scss */
+.cart .cartItem.active:hover {
+  box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.3);
+  background: white;
+  color: #333333;
+  border-color: #dddddd;
+}
+/* line 1742, ../sass/newCss.scss */
+.cart .cartItem .list-group-item-heading {
+  padding-bottom: 5px;
+  display: inline-block;
+}
+/* line 1746, ../sass/newCss.scss */
+.cart .cartItem .badge {
+  margin-top: 5px;
+}

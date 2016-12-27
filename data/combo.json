@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 12,
+    "ComboName": "Beat the FD 1",
+    "Risk": "Medium",
+    "Horizon": "0 - 7 Days",
+    "TaxSaving": "N"
+  },
+  {
+    "Id": 11,
+    "ComboName": "Safe Cocoon 1",
+    "Risk": "No Risk",
+    "Horizon": "0 - 7 Days",
+    "TaxSaving": "N"
+  }
+]

@@ -1,0 +1,640 @@
+.popover-content {
+    width: 20em;
+}
+.summary{
+	
+	.manage_account{
+		h1{
+				line-height: 35px;
+				padding: 10px 20px;
+				color: #17406B;
+				@include fontsb(21);
+			}
+		.account_controls{
+			.deposit_div{
+				@include fontm(14);
+				.deposit_box{
+					width: 100px;
+					float: left;
+					position: relative;
+					form{
+						padding: 15px 0px;
+						label{
+							padding-bottom: 10px;
+						}
+					}	
+						
+					.show_form{
+						display: block;
+					}
+				}
+				.btn-info{
+					margin-right: 5px;
+				}
+				button[type="submit"]{
+					width: 100%;
+				}
+				.deposit_button{
+					background-color: #7FB800;
+					color: #fff;
+				}
+			}
+
+		}
+	}
+	.modal-dialog{
+	&.add-goal{
+		.modal-header{background-color:#2C3E51; color:white; font-weight:600; text-transform:uppercase;}
+		.modal-body{overflow-y:scroll ; background-color:#ebebeb; height:23em;&.step-2{.target{padding:15px}}}
+		.modal-footer{background-color:#ebebeb;}
+		width:70%;
+		top:5em;
+		.btn-default{&.submit-goal{background-color:#2C3E51;color:white;} box-shadow:none; &.select-goal{p{@include fontl(14);} width:11.5em; &.active, &:active,&:focus,&:hover{background-color:#2C3E51;color:white; font-weight:700;} }}
+		.goals{width:100%; 
+			.row{
+			padding:10px 0; 
+			.goal-header{@include fontl(16);font-weight:500;}
+			} 
+			}
+		input[type="radio"]{position: absolute;
+		clip: rect(0px, 0px, 0px, 0px);
+		pointer-events: none;
+		}
+		&.focus{outline:none;}
+		input[type="text"]{
+			font-size:14px;
+			border:1px solid #18bb9c;
+			border-radius:4px;
+			padding:5px;
+			}
+		
+		}
+		}
+		
+	.bottom-table{
+	.tab-content{margin-top:0.5em; h3{font-size:15px; font-weight:600; padding:2em 0 0;} }
+	.bottom-nav-tabs li{width:25%; border:none; color:white;  background: gainsboro; & a{color:#000; font-weight:600;} 
+	&.active a, &.active a:focus, &.active a:hover{color:white;background-color:#18bb9c;}}
+		padding:0px !important;
+		margin:1em auto; border:2px solid #DDD; border-radius:4px;
+		th {
+			&:first-child{
+				width: auto;
+			}
+		}
+	table{
+		border: 1px solid rgb(204, 204, 204);
+		width: 100%;
+		font-size:12px;
+		th {
+			font-size:15px;
+			text-align:center;
+			background:#18bb9c; color:white;
+			border: 2px solid rgb(204, 204, 204);
+			padding:3px;
+			&:first-child{
+				width: 250px;
+			}
+		}
+		margin-top: 20px;
+		}
+		
+		td{
+		padding:5px;
+		border: 1px solid rgb(204, 204, 204);
+		}}
+}
+/* Overview */
+.panel-default{
+	margin-top: 30px;
+	.chartdiv{
+		min-height: 300px;
+	}
+}
+.overview_account{
+	.earnings{
+		.earnings_div{
+			h3{
+				@include fontl(14);
+				margin-left: 10px;
+			}		
+			h1{
+				@include fontm(32);
+			}
+			text-align:center;
+			
+		}		
+	
+	}
+	.losses{
+		p {
+			@include fontl(14);
+
+			&:first-child{
+				color: #1F93EF;
+			}
+		}
+	}
+	#earning_info{
+		display: none;
+		h4{
+			@include fontl(12);
+		}
+	}
+}
+
+
+/* retirement Plan */
+#retirement_info{
+		display: none;
+		padding-top:2em;
+	}
+.retirement_plan_actions{
+	
+	&>div.edit_plan {
+		padding:0px;
+		span{
+			cursor: pointer;
+		}
+		h2{
+			margin: 0px 15px 0px 10px;
+			@include fontsb(16);
+		}
+		button{
+			border-color:#1F93EF;
+			color: #1F93EF;
+			&:hover {
+				background-color: #1F93EF;
+				color: #fff;
+			}
+		}		
+	}
+	.deposit{
+			text-align:center;
+			p{
+				@include fontl(14);
+				
+				&.above{font-weight:300;}
+			}		
+			h1{
+				@include fontm(32);
+			}
+			@media (min-width: 768px) and (max-width: 991px){#target1{height:38px;} }
+			.plan_values{@include fontm(22)}
+		}
+	button {
+			padding: 2px 12px;		
+			
+		}
+
+		.deposit_status{
+			a{
+				color: #999;
+				display: block;
+				padding: 10px 0px;
+				@include fontl(14);
+			}
+		}
+
+}
+
+/* basket_balance */
+.basket_balance{
+	display:none;
+}
+
+
+
+/* POrtfolio Page */
+.portfolio{
+	.projected-gap{
+		text-align:left;
+		text-transform:uppercase;
+		input{
+		width:10em; 
+		border:2px solid gray;
+		margin:10px 0 10px 10px; 
+		border-color:#ddd; 
+		border-radius:4px; 
+		padding:5px 0;
+		}}
+	.panel-default{
+	margin-top: 0px;
+	}
+	.panel {
+		.Current-Value.\32 {padding-left:12.5em;}
+		.Current-Value span{padding-left:1em;font-weight:700;}
+		.panel-fake-heading{			
+			padding: 10px 15px;
+			border-bottom: 1px solid #DDD;
+			border-top-left-radius: 3px;
+			border-top-right-radius: 3px;
+			background:#2C3E51;
+			.year, .amount{text-align:center; color:white;h3{color:#aaa;} }
+			p,h2{
+				@include fontsb(16);
+			}
+			h3{
+				@include fontm(14);
+			}
+			.selected-goal{padding:10px 0; a{color:#18bb9c;text-decoration:none; text-transform:uppercase; font-weight:600;}}
+			
+		}
+		.panel-body{
+			&.main-panel{background:#ebebeb;}
+			p {
+				@include fontl(14);
+			}
+			.portfolio_small_info {
+				table{
+					width: 100%;
+					margin-top: 20px;
+					//comment
+
+				}
+				td{
+					@include fontm(14);
+					padding-bottom: 10px;
+				}
+				button {
+					color: #1F93EF;
+					border-color: #1F93EF;
+					width: 80%;
+					&:hover{
+						background-color:#1F93EF;
+						color: #fff;
+					}
+				}
+			}
+			.rebalance .panel-body{
+				&>div {
+					&>span {
+						@include fontl(14);
+					}
+
+					
+				}
+				&>p{
+						@include fontl(12);
+						padding: 5px 15px;
+					}
+				.drift_amount{
+					color: #1F93EF; 
+				}
+			}
+			.portfolio_large_info{
+				.Current-Value{float:right;}
+				.heading {
+					padding: 20px 15px;
+					a:focus, a:hover {
+						text-decoration: none;
+					}
+				}
+				table {
+					&#current_investment td{padding:4px 0; &:first-child{padding-left:5px;}}
+					width: 100%;
+					th {
+						@include fontsb(14);
+						border-bottom: 1px solid rgb(204, 204, 204);
+						padding:6px;
+						padding-bottom: 15px;
+						&:first-child{
+							width:35%;
+						}
+					}
+					td,td p, td a {
+						@include fontm(15);
+						color: #696969;
+						text-decoration: none;
+						padding-bottom:5px;
+						line-height: auto;											
+					}
+					td{
+						padding: 6px;
+						vertical-align: middle;
+						&:first-child{
+							padding-left:5px;
+						}
+						.btn{
+							padding:5px 20px;
+							margin-right: 5px;
+						}
+						.btn-primary{
+							background-color:#2C3E51;
+							border-color:#2C3E51;
+							&:hover{
+								background-color:#233140;
+							}
+						}
+						.btn-default{
+							border-color:#2C3E51;
+							color: #2C3E51;
+						}
+					}
+					tfoot {
+						border-top: 1px solid rgb(204, 204, 204);
+						td {
+							padding-top: 15px;
+						}
+					}
+
+					td a{
+						display: inline-block;
+						&:hover {
+							color: #3f3f3f;
+							text-indent: 5px; 
+							text-decoration: none;
+						}
+					}
+					
+					.tr_fund td{
+						font-size: 13px;
+						text-transform: uppercase;
+						color:#000;
+						padding-left:0;
+					}
+					.action{
+						width:100px;
+						background-color:#2C3E50;
+						color:white;
+					}
+					
+				#new_investment{
+					.add_scheme{ &a{ color:red !important;}}
+					}
+					tr{th{padding-top:1em;}}
+				}/* end of table */
+
+				.modal_container{
+					margin-top: 30px;
+					.modal-header h1{
+						color: #1F93EF;
+						@include fontsb(16);
+					}
+					.modal-footer{							
+						text-align: center;
+						button{
+							background-color:#1F93EF;
+							color: #fff;
+						}
+					}
+					.btn-group {
+						width: 100%;
+						button{
+						width: 33%;
+						&:hover{
+							background-color:#fff;	
+								h5,h6 {
+									color: #1F93EF;
+								}
+								}
+						h5,h6{
+								@include fontl(12);
+								color: #686868;
+								padding: 4px 0px;				
+
+							}
+					}
+					
+					}
+
+					
+				}
+			}
+		}
+	}
+}
+
+/* Performance */
+.box{
+	    display: none;		
+		width:80%;	
+		margin-top: 35px;
+		margin-left: 30px;
+    }
+.performance{
+	.panel {
+		a,a:hover{
+			text-decoration: none;
+			@include fontm(14);			
+		}
+		table {
+			min-width: 70%;
+			margin-top: 0px;
+			td{
+				border-bottom:1px solid #DDD;
+				padding: 10px 0px;
+				a,a:hover {
+					color: #1F93EF;
+				}	
+			}
+		}
+		.right-side-graph{
+			table {
+				th {
+					@include fontsb(14);
+				}
+				td {
+					@include fontm(14);
+				}
+			}
+			p{
+				@include fontm(14);
+			}
+			h1 {
+				@include fontsb(14);
+				margin-bottom: 20px;
+			}
+			.order{
+				margin-top: 30px;
+				div{
+					margin: 10px 0px;
+					button{
+						margin-right: 10px;
+					}
+				}
+			}
+			@media (min-width: 1100px) {#chartdiv, #chartdiv1, #chartdiv2{width: 80%; height: 350px;}}
+			@media (max-width: 1100px) {#chartdiv, #chartdiv1, #chartdiv2{width: 100%; height: 300px;}}
+		}
+	}
+
+}
+
+/* for sign up page */
+.sign-up {
+	.info-container{
+	}
+
+	@include fontsb (16);
+	.info_bubble {
+		.info_icon{			
+			height: 60px;
+			width: 40px;
+			margin: 25px auto 16px;
+			background-image: url("../images/small_icons-s33d3f5b6ee.png");
+			background-repeat: no-repeat;
+			background-position: 0px -197px;
+		}
+		border-radius: 50%;
+		text-align: center;
+		background-color:#17ba9b;
+		overflow: hidden;
+		width: 265px;
+		height: 265px;
+		color: #fff;
+		margin:0 auto;
+		&>p {
+			width: 85%;
+			margin: 28px auto;
+		}
+
+		.info_questions{
+			background-color: #12756a;
+			text-align: center;
+			padding:15px 0px 25px 0px;
+			position: relative;
+
+			p{
+				padding: 0px;
+				margin: 5px 0 20px;
+			}
+			
+			&:hover {
+				bottom: 165px;
+			}
+		}
+	}
+	form{
+		&.one-step {
+			z-index: 0;
+		}
+		h1{
+			margin:10px 0px;
+		}
+		p{
+			@include fontm(14);
+			margin:5px 0px 35px;
+		}
+
+		div.name_field {
+			margin:0px;
+			&>div{
+				padding:0px;
+				input[type="text"]{
+					width: 85%;
+					min-width: 250px;
+					max-width: 270px;
+				}
+			}
+		}
+		label {
+			display: block;	
+			@include fontm(14);		
+			margin:0px;
+			&.error{
+				@include fontm(12);
+				color: #ff4c4c;
+				margin-bottom: 10px;
+
+			}
+		}
+		input[type="radio"]+label{
+			display: inline-block;
+			margin-bottom: 0px;
+
+		}
+		input[type="text"],input[type="password"],input[type="email"] {
+				display: block;				
+				margin-bottom: 20px;
+				border:none;
+				border-bottom: 1px solid #adb4bb;
+				color: #17ba9b;
+				width: 45%;
+				min-width: 250px;
+			}
+			input {
+				@include fontl(14);
+				padding-top: 2px;
+			}
+			h4{
+				width: 49%;
+				display: inline-block !important;				
+				margin: 15px 0px;
+				font-size: 13px;
+				@include fontl(12);
+				text-align: center;
+				
+			}
+	}
+.modal{display:block; position:relative ; overflow:visible;}
+.one-step{
+	overflow:visible;
+	border:none;
+	box-shadow:none;
+		.form-footer{
+			padding: 15px;
+			padding-right:0;
+			text-align: right;
+			border:none;	
+			.btn-primary{
+				background-color:#17ba9b;
+				border-color:#17ba9b;
+				padding: 6px 30px;
+				margin-bottom: 30px;
+			}		
+		}
+}	
+
+ 
+
+}
+.add-scheme{
+	.add-scheme-tab{
+		margin-top:2em;
+		border:1px solid #ddd;
+		.nav-tabs li{
+		width:50%; border:none; color:white; 
+		& a{color:#000; font-weight:600;}  &.active a, &.active a:focus, &.active a:hover{color:white;background-color:#18bb9c;}}
+		p{@include fontl(14);} 
+		#all-funds{
+			label, p, span{@include fontl(14);}
+			p{padding:10px;}
+			select{width:13em; border:1px solid #ddd;padding:5px;}
+			.select-amc{padding: 2em 0em 1em;}
+			.show-schemes{padding: 2em 1em 1em; border-top:1px solid #ddd; margin:0;}
+			}
+		}
+	.search-results{
+		 table{
+		border: 2px solid rgb(204, 204, 204);
+		width: 100%;
+		font-size:12px;
+		th {
+			font-size:15px;
+			text-align:center;
+			background:#18bb9c; color:white;
+			border: 2px solid rgb(204, 204, 204);
+			padding:3px;
+			&:first-child{
+				width: 250px;
+			}
+		}
+		margin-top: 20px;
+		
+		td{
+		padding:5px;
+		text-align:center;
+		border: 1px solid rgb(204, 204, 204);
+	}}
+}
+}
+.payment{
+margin-top:6em;
+.secure-pay-head{
+	h3{@include fontl(16);padding:10px;span{color:#18bb9c;} font-weight:600;}
+	h4{@include fontl(32);}
+	h5{@include fontl(14);color:gray;}
+	img{padding:0 15px;}}
+	.secure-pay-body{img{padding:12px 12px 3px;} }
+}

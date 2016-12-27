@@ -1,0 +1,755 @@
+@mixin fontsb($size){
+ font: 600 $size+px Open Sans;
+}
+
+@mixin fontm($size){
+ font: 400 $size+px Open Sans;
+}
+
+@mixin fontl($size){
+ font: 300 $size+px Open Sans;
+}
+
+select, input, button, .btn{outline:none !important;}
+.home, .what-we-do, .about-us, .benchmark, .safe, .transparent, .funds, .policy, .tlh, .why-fino, .career{
+	h1, h2, h3, h4, h5, h6 {font-family: Montserrat; font-weight:700; text-transform:uppercase; padding:1em 0;}
+	h2{font-size:30px}
+	h3{font-size:26px;}
+	h4{font-size:20px;}
+	overflow-x:hidden;
+}
+
+.home{
+overflow-x:hidden;
+font-family: Montserrat;
+h3{padding-bottom:3px;}
+	@media(min-width:768px) {
+    .navbar.navbar-default.navbar-fixed-top {
+	position:fixed;
+        padding: 10px 0;
+		}
+	}
+	#intro{
+		padding:4em 0;
+		h2{font-size:30px;}
+		text-align: center;
+		background: #18bb9c none repeat scroll 0% 0%;
+		min-height: 450px;
+		color: #FFF;
+		width: 100%;
+		margin-top: 60px;
+		img{margin: 3% auto 2%;}
+		}
+	.intro-text{
+		
+		&.get-started{padding-top:7em; }
+		h2{padding:0.15em 0;}
+		& p{
+			text-transform: uppercase;
+			color: #FFF;
+			font-weight: 400;
+			font-family: Open Sans;
+			margin: 4px 0 8px;
+			font-size:16px;
+		}
+		.details{
+		position: relative;
+		.onboarding-mobile-form{width:75%; margin:auto;
+			fieldset{font-size:1em;
+			input, .retirement-status, .marrital-status{width:100%;margin-top: 4px;  border:none; font-family:Open Sans;}
+			.income{margin-bottom:0; margin-top: 4px; border:1px solid #ccc; input{width:90%;margin-top: 0px; outline:none; }}
+			input{padding: 15px 7px; text-align:left;}
+			.form_options{width:50%; color:#adadad; padding:15px 7px; &.active, &:active, &:hover, &:focus{background:#18bb9c; color:white;} }
+			#kids-mob {
+				width: 100%;
+				border: 1px solid rgb(204, 204, 204);
+				margin-bottom: 0;
+				padding: 12px 35px;
+				&.minimal{background-position: calc(100% - 50px) calc(1.2em + 2px), calc(100% - 45px) calc(1.2em + 2px), calc(100% - 2.5em) ; options{padding-left:2em;}}
+				
+			}
+		}
+		#get_start{width:100%; margin:15px 0;}
+		}
+		.edit-age {
+			
+			display: inline-block;
+			padding:12px 0px;
+		}
+		}
+	}
+	input{color:#18bb9c; border:none; border-bottom:1px solid gray; text-align:center; }
+	select{border:none; border-bottom:1px solid gray;}
+	.how-it-works{
+	padding:4em 10%;
+	p{font-size:18px;}
+	}
+#portfolio {
+	padding:4em 0;
+	&.container{padding:10% 20% 0; h3{color:#18bb9c;}}
+    .portfolio-item {
+        margin: 0 0 15px;
+        right: 0;
+        .portfolio-link {
+            display: block;
+            position: relative;
+            max-width: 400px;
+            margin: 0 auto;
+            .caption {
+                background: #18bb9c;
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                opacity: 0;
+                transition: all ease 0.5s;
+                -webkit-transition: all ease 0.5s;
+                -moz-transition: all ease 0.5s;
+                &:hover {
+                    opacity: 1;
+                }
+                .caption-content {
+                    width: 100%;
+                    height: 20px;
+                    font-size: 20px;
+                    text-align: center;
+                    top: 1.4em;
+					padding:10% 2%;
+                    margin-top: -12px;
+                    color: white;
+                    i {
+                        margin-top: -12px;
+                    }
+                    h3,
+                    h4 {
+                        margin: 0;
+                    }
+                }
+				@media(max-width:1100px){position:absolute;}
+            }
+        }
+    }
+    * {
+        z-index: 2;
+    }
+}
+
+@media(min-width:767px) {
+    #portfolio {
+        .portfolio-item {
+            margin: 0 0 30px;
+        }
+    }
+}
+
+hr.star-light,
+hr.star-primary {
+    padding: 0;
+    border: none;
+    border-top: solid 5px;
+    text-align: center;
+    max-width: 250px;
+    margin: 25px auto 30px;
+}
+
+hr.star-light:after,
+hr.star-primary:after {
+    content: "\f005";
+    font-family: FontAwesome;
+    display: inline-block;
+    position: relative;
+    top: -0.8em;
+    font-size: 2em;
+    padding: 0 0.25em;
+}
+
+hr.star-light {
+    border-color: white;
+	line-height: 1.42857;
+}
+
+hr.star-light:after {
+    background-color: #18BC9C;
+    color: white;
+}
+
+hr.star-primary {
+    border-color: #2C3E50;
+	line-height: 1.42857;
+}
+
+hr.star-primary:after {
+    background-color: white;
+    color: #2C3E50;
+}
+
+}
+.what-we-do{
+	font-family: Montserrat;
+	& p{
+		padding: 1em 0.6em;
+		}
+	#we_do {
+		background-image: url("../images/we_do.png");
+	}
+	& #get_start{
+		&:hover {
+			background:#fff; 
+			color:#18bb9c;
+			}
+		}
+	& #beat{
+		background-color:#2C3E50;
+		padding:3% 10%;
+		color:white;
+		text-align:center;
+		h3{padding-bottom: 0;}
+		}
+	& #we_do1{
+		width:100%;
+		padding:0 15%;
+		h3{color:#2C3E50;}
+		}
+	& #we_do2{
+		background:#2C3E50;
+		color:white;
+		width:100%;
+		padding:0 15%;
+		}
+	& .col-md-8{padding:6% 3%;}
+	& .col-md-4{
+		& img{
+			padding:4em 30%;
+			}
+			}
+}
+.btn-outline {
+	margin: 15px;
+	border: 2px solid #18bb9c;
+	font-size: 16px;
+	text-transform:uppercase;
+	padding:6px 15px;
+	color: #fff;
+	background:#18bb9c;
+	transition: all 0.3s ease-in-out 0s;
+	&:hover{background:#fff; color:#18bb9c;}
+	&.get-start{ border-color: #fff; color:#18BC9C; padding:5px 15px; background:#fff; box-shadow: 5px 5px 2px #888; }
+	&.learn-more{ border-color: #fff; padding:5px 15px;}
+}
+
+@media (max-width: 1000px) {
+    .navbar-header {
+        float: none;
+		
+    }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-fixed-top {
+		top: 0;
+		overflow:hidden ;
+		border-width: 0 0 1px;
+	}
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+		margin-top: 7.5px;
+	}
+	.navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in{
+  		display:block !important;
+	}
+}
+.benchmark{
+margin-top:-25px;
+h2{font-size:30px}
+h3{ margin-top:-6%}
+h4{font-size:20px;}
+section{
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		background-position: center center;
+		min-height:400px;
+		padding:10%;
+		&#logo{background-image: url("../images/benchmark-logo.jpg"); margin-top:-21px; h3{color:white;margin-top:0} h4{font-size:18px;padding-left:2em;} }
+		&#goal-story{
+		.row{width: 70%;margin: auto;}
+			padding:4em;
+			background:black; h3{color:white; margin-top:0;}
+			.chart {
+				position:relative;
+			}
+
+			canvas {
+				display: block;
+				position:absolute;
+				top:1.6em;
+				left:1.6em;
+			}
+			span {
+				color:#fff;
+				display:block;
+				line-height:205px;
+				text-align:center;
+				width:220px;
+				font-size:30px;
+				font-weight:600;
+			}
+			}
+		&#invest{background:black; h3{color:white;} #chartdiv5{width: 60%; height: 400px;margin:auto;}}
+		&#age-story{
+			background:#ebebeb;
+			.glyphicon{
+				padding:0px 5%;
+				&.glyphicon-chevron-left{margin-left:35%}
+				}
+			
+		}
+		}
+#msform {
+& fieldset {
+#chartdiv, #chartdiv2, #chartdiv3{width: 60%; height: 400px;margin:auto;}
+width: 100%;
+&:not(:first-of-type) {
+display: none;
+}
+}}
+}
+.about-us{
+h2{font-size:30px}
+h3{font-size:26px;}
+h4{font-size:20px;}
+	#mission{
+		background-image: url("../images/about-us-logo.jpg");
+		h3{padding-top:9%;}
+		p{padding: 0 12%; color:white}}
+	#contact-us{padding:2em 0; .container{padding:2em 0;}; background:#2e2e2e; color:white; .colour{color:#18bb9c;} h3,h4{padding:0.5em 0;} h4{font-weight:500; font-size:20px;} }
+	#team{
+		h3,h4{padding:0.2em 0;}
+		h4, .description{color:#818181;}
+		.colour{color:#18bb9c;}
+		padding:2em 0;
+		h5{color:#2C3E51;}
+		.row{padding:0 10%;
+			p{padding:5px 1.5em;}
+			}
+		
+		}
+	#map {
+	width: 100%;
+	height: 250px;
+	border-radius:10px;
+	}
+	}
+.faq{
+margin-top:5.5em;
+#faq{
+	padding-bottom:15em;
+	#accordion{padding:0 15%;}
+	.panel{margin-bottom:10px}
+	.panel-default{margin-top:5px}
+	a{text-decoration:none}
+	.panel-heading{
+		padding:10px
+		& h4{color:black}
+		}
+	.panel-body {padding:15px 25px; p{font-size:15px}}
+
+	}
+}
+									/* Easy and Transparent*/
+
+.logo{
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		background-position: center center;
+		height:450px;
+		margin-top:3.5em;
+		h3{font-family: Montserrat;font-size:30px; text-transform:uppercase; font-weight:700; padding: 14% 0px 10px; color:#fff; }
+		p{opacity:0.7;}
+}
+.easy{
+	.seven-col{padding:5% 0; width:90%;  }
+	#easy{
+		background-image: url("../images/easy-logo.jpg");
+	}
+	@media (min-width: 768px){
+	  .seven-cols .col-md-1,
+	  .seven-cols .col-sm-1,
+	  .seven-cols .col-lg-1  {
+		width: 100%;
+		*width: 100%;
+		padding:15px;
+		h3{font-size:20px; padding:10px 1px; color:#18bb9c;}
+		p{font-size:20px; padding:2px 5px;}
+	  }
+	}
+
+	@media (min-width: 1000px) {
+	  .seven-cols .col-md-1,
+	  .seven-cols .col-sm-1,
+	  .seven-cols .col-lg-1 {
+		width: 14.285714285714285714285714285714%;
+		*width: 14.285714285714285714285714285714%;
+		padding:1px;
+		h3{border-top:2px dotted gray; font-size:13px;  padding:10px 1px; color:#18bb9c;}
+		p{font-size:13px; padding:2px 5px;}
+	  }
+	}	 
+	@media (min-width: 1300px) {
+	  .seven-cols .col-md-1,
+	  .seven-cols .col-sm-1,
+	  .seven-cols .col-lg-1 {
+		width: 14.285714285714285714285714285714%;
+		*width: 14.285714285714285714285714285714%;
+		padding:0.5px;
+		h3{border-top:2px dotted gray; font-size:14px; padding:10px 1px; color:#18bb9c;}
+		p{font-size:15px; padding:2px 8%;}
+	  }
+	}
+}
+
+.safe{
+		#safe{
+		background-image: url("../images/safe-logo.jpg");
+	}
+	.safe-items{
+		padding:5% 15%;
+		h3{font-size:15px;  padding:10px 1px; color:#18bb9c;}
+		p{font-size:15px; padding:2px 8%;}
+	}
+
+}
+.transparency{
+		#transparency{
+		background-image: url("../images/transparncy-logo.jpg");
+		}
+		.comparision{padding-bottom:4em;}
+		.row-head{
+			padding:5% 0;
+			#left{font-size:18px; text-transform:uppercase; font-weight:900; color:#f86637;}
+			#right{font-size:18px; text-transform:uppercase; font-weight:900; color:#18bb9c;}
+		}
+		.row{
+		h3{font-size:15px; padding:10px 1px; color:#18bb9c;}
+		p{font-size:15px; padding:2px 0;}
+		.right{text-align:right; padding-right:0;h3{color:#f86637}}
+		.left{text-align:left; padding-left:0; border-left:2px dotted gray;}
+		
+	}}
+
+.funds{
+	.search-invest-select{height: 16em; .panel{font-size:13px; border:1px solid #808080; padding:6px; margin-bottom:0; width:90%; border-radius:5px} }
+	.top-table{
+	.tab-content{margin-top:0.5em; h3{font-size:15px; font-weight:600; padding:2em 10px 0;} }
+	.nav-tabs{ background:#ddd;
+	li{width:25%; border-left:2px solid white;
+	color:white; & a{color:#000; font-weight:600;margin: 0;font-size: 0.85em;}  
+	&.active a, &.active a:focus, &.active a:hover{color:white;background-color:#18bb9c;}}}
+		.top-table-content{
+		
+
+		height: 16em;
+		border:1px solid #ddd;
+		overflow-y: scroll;}}
+	table{
+		border: 2px solid rgb(204, 204, 204);
+		width: 100%;
+		font-size:12px;
+		th {
+			font-size:15px;
+			text-align:center;
+			background:#18bb9c; color:white;
+			border: 2px solid rgb(204, 204, 204);
+			padding:3px;
+			&:first-child{
+				width: 35%;
+			}
+		}
+		margin-top: 20px;
+		}
+		td{
+		padding:5px;
+		border: 1px solid rgb(204, 204, 204);
+		}
+		
+		.buy{background-color:green;}
+		.sip{background-color:#b38015;}
+		.buy, .sip {
+		color: #fff;
+		border-color: #1F93EF;
+		width: 90%;
+		margin:5%;
+		&:hover{
+		background-color:#18bb9c;
+		color: #fff;
+		}
+		}
+		.search-invest-head{height:2.6em;h6{font-size:16px; font-weight:600; padding:12px; text-transform:none; font-family:Open Sans}}
+.search-invest-select{padding:20px;border: 1px solid rgb(204, 204, 204);margin-top: 11px; label{padding:0.5em 0; font-weight:500;} .search-amc{margin-top:1em;} }
+.search-invest-tab{
+	margin-top:1em;
+	border:1px solid #18bb9c;
+	border-radius:5px;
+	p{font-size:12px;}
+	.nav-tabs li{width:50%; border:none; color:white; & a{color:#000; font-weight:600;}  &.active a, &.active a:focus, &.active a:hover{color:white;background-color:#18bb9c;}}
+	.tab-content{padding:1em;}
+	.row div{padding:5px}
+	label{font-size:12px; padding:0.5em 0; font-weight:500;}
+	input{width:100%;}
+	}
+}
+.policy{
+margin-top:6em;
+.nav {
+	li{a{color: #23527C;}}
+	.active{
+	h5{color:#18bb9c;
+    &:focus, :active, :hover{ 
+	 color: #23527C;
+	 }}}
+	
+	
+}
+.nav > li >  {
+    text-decoration: none;
+    
+}
+
+&.callout.row{padding:1em 0;}
+h5 {
+    font-size: 15px;
+    padding: 0.5em 0px;
+}
+#panel2-1{h5{margin-top:1.5em;}}
+.tabs-content{padding:1em 3em;}
+p{font-size:15px;}
+}
+.tlh{
+	overflow-x:hidden;
+#tlh{
+	background-image: url("../images/tlh-logo.jpg");
+	h3{padding-top:4em;margin-left:0;}
+	color:white;
+	}
+	#how-it-works{
+	.row{
+		padding:5% 8%;
+		h2{padding:1em; }
+		h3{font-size:15px;  padding:10px 1px; color:#18bb9c;}
+		p{font-size:15px; padding:2px 8%;}
+	}
+	width:100%; background:white; }
+	#supercharge{
+		padding:3em 0;
+		width:100%; background:white;
+		h2{padding-top:2em;}
+		.try-it{padding:0; h4{padding:10px;}}
+		}
+	#understand{width:100%; background:#1d2027;
+	.row{
+		color:white;
+		padding:5% 2%;
+		h2{padding:1em 0; font-size:26px; }
+	}
+		}
+	
+}
+.why-fino{
+	#why-fino{
+	background-image: url("../images/why-fino-logo.jpg");
+	color:white;
+	}
+	.section{
+		#one{
+		padding:5em 15%  3em;
+		h2{padding:0;}
+		p{padding:0.6 2em 2em ; font-size:15px; font-family:Montserrat;}
+		img{padding:1em ; padding-top:2.5em;}
+		h4{padding-top:0em ; font-size: 16px;}
+		.btn.btn-default{background:white; border-color:#18BC9C; margin-top:1.5em; border-radius:20px; color:#18BC9C; font-size:14px; font-family: Montserrat; &:hover{background:#18bb9c; color:white;} }
+		}
+		#three{
+		background:#ebebeb;
+		.row{
+			padding:5em 10%;
+			
+			div{
+				background:white;
+				margin:3%;
+				img{padding-top:1em;}
+				p{padding:0em 1em 1em;
+					font-size:18px;
+					 font-family:Open Sans;
+					}
+				}
+			}
+		h2{padding:0;}
+		}
+		#two{
+		.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+				width: 100%;
+				margin: auto;
+			  }
+			}
+		}
+	}
+@media screen and (min-width: 993px) {
+	#three div{min-height:26em;}
+	}
+.pricing{
+	#pricing{
+	background-image: url("../images/pricing-logo.jpg");
+	h3{padding-top:5em;margin-left:0;}
+	p{font-weight:700; margin-left:-2em;}
+	color:white;
+	}
+	.pricing-table{
+		h3{
+			font-family: Montserrat;
+			font-size: 24px;
+			text-transform: uppercase;
+			font-weight: 700;
+			padding: 2em 0em 0px;
+			}
+		}
+	table{ 
+		margin-top:3em;
+		thead{
+			background:#363636;
+			color:white;
+			th{padding:10px;}
+		}
+		border-top:1px solid gray;
+		border-right:1px solid gray;
+		tr, td, th {
+		border-collapse: collapse;
+		text-align: center;
+		border-left:1px solid gray;
+		border-bottom:1px solid gray;
+		}
+		tr td{padding:10px; text-align:center}
+		td{width:300px}
+		.key_column {
+			background: #e5f9e5;
+			
+		}
+		.fino_column {
+			background: #18BC9C;
+			color:white;
+		}
+		.option_column {
+			background: #ebebeb;
+			color:#333;
+			
+		}
+	}
+}
+.career{
+	#career{
+	background-image: url("../images/career-logo.jpg");
+	h3{padding-top:6.5em;margin-left:0;}
+	p{font-weight:700; margin-left:-2em;}
+	color:white;
+	}
+	.openings{
+	padding:5em;
+	.member{
+		margin:1em 0;
+		padding:2em;
+		padding-bottom:1em;
+		border: 2px solid #18bb9c;
+		.SeeMore2{background:transparent; border:none;color:#18BC9C; cursor:pointer;}
+		.apply-button{
+			text-align:right;
+			.btn{
+			background:#fff;border:1px solid #18BC9C;
+			&:hover{background:#18BC9C;}
+			}}
+		}
+		}
+}
+.sell, .switch, .buy{
+	#text-right{text-align:right;padding-right:1.5em; }
+	.income-symbol {
+		position: relative;
+		left: 16px;
+	}
+	.funds-content{
+		border: 1px solid #dedede;
+		border-top:none;
+		width: 99.9%;
+		background: white;
+		padding:2em 1em;
+		min-height: 300px;
+		&.buy-content{width:100%;}
+		table{
+			width:100%;border: 1px solid #ddd; background:white;
+			th, td{text-align:center; @include fontl(14);border-left: 1px solid #ddd;border-bottom: 1px solid #ddd;}
+			tbody{padding:10px 0;}
+			thead{background:#2C3E51;}
+			th{text-transform:uppercase; font-family:Montserrat; font-weight:400; color:white; padding:5px; }
+			td{padding:10px 5px;}
+			&#Verify_switchTable{ th, td{text-align:left; &:first-child{width:15em;}} tr:nth-child(even) {background: #CCC}}
+			}
+			&.buy-content{table{ th{height:50px;} &#verify_table{th {width: 150px;} }} #note{@include fontsb(12);}}
+		}
+	.nav-tabs li{
+		
+		border:1px solid #ddd;
+		border-bottom:none;
+		width:33.3%;
+		font-size:14px;
+		text-align:center;
+		background: #f3f3f3 none repeat scroll 0% 0%;&.active{background:white; a{color:#2C3E51;}}
+		a{border-radius:0; color:#2C3E51; @include fontm(1em); font-family:Montserrat; background:transparent; border:none !important; &:hover{border:none !important;} }
+		}
+	.confirm_btn {
+    text-align: right;
+    padding: 1em;
+	}
+	}
+.buy-funds{
+	.nav-tabs li{width:25%}
+table{
+	
+	select, input[type="text"]{width:8em;border:1px solid #ddd; border-radius:4px; padding:4px; outline:none; }
+	input[type="text"]{padding:4px 4px 4px 20px;}
+	th{&:first-child{width:30%;}} }	
+	#make_payment{h2{padding:0;} td{text-align:left;border:none; background:#ebebeb; padding-left:3em; } #i_accept{@include fontm(12); padding-left:1em;} }
+	.tab-info {
+    padding: 1em 0;
+	h2{@include fontsb(16); text-transform:uppercase; padding:1em 0;}
+	#make_payment_bank{width:40%;}
+	}
+	}
+.switch-funds{
+	.switch-funds-table{
+	#Switch_scheme{ div{padding:1em;} }
+	select, input[type="text"] {width:40%;border:1px solid #ddd; border-radius:4px; padding:4px; outline:none; }
+	table{select, input{width:7em !important;border:1px solid #ddd; border-radius:4px; padding:4px; outline:none; } input[type="text"]{padding:4px 4px 4px 20px;}}
+	}
+	}
+.sell-funds{
+	.sell-funds-table{
+	border:1px solid #ddd;
+	background:#ececec;
+	min-height:450px;
+	padding:1em;
+	table{select, input[type="text"]{width:7em;border:1px solid #ddd; border-radius:4px; padding:4px; outline:none; } th{&:first-child{width:8%;}} }
+	input[type="text"]{padding:4px 4px 4px 20px;}
+	}
+}

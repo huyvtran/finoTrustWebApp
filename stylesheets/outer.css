@@ -1,0 +1,1544 @@
+/* line 13, ../sass/outer.scss */
+select, input, button, .btn {
+  outline: none !important;
+}
+
+/* line 14, ../sass/outer.scss */
+.home, .what-we-do, .about-us, .benchmark, .safe, .transparent, .funds, .policy, .tlh, .why-fino, .career {
+  overflow-x: hidden;
+}
+/* line 15, ../sass/outer.scss */
+.home h1, .home h2, .home h3, .home h4, .home h5, .home h6, .what-we-do h1, .what-we-do h2, .what-we-do h3, .what-we-do h4, .what-we-do h5, .what-we-do h6, .about-us h1, .about-us h2, .about-us h3, .about-us h4, .about-us h5, .about-us h6, .benchmark h1, .benchmark h2, .benchmark h3, .benchmark h4, .benchmark h5, .benchmark h6, .safe h1, .safe h2, .safe h3, .safe h4, .safe h5, .safe h6, .transparent h1, .transparent h2, .transparent h3, .transparent h4, .transparent h5, .transparent h6, .funds h1, .funds h2, .funds h3, .funds h4, .funds h5, .funds h6, .policy h1, .policy h2, .policy h3, .policy h4, .policy h5, .policy h6, .tlh h1, .tlh h2, .tlh h3, .tlh h4, .tlh h5, .tlh h6, .why-fino h1, .why-fino h2, .why-fino h3, .why-fino h4, .why-fino h5, .why-fino h6, .career h1, .career h2, .career h3, .career h4, .career h5, .career h6 {
+  font-family: Montserrat;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 1em 0;
+}
+/* line 16, ../sass/outer.scss */
+.home h2, .what-we-do h2, .about-us h2, .benchmark h2, .safe h2, .transparent h2, .funds h2, .policy h2, .tlh h2, .why-fino h2, .career h2 {
+  font-size: 30px;
+}
+/* line 17, ../sass/outer.scss */
+.home h3, .what-we-do h3, .about-us h3, .benchmark h3, .safe h3, .transparent h3, .funds h3, .policy h3, .tlh h3, .why-fino h3, .career h3 {
+  font-size: 26px;
+}
+/* line 18, ../sass/outer.scss */
+.home h4, .what-we-do h4, .about-us h4, .benchmark h4, .safe h4, .transparent h4, .funds h4, .policy h4, .tlh h4, .why-fino h4, .career h4 {
+  font-size: 20px;
+}
+
+/* line 22, ../sass/outer.scss */
+.home {
+  overflow-x: hidden;
+  font-family: Montserrat;
+}
+/* line 25, ../sass/outer.scss */
+.home h3 {
+  padding-bottom: 3px;
+}
+@media (min-width: 768px) {
+  /* line 27, ../sass/outer.scss */
+  .home .navbar.navbar-default.navbar-fixed-top {
+    position: fixed;
+    padding: 10px 0;
+  }
+}
+/* line 32, ../sass/outer.scss */
+.home #intro {
+  padding: 4em 0;
+  text-align: center;
+  background: #18bb9c none repeat scroll 0% 0%;
+  min-height: 450px;
+  color: #FFF;
+  width: 100%;
+  margin-top: 60px;
+}
+/* line 34, ../sass/outer.scss */
+.home #intro h2 {
+  font-size: 30px;
+}
+/* line 41, ../sass/outer.scss */
+.home #intro img {
+  margin: 3% auto 2%;
+}
+/* line 45, ../sass/outer.scss */
+.home .intro-text.get-started {
+  padding-top: 7em;
+}
+/* line 46, ../sass/outer.scss */
+.home .intro-text h2 {
+  padding: 0.15em 0;
+}
+/* line 47, ../sass/outer.scss */
+.home .intro-text p {
+  text-transform: uppercase;
+  color: #FFF;
+  font-weight: 400;
+  font-family: Open Sans;
+  margin: 4px 0 8px;
+  font-size: 16px;
+}
+/* line 55, ../sass/outer.scss */
+.home .intro-text .details {
+  position: relative;
+}
+/* line 57, ../sass/outer.scss */
+.home .intro-text .details .onboarding-mobile-form {
+  width: 75%;
+  margin: auto;
+}
+/* line 58, ../sass/outer.scss */
+.home .intro-text .details .onboarding-mobile-form fieldset {
+  font-size: 1em;
+}
+/* line 59, ../sass/outer.scss */
+.home .intro-text .details .onboarding-mobile-form fieldset input, .home .intro-text .details .onboarding-mobile-form fieldset .retirement-status, .home .intro-text .details .onboarding-mobile-form fieldset .marrital-status {
+  width: 100%;
+  margin-top: 4px;
+  border: none;
+  font-family: Open Sans;
+}
+/* line 60, ../sass/outer.scss */
+.home .intro-text .details .onboarding-mobile-form fieldset .income {
+  margin-bottom: 0;
+  margin-top: 4px;
+  border: 1px solid #ccc;
+}
+/* line 60, ../sass/outer.scss */
+.home .intro-text .details .onboarding-mobile-form fieldset .income input {
+  width: 90%;
+  margin-top: 0px;
+  outline: none;
+}
+/* line 61, ../sass/outer.scss */
+.home .intro-text .details .onboarding-mobile-form fieldset input {
+  padding: 15px 7px;
+  text-align: left;
+}
+/* line 62, ../sass/outer.scss */
+.home .intro-text .details .onboarding-mobile-form fieldset .form_options {
+  width: 50%;
+  color: #adadad;
+  padding: 15px 7px;
+}
+/* line 62, ../sass/outer.scss */
+.home .intro-text .details .onboarding-mobile-form fieldset .form_options.active, .home .intro-text .details .onboarding-mobile-form fieldset .form_options:active, .home .intro-text .details .onboarding-mobile-form fieldset .form_options:hover, .home .intro-text .details .onboarding-mobile-form fieldset .form_options:focus {
+  background: #18bb9c;
+  color: white;
+}
+/* line 63, ../sass/outer.scss */
+.home .intro-text .details .onboarding-mobile-form fieldset #kids-mob {
+  width: 100%;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+  padding: 12px 35px;
+}
+/* line 68, ../sass/outer.scss */
+.home .intro-text .details .onboarding-mobile-form fieldset #kids-mob.minimal {
+  background-position: calc(100% - 50px) calc(1.2em + 2px), calc(100% - 45px) calc(1.2em + 2px), calc(100% - 2.5em);
+}
+/* line 68, ../sass/outer.scss */
+.home .intro-text .details .onboarding-mobile-form fieldset #kids-mob.minimal options {
+  padding-left: 2em;
+}
+/* line 72, ../sass/outer.scss */
+.home .intro-text .details .onboarding-mobile-form #get_start {
+  width: 100%;
+  margin: 15px 0;
+}
+/* line 74, ../sass/outer.scss */
+.home .intro-text .details .edit-age {
+  display: inline-block;
+  padding: 12px 0px;
+}
+/* line 81, ../sass/outer.scss */
+.home input {
+  color: #18bb9c;
+  border: none;
+  border-bottom: 1px solid gray;
+  text-align: center;
+}
+/* line 82, ../sass/outer.scss */
+.home select {
+  border: none;
+  border-bottom: 1px solid gray;
+}
+/* line 83, ../sass/outer.scss */
+.home .how-it-works {
+  padding: 4em 10%;
+}
+/* line 85, ../sass/outer.scss */
+.home .how-it-works p {
+  font-size: 18px;
+}
+/* line 87, ../sass/outer.scss */
+.home #portfolio {
+  padding: 4em 0;
+}
+/* line 89, ../sass/outer.scss */
+.home #portfolio.container {
+  padding: 10% 20% 0;
+}
+/* line 89, ../sass/outer.scss */
+.home #portfolio.container h3 {
+  color: #18bb9c;
+}
+/* line 90, ../sass/outer.scss */
+.home #portfolio .portfolio-item {
+  margin: 0 0 15px;
+  right: 0;
+}
+/* line 93, ../sass/outer.scss */
+.home #portfolio .portfolio-item .portfolio-link {
+  display: block;
+  position: relative;
+  max-width: 400px;
+  margin: 0 auto;
+}
+/* line 98, ../sass/outer.scss */
+.home #portfolio .portfolio-item .portfolio-link .caption {
+  background: #18bb9c;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: all ease 0.5s;
+  -webkit-transition: all ease 0.5s;
+  -moz-transition: all ease 0.5s;
+}
+/* line 107, ../sass/outer.scss */
+.home #portfolio .portfolio-item .portfolio-link .caption:hover {
+  opacity: 1;
+}
+/* line 110, ../sass/outer.scss */
+.home #portfolio .portfolio-item .portfolio-link .caption .caption-content {
+  width: 100%;
+  height: 20px;
+  font-size: 20px;
+  text-align: center;
+  top: 1.4em;
+  padding: 10% 2%;
+  margin-top: -12px;
+  color: white;
+}
+/* line 119, ../sass/outer.scss */
+.home #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
+  margin-top: -12px;
+}
+/* line 122, ../sass/outer.scss */
+.home #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
+.home #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
+  margin: 0;
+}
+@media (max-width: 1100px) {
+  /* line 98, ../sass/outer.scss */
+  .home #portfolio .portfolio-item .portfolio-link .caption {
+    position: absolute;
+  }
+}
+/* line 131, ../sass/outer.scss */
+.home #portfolio * {
+  z-index: 2;
+}
+@media (min-width: 767px) {
+  /* line 138, ../sass/outer.scss */
+  .home #portfolio .portfolio-item {
+    margin: 0 0 30px;
+  }
+}
+/* line 144, ../sass/outer.scss */
+.home hr.star-light,
+.home hr.star-primary {
+  padding: 0;
+  border: none;
+  border-top: solid 5px;
+  text-align: center;
+  max-width: 250px;
+  margin: 25px auto 30px;
+}
+/* line 154, ../sass/outer.scss */
+.home hr.star-light:after,
+.home hr.star-primary:after {
+  content: "\f005";
+  font-family: FontAwesome;
+  display: inline-block;
+  position: relative;
+  top: -0.8em;
+  font-size: 2em;
+  padding: 0 0.25em;
+}
+/* line 165, ../sass/outer.scss */
+.home hr.star-light {
+  border-color: white;
+  line-height: 1.42857;
+}
+/* line 170, ../sass/outer.scss */
+.home hr.star-light:after {
+  background-color: #18BC9C;
+  color: white;
+}
+/* line 175, ../sass/outer.scss */
+.home hr.star-primary {
+  border-color: #2C3E50;
+  line-height: 1.42857;
+}
+/* line 180, ../sass/outer.scss */
+.home hr.star-primary:after {
+  background-color: white;
+  color: #2C3E50;
+}
+
+/* line 186, ../sass/outer.scss */
+.what-we-do {
+  font-family: Montserrat;
+}
+/* line 188, ../sass/outer.scss */
+.what-we-do p {
+  padding: 1em 0.6em;
+}
+/* line 191, ../sass/outer.scss */
+.what-we-do #we_do {
+  background-image: url("../images/we_do.png");
+}
+/* line 195, ../sass/outer.scss */
+.what-we-do #get_start:hover {
+  background: #fff;
+  color: #18bb9c;
+}
+/* line 200, ../sass/outer.scss */
+.what-we-do #beat {
+  background-color: #2C3E50;
+  padding: 3% 10%;
+  color: white;
+  text-align: center;
+}
+/* line 205, ../sass/outer.scss */
+.what-we-do #beat h3 {
+  padding-bottom: 0;
+}
+/* line 207, ../sass/outer.scss */
+.what-we-do #we_do1 {
+  width: 100%;
+  padding: 0 15%;
+}
+/* line 210, ../sass/outer.scss */
+.what-we-do #we_do1 h3 {
+  color: #2C3E50;
+}
+/* line 212, ../sass/outer.scss */
+.what-we-do #we_do2 {
+  background: #2C3E50;
+  color: white;
+  width: 100%;
+  padding: 0 15%;
+}
+/* line 218, ../sass/outer.scss */
+.what-we-do .col-md-8 {
+  padding: 6% 3%;
+}
+/* line 220, ../sass/outer.scss */
+.what-we-do .col-md-4 img {
+  padding: 4em 30%;
+}
+
+/* line 225, ../sass/outer.scss */
+.btn-outline {
+  margin: 15px;
+  border: 2px solid #18bb9c;
+  font-size: 16px;
+  text-transform: uppercase;
+  padding: 6px 15px;
+  color: #fff;
+  background: #18bb9c;
+  transition: all 0.3s ease-in-out 0s;
+}
+/* line 234, ../sass/outer.scss */
+.btn-outline:hover {
+  background: #fff;
+  color: #18bb9c;
+}
+/* line 235, ../sass/outer.scss */
+.btn-outline.get-start {
+  border-color: #fff;
+  color: #18BC9C;
+  padding: 5px 15px;
+  background: #fff;
+  box-shadow: 5px 5px 2px #888;
+}
+/* line 236, ../sass/outer.scss */
+.btn-outline.learn-more {
+  border-color: #fff;
+  padding: 5px 15px;
+}
+
+@media (max-width: 1000px) {
+  /* line 240, ../sass/outer.scss */
+  .navbar-header {
+    float: none;
+  }
+
+  /* line 244, ../sass/outer.scss */
+  .navbar-left, .navbar-right {
+    float: none !important;
+  }
+
+  /* line 247, ../sass/outer.scss */
+  .navbar-toggle {
+    display: block;
+  }
+
+  /* line 250, ../sass/outer.scss */
+  .navbar-collapse {
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  }
+
+  /* line 253, ../sass/outer.scss */
+  .navbar-fixed-top {
+    top: 0;
+    overflow: hidden;
+    border-width: 0 0 1px;
+  }
+
+  /* line 258, ../sass/outer.scss */
+  .navbar-collapse.collapse {
+    display: none !important;
+  }
+
+  /* line 261, ../sass/outer.scss */
+  .navbar-nav {
+    float: none !important;
+    margin-top: 7.5px;
+  }
+
+  /* line 265, ../sass/outer.scss */
+  .navbar-nav > li {
+    float: none;
+  }
+
+  /* line 268, ../sass/outer.scss */
+  .navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  /* line 272, ../sass/outer.scss */
+  .collapse.in {
+    display: block !important;
+  }
+}
+/* line 276, ../sass/outer.scss */
+.benchmark {
+  margin-top: -25px;
+}
+/* line 278, ../sass/outer.scss */
+.benchmark h2 {
+  font-size: 30px;
+}
+/* line 279, ../sass/outer.scss */
+.benchmark h3 {
+  margin-top: -6%;
+}
+/* line 280, ../sass/outer.scss */
+.benchmark h4 {
+  font-size: 20px;
+}
+/* line 281, ../sass/outer.scss */
+.benchmark section {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center center;
+  min-height: 400px;
+  padding: 10%;
+}
+/* line 287, ../sass/outer.scss */
+.benchmark section#logo {
+  background-image: url("../images/benchmark-logo.jpg");
+  margin-top: -21px;
+}
+/* line 287, ../sass/outer.scss */
+.benchmark section#logo h3 {
+  color: white;
+  margin-top: 0;
+}
+/* line 287, ../sass/outer.scss */
+.benchmark section#logo h4 {
+  font-size: 18px;
+  padding-left: 2em;
+}
+/* line 288, ../sass/outer.scss */
+.benchmark section#goal-story {
+  padding: 4em;
+  background: black;
+}
+/* line 289, ../sass/outer.scss */
+.benchmark section#goal-story .row {
+  width: 70%;
+  margin: auto;
+}
+/* line 291, ../sass/outer.scss */
+.benchmark section#goal-story h3 {
+  color: white;
+  margin-top: 0;
+}
+/* line 292, ../sass/outer.scss */
+.benchmark section#goal-story .chart {
+  position: relative;
+}
+/* line 296, ../sass/outer.scss */
+.benchmark section#goal-story canvas {
+  display: block;
+  position: absolute;
+  top: 1.6em;
+  left: 1.6em;
+}
+/* line 302, ../sass/outer.scss */
+.benchmark section#goal-story span {
+  color: #fff;
+  display: block;
+  line-height: 205px;
+  text-align: center;
+  width: 220px;
+  font-size: 30px;
+  font-weight: 600;
+}
+/* line 312, ../sass/outer.scss */
+.benchmark section#invest {
+  background: black;
+}
+/* line 312, ../sass/outer.scss */
+.benchmark section#invest h3 {
+  color: white;
+}
+/* line 312, ../sass/outer.scss */
+.benchmark section#invest #chartdiv5 {
+  width: 60%;
+  height: 400px;
+  margin: auto;
+}
+/* line 313, ../sass/outer.scss */
+.benchmark section#age-story {
+  background: #ebebeb;
+}
+/* line 315, ../sass/outer.scss */
+.benchmark section#age-story .glyphicon {
+  padding: 0px 5%;
+}
+/* line 317, ../sass/outer.scss */
+.benchmark section#age-story .glyphicon.glyphicon-chevron-left {
+  margin-left: 35%;
+}
+/* line 323, ../sass/outer.scss */
+.benchmark #msform fieldset {
+  width: 100%;
+}
+/* line 324, ../sass/outer.scss */
+.benchmark #msform fieldset #chartdiv, .benchmark #msform fieldset #chartdiv2, .benchmark #msform fieldset #chartdiv3 {
+  width: 60%;
+  height: 400px;
+  margin: auto;
+}
+/* line 326, ../sass/outer.scss */
+.benchmark #msform fieldset:not(:first-of-type) {
+  display: none;
+}
+
+/* line 332, ../sass/outer.scss */
+.about-us h2 {
+  font-size: 30px;
+}
+/* line 333, ../sass/outer.scss */
+.about-us h3 {
+  font-size: 26px;
+}
+/* line 334, ../sass/outer.scss */
+.about-us h4 {
+  font-size: 20px;
+}
+/* line 335, ../sass/outer.scss */
+.about-us #mission {
+  background-image: url("../images/about-us-logo.jpg");
+}
+/* line 337, ../sass/outer.scss */
+.about-us #mission h3 {
+  padding-top: 9%;
+}
+/* line 338, ../sass/outer.scss */
+.about-us #mission p {
+  padding: 0 12%;
+  color: white;
+}
+/* line 339, ../sass/outer.scss */
+.about-us #contact-us {
+  padding: 2em 0;
+  background: #2e2e2e;
+  color: white;
+}
+/* line 339, ../sass/outer.scss */
+.about-us #contact-us .container {
+  padding: 2em 0;
+}
+/* line 339, ../sass/outer.scss */
+.about-us #contact-us .colour {
+  color: #18bb9c;
+}
+/* line 339, ../sass/outer.scss */
+.about-us #contact-us h3, .about-us #contact-us h4 {
+  padding: 0.5em 0;
+}
+/* line 339, ../sass/outer.scss */
+.about-us #contact-us h4 {
+  font-weight: 500;
+  font-size: 20px;
+}
+/* line 340, ../sass/outer.scss */
+.about-us #team {
+  padding: 2em 0;
+}
+/* line 341, ../sass/outer.scss */
+.about-us #team h3, .about-us #team h4 {
+  padding: 0.2em 0;
+}
+/* line 342, ../sass/outer.scss */
+.about-us #team h4, .about-us #team .description {
+  color: #818181;
+}
+/* line 343, ../sass/outer.scss */
+.about-us #team .colour {
+  color: #18bb9c;
+}
+/* line 345, ../sass/outer.scss */
+.about-us #team h5 {
+  color: #2C3E51;
+}
+/* line 346, ../sass/outer.scss */
+.about-us #team .row {
+  padding: 0 10%;
+}
+/* line 347, ../sass/outer.scss */
+.about-us #team .row p {
+  padding: 5px 1.5em;
+}
+/* line 351, ../sass/outer.scss */
+.about-us #map {
+  width: 100%;
+  height: 250px;
+  border-radius: 10px;
+}
+
+/* line 357, ../sass/outer.scss */
+.faq {
+  margin-top: 5.5em;
+}
+/* line 359, ../sass/outer.scss */
+.faq #faq {
+  padding-bottom: 15em;
+}
+/* line 361, ../sass/outer.scss */
+.faq #faq #accordion {
+  padding: 0 15%;
+}
+/* line 362, ../sass/outer.scss */
+.faq #faq .panel {
+  margin-bottom: 10px;
+}
+/* line 363, ../sass/outer.scss */
+.faq #faq .panel-default {
+  margin-top: 5px;
+}
+/* line 364, ../sass/outer.scss */
+.faq #faq a {
+  text-decoration: none;
+}
+/* line 365, ../sass/outer.scss */
+.faq #faq .panel-heading {
+  padding: 10px .faq #faq .panel-heading h4;
+  padding-color: black;
+}
+/* line 369, ../sass/outer.scss */
+.faq #faq .panel-body {
+  padding: 15px 25px;
+}
+/* line 369, ../sass/outer.scss */
+.faq #faq .panel-body p {
+  font-size: 15px;
+}
+
+/* Easy and Transparent*/
+/* line 375, ../sass/outer.scss */
+.logo {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center center;
+  height: 450px;
+  margin-top: 3.5em;
+}
+/* line 381, ../sass/outer.scss */
+.logo h3 {
+  font-family: Montserrat;
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: 700;
+  padding: 14% 0px 10px;
+  color: #fff;
+}
+/* line 382, ../sass/outer.scss */
+.logo p {
+  opacity: 0.7;
+}
+
+/* line 385, ../sass/outer.scss */
+.easy .seven-col {
+  padding: 5% 0;
+  width: 90%;
+}
+/* line 386, ../sass/outer.scss */
+.easy #easy {
+  background-image: url("../images/easy-logo.jpg");
+}
+@media (min-width: 768px) {
+  /* line 390, ../sass/outer.scss */
+  .easy .seven-cols .col-md-1,
+  .easy .seven-cols .col-sm-1,
+  .easy .seven-cols .col-lg-1 {
+    width: 100%;
+    *width: 100%;
+    padding: 15px;
+  }
+  /* line 396, ../sass/outer.scss */
+  .easy .seven-cols .col-md-1 h3,
+  .easy .seven-cols .col-sm-1 h3,
+  .easy .seven-cols .col-lg-1 h3 {
+    font-size: 20px;
+    padding: 10px 1px;
+    color: #18bb9c;
+  }
+  /* line 397, ../sass/outer.scss */
+  .easy .seven-cols .col-md-1 p,
+  .easy .seven-cols .col-sm-1 p,
+  .easy .seven-cols .col-lg-1 p {
+    font-size: 20px;
+    padding: 2px 5px;
+  }
+}
+@media (min-width: 1000px) {
+  /* line 402, ../sass/outer.scss */
+  .easy .seven-cols .col-md-1,
+  .easy .seven-cols .col-sm-1,
+  .easy .seven-cols .col-lg-1 {
+    width: 14.285714285714285714285714285714%;
+    *width: 14.285714285714285714285714285714%;
+    padding: 1px;
+  }
+  /* line 408, ../sass/outer.scss */
+  .easy .seven-cols .col-md-1 h3,
+  .easy .seven-cols .col-sm-1 h3,
+  .easy .seven-cols .col-lg-1 h3 {
+    border-top: 2px dotted gray;
+    font-size: 13px;
+    padding: 10px 1px;
+    color: #18bb9c;
+  }
+  /* line 409, ../sass/outer.scss */
+  .easy .seven-cols .col-md-1 p,
+  .easy .seven-cols .col-sm-1 p,
+  .easy .seven-cols .col-lg-1 p {
+    font-size: 13px;
+    padding: 2px 5px;
+  }
+}
+@media (min-width: 1300px) {
+  /* line 413, ../sass/outer.scss */
+  .easy .seven-cols .col-md-1,
+  .easy .seven-cols .col-sm-1,
+  .easy .seven-cols .col-lg-1 {
+    width: 14.285714285714285714285714285714%;
+    *width: 14.285714285714285714285714285714%;
+    padding: 0.5px;
+  }
+  /* line 419, ../sass/outer.scss */
+  .easy .seven-cols .col-md-1 h3,
+  .easy .seven-cols .col-sm-1 h3,
+  .easy .seven-cols .col-lg-1 h3 {
+    border-top: 2px dotted gray;
+    font-size: 14px;
+    padding: 10px 1px;
+    color: #18bb9c;
+  }
+  /* line 420, ../sass/outer.scss */
+  .easy .seven-cols .col-md-1 p,
+  .easy .seven-cols .col-sm-1 p,
+  .easy .seven-cols .col-lg-1 p {
+    font-size: 15px;
+    padding: 2px 8%;
+  }
+}
+
+/* line 426, ../sass/outer.scss */
+.safe #safe {
+  background-image: url("../images/safe-logo.jpg");
+}
+/* line 429, ../sass/outer.scss */
+.safe .safe-items {
+  padding: 5% 15%;
+}
+/* line 431, ../sass/outer.scss */
+.safe .safe-items h3 {
+  font-size: 15px;
+  padding: 10px 1px;
+  color: #18bb9c;
+}
+/* line 432, ../sass/outer.scss */
+.safe .safe-items p {
+  font-size: 15px;
+  padding: 2px 8%;
+}
+
+/* line 437, ../sass/outer.scss */
+.transparency #transparency {
+  background-image: url("../images/transparncy-logo.jpg");
+}
+/* line 440, ../sass/outer.scss */
+.transparency .comparision {
+  padding-bottom: 4em;
+}
+/* line 441, ../sass/outer.scss */
+.transparency .row-head {
+  padding: 5% 0;
+}
+/* line 443, ../sass/outer.scss */
+.transparency .row-head #left {
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #f86637;
+}
+/* line 444, ../sass/outer.scss */
+.transparency .row-head #right {
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #18bb9c;
+}
+/* line 447, ../sass/outer.scss */
+.transparency .row h3 {
+  font-size: 15px;
+  padding: 10px 1px;
+  color: #18bb9c;
+}
+/* line 448, ../sass/outer.scss */
+.transparency .row p {
+  font-size: 15px;
+  padding: 2px 0;
+}
+/* line 449, ../sass/outer.scss */
+.transparency .row .right {
+  text-align: right;
+  padding-right: 0;
+}
+/* line 449, ../sass/outer.scss */
+.transparency .row .right h3 {
+  color: #f86637;
+}
+/* line 450, ../sass/outer.scss */
+.transparency .row .left {
+  text-align: left;
+  padding-left: 0;
+  border-left: 2px dotted gray;
+}
+
+/* line 455, ../sass/outer.scss */
+.funds .search-invest-select {
+  height: 16em;
+}
+/* line 455, ../sass/outer.scss */
+.funds .search-invest-select .panel {
+  font-size: 13px;
+  border: 1px solid #808080;
+  padding: 6px;
+  margin-bottom: 0;
+  width: 90%;
+  border-radius: 5px;
+}
+/* line 457, ../sass/outer.scss */
+.funds .top-table .tab-content {
+  margin-top: 0.5em;
+}
+/* line 457, ../sass/outer.scss */
+.funds .top-table .tab-content h3 {
+  font-size: 15px;
+  font-weight: 600;
+  padding: 2em 10px 0;
+}
+/* line 458, ../sass/outer.scss */
+.funds .top-table .nav-tabs {
+  background: #ddd;
+}
+/* line 459, ../sass/outer.scss */
+.funds .top-table .nav-tabs li {
+  width: 25%;
+  border-left: 2px solid white;
+  color: white;
+}
+/* line 460, ../sass/outer.scss */
+.funds .top-table .nav-tabs li a {
+  color: #000;
+  font-weight: 600;
+  margin: 0;
+  font-size: 0.85em;
+}
+/* line 461, ../sass/outer.scss */
+.funds .top-table .nav-tabs li.active a, .funds .top-table .nav-tabs li.active a:focus, .funds .top-table .nav-tabs li.active a:hover {
+  color: white;
+  background-color: #18bb9c;
+}
+/* line 462, ../sass/outer.scss */
+.funds .top-table .top-table-content {
+  height: 16em;
+  border: 1px solid #ddd;
+  overflow-y: scroll;
+}
+/* line 468, ../sass/outer.scss */
+.funds table {
+  border: 2px solid #cccccc;
+  width: 100%;
+  font-size: 12px;
+  margin-top: 20px;
+}
+/* line 472, ../sass/outer.scss */
+.funds table th {
+  font-size: 15px;
+  text-align: center;
+  background: #18bb9c;
+  color: white;
+  border: 2px solid #cccccc;
+  padding: 3px;
+}
+/* line 478, ../sass/outer.scss */
+.funds table th:first-child {
+  width: 35%;
+}
+/* line 484, ../sass/outer.scss */
+.funds td {
+  padding: 5px;
+  border: 1px solid #cccccc;
+}
+/* line 489, ../sass/outer.scss */
+.funds .buy {
+  background-color: green;
+}
+/* line 490, ../sass/outer.scss */
+.funds .sip {
+  background-color: #b38015;
+}
+/* line 491, ../sass/outer.scss */
+.funds .buy, .funds .sip {
+  color: #fff;
+  border-color: #1F93EF;
+  width: 90%;
+  margin: 5%;
+}
+/* line 496, ../sass/outer.scss */
+.funds .buy:hover, .funds .sip:hover {
+  background-color: #18bb9c;
+  color: #fff;
+}
+/* line 501, ../sass/outer.scss */
+.funds .search-invest-head {
+  height: 2.6em;
+}
+/* line 501, ../sass/outer.scss */
+.funds .search-invest-head h6 {
+  font-size: 16px;
+  font-weight: 600;
+  padding: 12px;
+  text-transform: none;
+  font-family: Open Sans;
+}
+/* line 502, ../sass/outer.scss */
+.funds .search-invest-select {
+  padding: 20px;
+  border: 1px solid #cccccc;
+  margin-top: 11px;
+}
+/* line 502, ../sass/outer.scss */
+.funds .search-invest-select label {
+  padding: 0.5em 0;
+  font-weight: 500;
+}
+/* line 502, ../sass/outer.scss */
+.funds .search-invest-select .search-amc {
+  margin-top: 1em;
+}
+/* line 503, ../sass/outer.scss */
+.funds .search-invest-tab {
+  margin-top: 1em;
+  border: 1px solid #18bb9c;
+  border-radius: 5px;
+}
+/* line 507, ../sass/outer.scss */
+.funds .search-invest-tab p {
+  font-size: 12px;
+}
+/* line 508, ../sass/outer.scss */
+.funds .search-invest-tab .nav-tabs li {
+  width: 50%;
+  border: none;
+  color: white;
+}
+/* line 508, ../sass/outer.scss */
+.funds .search-invest-tab .nav-tabs li a {
+  color: #000;
+  font-weight: 600;
+}
+/* line 508, ../sass/outer.scss */
+.funds .search-invest-tab .nav-tabs li.active a, .funds .search-invest-tab .nav-tabs li.active a:focus, .funds .search-invest-tab .nav-tabs li.active a:hover {
+  color: white;
+  background-color: #18bb9c;
+}
+/* line 509, ../sass/outer.scss */
+.funds .search-invest-tab .tab-content {
+  padding: 1em;
+}
+/* line 510, ../sass/outer.scss */
+.funds .search-invest-tab .row div {
+  padding: 5px;
+}
+/* line 511, ../sass/outer.scss */
+.funds .search-invest-tab label {
+  font-size: 12px;
+  padding: 0.5em 0;
+  font-weight: 500;
+}
+/* line 512, ../sass/outer.scss */
+.funds .search-invest-tab input {
+  width: 100%;
+}
+
+/* line 515, ../sass/outer.scss */
+.policy {
+  margin-top: 6em;
+}
+/* line 518, ../sass/outer.scss */
+.policy .nav li a {
+  color: #23527C;
+}
+/* line 520, ../sass/outer.scss */
+.policy .nav .active h5 {
+  color: #18bb9c;
+}
+/* line 521, ../sass/outer.scss */
+.policy .nav .active h5:focus, .policy .nav .active h5 :active, .policy .nav .active h5 :hover {
+  color: #23527C;
+}
+/* line 527, ../sass/outer.scss */
+.policy .nav > li > {
+  text-decoration: none;
+}
+/* line 532, ../sass/outer.scss */
+.policy.callout.row {
+  padding: 1em 0;
+}
+/* line 533, ../sass/outer.scss */
+.policy h5 {
+  font-size: 15px;
+  padding: 0.5em 0px;
+}
+/* line 537, ../sass/outer.scss */
+.policy #panel2-1 h5 {
+  margin-top: 1.5em;
+}
+/* line 538, ../sass/outer.scss */
+.policy .tabs-content {
+  padding: 1em 3em;
+}
+/* line 539, ../sass/outer.scss */
+.policy p {
+  font-size: 15px;
+}
+
+/* line 541, ../sass/outer.scss */
+.tlh {
+  overflow-x: hidden;
+}
+/* line 543, ../sass/outer.scss */
+.tlh #tlh {
+  background-image: url("../images/tlh-logo.jpg");
+  color: white;
+}
+/* line 545, ../sass/outer.scss */
+.tlh #tlh h3 {
+  padding-top: 4em;
+  margin-left: 0;
+}
+/* line 548, ../sass/outer.scss */
+.tlh #how-it-works {
+  width: 100%;
+  background: white;
+}
+/* line 549, ../sass/outer.scss */
+.tlh #how-it-works .row {
+  padding: 5% 8%;
+}
+/* line 551, ../sass/outer.scss */
+.tlh #how-it-works .row h2 {
+  padding: 1em;
+}
+/* line 552, ../sass/outer.scss */
+.tlh #how-it-works .row h3 {
+  font-size: 15px;
+  padding: 10px 1px;
+  color: #18bb9c;
+}
+/* line 553, ../sass/outer.scss */
+.tlh #how-it-works .row p {
+  font-size: 15px;
+  padding: 2px 8%;
+}
+/* line 556, ../sass/outer.scss */
+.tlh #supercharge {
+  padding: 3em 0;
+  width: 100%;
+  background: white;
+}
+/* line 559, ../sass/outer.scss */
+.tlh #supercharge h2 {
+  padding-top: 2em;
+}
+/* line 560, ../sass/outer.scss */
+.tlh #supercharge .try-it {
+  padding: 0;
+}
+/* line 560, ../sass/outer.scss */
+.tlh #supercharge .try-it h4 {
+  padding: 10px;
+}
+/* line 562, ../sass/outer.scss */
+.tlh #understand {
+  width: 100%;
+  background: #1d2027;
+}
+/* line 563, ../sass/outer.scss */
+.tlh #understand .row {
+  color: white;
+  padding: 5% 2%;
+}
+/* line 566, ../sass/outer.scss */
+.tlh #understand .row h2 {
+  padding: 1em 0;
+  font-size: 26px;
+}
+
+/* line 572, ../sass/outer.scss */
+.why-fino #why-fino {
+  background-image: url("../images/why-fino-logo.jpg");
+  color: white;
+}
+/* line 577, ../sass/outer.scss */
+.why-fino .section #one {
+  padding: 5em 15%  3em;
+}
+/* line 579, ../sass/outer.scss */
+.why-fino .section #one h2 {
+  padding: 0;
+}
+/* line 580, ../sass/outer.scss */
+.why-fino .section #one p {
+  padding: 0.6 2em 2em;
+  font-size: 15px;
+  font-family: Montserrat;
+}
+/* line 581, ../sass/outer.scss */
+.why-fino .section #one img {
+  padding: 1em;
+  padding-top: 2.5em;
+}
+/* line 582, ../sass/outer.scss */
+.why-fino .section #one h4 {
+  padding-top: 0em;
+  font-size: 16px;
+}
+/* line 583, ../sass/outer.scss */
+.why-fino .section #one .btn.btn-default {
+  background: white;
+  border-color: #18BC9C;
+  margin-top: 1.5em;
+  border-radius: 20px;
+  color: #18BC9C;
+  font-size: 14px;
+  font-family: Montserrat;
+}
+/* line 583, ../sass/outer.scss */
+.why-fino .section #one .btn.btn-default:hover {
+  background: #18bb9c;
+  color: white;
+}
+/* line 585, ../sass/outer.scss */
+.why-fino .section #three {
+  background: #ebebeb;
+}
+/* line 587, ../sass/outer.scss */
+.why-fino .section #three .row {
+  padding: 5em 10%;
+}
+/* line 590, ../sass/outer.scss */
+.why-fino .section #three .row div {
+  background: white;
+  margin: 3%;
+}
+/* line 593, ../sass/outer.scss */
+.why-fino .section #three .row div img {
+  padding-top: 1em;
+}
+/* line 594, ../sass/outer.scss */
+.why-fino .section #three .row div p {
+  padding: 0em 1em 1em;
+  font-size: 18px;
+  font-family: Open Sans;
+}
+/* line 600, ../sass/outer.scss */
+.why-fino .section #three h2 {
+  padding: 0;
+}
+/* line 603, ../sass/outer.scss */
+.why-fino .section #two .carousel-inner > .item > img, .why-fino .section #two .carousel-inner > .item > a > img {
+  width: 100%;
+  margin: auto;
+}
+
+@media screen and (min-width: 993px) {
+  /* line 611, ../sass/outer.scss */
+  #three div {
+    min-height: 26em;
+  }
+}
+/* line 614, ../sass/outer.scss */
+.pricing #pricing {
+  background-image: url("../images/pricing-logo.jpg");
+  color: white;
+}
+/* line 616, ../sass/outer.scss */
+.pricing #pricing h3 {
+  padding-top: 5em;
+  margin-left: 0;
+}
+/* line 617, ../sass/outer.scss */
+.pricing #pricing p {
+  font-weight: 700;
+  margin-left: -2em;
+}
+/* line 621, ../sass/outer.scss */
+.pricing .pricing-table h3 {
+  font-family: Montserrat;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: 700;
+  padding: 2em 0em 0px;
+}
+/* line 629, ../sass/outer.scss */
+.pricing table {
+  margin-top: 3em;
+  border-top: 1px solid gray;
+  border-right: 1px solid gray;
+}
+/* line 631, ../sass/outer.scss */
+.pricing table thead {
+  background: #363636;
+  color: white;
+}
+/* line 634, ../sass/outer.scss */
+.pricing table thead th {
+  padding: 10px;
+}
+/* line 638, ../sass/outer.scss */
+.pricing table tr, .pricing table td, .pricing table th {
+  border-collapse: collapse;
+  text-align: center;
+  border-left: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
+/* line 644, ../sass/outer.scss */
+.pricing table tr td {
+  padding: 10px;
+  text-align: center;
+}
+/* line 645, ../sass/outer.scss */
+.pricing table td {
+  width: 300px;
+}
+/* line 646, ../sass/outer.scss */
+.pricing table .key_column {
+  background: #e5f9e5;
+}
+/* line 650, ../sass/outer.scss */
+.pricing table .fino_column {
+  background: #18BC9C;
+  color: white;
+}
+/* line 654, ../sass/outer.scss */
+.pricing table .option_column {
+  background: #ebebeb;
+  color: #333;
+}
+
+/* line 662, ../sass/outer.scss */
+.career #career {
+  background-image: url("../images/career-logo.jpg");
+  color: white;
+}
+/* line 664, ../sass/outer.scss */
+.career #career h3 {
+  padding-top: 6.5em;
+  margin-left: 0;
+}
+/* line 665, ../sass/outer.scss */
+.career #career p {
+  font-weight: 700;
+  margin-left: -2em;
+}
+/* line 668, ../sass/outer.scss */
+.career .openings {
+  padding: 5em;
+}
+/* line 670, ../sass/outer.scss */
+.career .openings .member {
+  margin: 1em 0;
+  padding: 2em;
+  padding-bottom: 1em;
+  border: 2px solid #18bb9c;
+}
+/* line 675, ../sass/outer.scss */
+.career .openings .member .SeeMore2 {
+  background: transparent;
+  border: none;
+  color: #18BC9C;
+  cursor: pointer;
+}
+/* line 676, ../sass/outer.scss */
+.career .openings .member .apply-button {
+  text-align: right;
+}
+/* line 678, ../sass/outer.scss */
+.career .openings .member .apply-button .btn {
+  background: #fff;
+  border: 1px solid #18BC9C;
+}
+/* line 680, ../sass/outer.scss */
+.career .openings .member .apply-button .btn:hover {
+  background: #18BC9C;
+}
+
+/* line 686, ../sass/outer.scss */
+.sell #text-right, .switch #text-right, .buy #text-right {
+  text-align: right;
+  padding-right: 1.5em;
+}
+/* line 687, ../sass/outer.scss */
+.sell .income-symbol, .switch .income-symbol, .buy .income-symbol {
+  position: relative;
+  left: 16px;
+}
+/* line 691, ../sass/outer.scss */
+.sell .funds-content, .switch .funds-content, .buy .funds-content {
+  border: 1px solid #dedede;
+  border-top: none;
+  width: 99.9%;
+  background: white;
+  padding: 2em 1em;
+  min-height: 300px;
+}
+/* line 698, ../sass/outer.scss */
+.sell .funds-content.buy-content, .switch .funds-content.buy-content, .buy .funds-content.buy-content {
+  width: 100%;
+}
+/* line 699, ../sass/outer.scss */
+.sell .funds-content table, .switch .funds-content table, .buy .funds-content table {
+  width: 100%;
+  border: 1px solid #ddd;
+  background: white;
+}
+/* line 701, ../sass/outer.scss */
+.sell .funds-content table th, .sell .funds-content table td, .switch .funds-content table th, .switch .funds-content table td, .buy .funds-content table th, .buy .funds-content table td {
+  text-align: center;
+  font: 300 14px Open Sans;
+  border-left: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+/* line 702, ../sass/outer.scss */
+.sell .funds-content table tbody, .switch .funds-content table tbody, .buy .funds-content table tbody {
+  padding: 10px 0;
+}
+/* line 703, ../sass/outer.scss */
+.sell .funds-content table thead, .switch .funds-content table thead, .buy .funds-content table thead {
+  background: #2C3E51;
+}
+/* line 704, ../sass/outer.scss */
+.sell .funds-content table th, .switch .funds-content table th, .buy .funds-content table th {
+  text-transform: uppercase;
+  font-family: Montserrat;
+  font-weight: 400;
+  color: white;
+  padding: 5px;
+}
+/* line 705, ../sass/outer.scss */
+.sell .funds-content table td, .switch .funds-content table td, .buy .funds-content table td {
+  padding: 10px 5px;
+}
+/* line 706, ../sass/outer.scss */
+.sell .funds-content table#Verify_switchTable th, .sell .funds-content table#Verify_switchTable td, .switch .funds-content table#Verify_switchTable th, .switch .funds-content table#Verify_switchTable td, .buy .funds-content table#Verify_switchTable th, .buy .funds-content table#Verify_switchTable td {
+  text-align: left;
+}
+/* line 706, ../sass/outer.scss */
+.sell .funds-content table#Verify_switchTable th:first-child, .sell .funds-content table#Verify_switchTable td:first-child, .switch .funds-content table#Verify_switchTable th:first-child, .switch .funds-content table#Verify_switchTable td:first-child, .buy .funds-content table#Verify_switchTable th:first-child, .buy .funds-content table#Verify_switchTable td:first-child {
+  width: 15em;
+}
+/* line 706, ../sass/outer.scss */
+.sell .funds-content table#Verify_switchTable tr:nth-child(even), .switch .funds-content table#Verify_switchTable tr:nth-child(even), .buy .funds-content table#Verify_switchTable tr:nth-child(even) {
+  background: #CCC;
+}
+/* line 708, ../sass/outer.scss */
+.sell .funds-content.buy-content table th, .switch .funds-content.buy-content table th, .buy .funds-content.buy-content table th {
+  height: 50px;
+}
+/* line 708, ../sass/outer.scss */
+.sell .funds-content.buy-content table#verify_table th, .switch .funds-content.buy-content table#verify_table th, .buy .funds-content.buy-content table#verify_table th {
+  width: 150px;
+}
+/* line 708, ../sass/outer.scss */
+.sell .funds-content.buy-content #note, .switch .funds-content.buy-content #note, .buy .funds-content.buy-content #note {
+  font: 600 12px Open Sans;
+}
+/* line 710, ../sass/outer.scss */
+.sell .nav-tabs li, .switch .nav-tabs li, .buy .nav-tabs li {
+  border: 1px solid #ddd;
+  border-bottom: none;
+  width: 33.3%;
+  font-size: 14px;
+  text-align: center;
+  background: #f3f3f3 none repeat scroll 0% 0%;
+}
+/* line 717, ../sass/outer.scss */
+.sell .nav-tabs li.active, .switch .nav-tabs li.active, .buy .nav-tabs li.active {
+  background: white;
+}
+/* line 717, ../sass/outer.scss */
+.sell .nav-tabs li.active a, .switch .nav-tabs li.active a, .buy .nav-tabs li.active a {
+  color: #2C3E51;
+}
+/* line 718, ../sass/outer.scss */
+.sell .nav-tabs li a, .switch .nav-tabs li a, .buy .nav-tabs li a {
+  border-radius: 0;
+  color: #2C3E51;
+  font: 400 1empx Open Sans;
+  font-family: Montserrat;
+  background: transparent;
+  border: none !important;
+}
+/* line 718, ../sass/outer.scss */
+.sell .nav-tabs li a:hover, .switch .nav-tabs li a:hover, .buy .nav-tabs li a:hover {
+  border: none !important;
+}
+/* line 720, ../sass/outer.scss */
+.sell .confirm_btn, .switch .confirm_btn, .buy .confirm_btn {
+  text-align: right;
+  padding: 1em;
+}
+
+/* line 726, ../sass/outer.scss */
+.buy-funds .nav-tabs li {
+  width: 25%;
+}
+/* line 729, ../sass/outer.scss */
+.buy-funds table select, .buy-funds table input[type="text"] {
+  width: 8em;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 4px;
+  outline: none;
+}
+/* line 730, ../sass/outer.scss */
+.buy-funds table input[type="text"] {
+  padding: 4px 4px 4px 20px;
+}
+/* line 731, ../sass/outer.scss */
+.buy-funds table th:first-child {
+  width: 30%;
+}
+/* line 732, ../sass/outer.scss */
+.buy-funds #make_payment h2 {
+  padding: 0;
+}
+/* line 732, ../sass/outer.scss */
+.buy-funds #make_payment td {
+  text-align: left;
+  border: none;
+  background: #ebebeb;
+  padding-left: 3em;
+}
+/* line 732, ../sass/outer.scss */
+.buy-funds #make_payment #i_accept {
+  font: 400 12px Open Sans;
+  padding-left: 1em;
+}
+/* line 733, ../sass/outer.scss */
+.buy-funds .tab-info {
+  padding: 1em 0;
+}
+/* line 735, ../sass/outer.scss */
+.buy-funds .tab-info h2 {
+  font: 600 16px Open Sans;
+  text-transform: uppercase;
+  padding: 1em 0;
+}
+/* line 736, ../sass/outer.scss */
+.buy-funds .tab-info #make_payment_bank {
+  width: 40%;
+}
+
+/* line 741, ../sass/outer.scss */
+.switch-funds .switch-funds-table #Switch_scheme div {
+  padding: 1em;
+}
+/* line 742, ../sass/outer.scss */
+.switch-funds .switch-funds-table select, .switch-funds .switch-funds-table input[type="text"] {
+  width: 40%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 4px;
+  outline: none;
+}
+/* line 743, ../sass/outer.scss */
+.switch-funds .switch-funds-table table select, .switch-funds .switch-funds-table table input {
+  width: 7em !important;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 4px;
+  outline: none;
+}
+/* line 743, ../sass/outer.scss */
+.switch-funds .switch-funds-table table input[type="text"] {
+  padding: 4px 4px 4px 20px;
+}
+
+/* line 747, ../sass/outer.scss */
+.sell-funds .sell-funds-table {
+  border: 1px solid #ddd;
+  background: #ececec;
+  min-height: 450px;
+  padding: 1em;
+}
+/* line 752, ../sass/outer.scss */
+.sell-funds .sell-funds-table table select, .sell-funds .sell-funds-table table input[type="text"] {
+  width: 7em;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 4px;
+  outline: none;
+}
+/* line 752, ../sass/outer.scss */
+.sell-funds .sell-funds-table table th:first-child {
+  width: 8%;
+}
+/* line 753, ../sass/outer.scss */
+.sell-funds .sell-funds-table input[type="text"] {
+  padding: 4px 4px 4px 20px;
+}

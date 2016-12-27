@@ -1,0 +1,567 @@
+[
+  {
+    "Param": "Risk",
+    "DisplayName": "Low",
+    "Id": 1
+  },
+  {
+    "Param": "Risk",
+    "DisplayName": "Medium",
+    "Id": 2
+  },
+  {
+    "Param": "Risk",
+    "DisplayName": "High",
+    "Id": 3
+  },
+  {
+    "Param": "Risk",
+    "DisplayName": "Very High",
+    "Id": 4
+  },
+  {
+    "Param": "Risk",
+    "DisplayName": "No Risk",
+    "Id": 5
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "ABN AMRO Mutual Fund",
+    "Id": 839
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Benchmark Mutual Fund",
+    "Id": 840
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Birla Sun Life Mutual Fund",
+    "Id": 841
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "BOB Mutual Fund",
+    "Id": 842
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Canbank Mutual Fund",
+    "Id": 843
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "DBS Chola Mutual Fund",
+    "Id": 844
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Deutsche Mutual Fund",
+    "Id": 845
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "DSP BlackRock Mutual Fund",
+    "Id": 846
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Escorts Mutual Fund",
+    "Id": 847
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Fidelity Mutual Fund",
+    "Id": 848
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Franklin Templeton Mutual Fund",
+    "Id": 849
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "HDFC Mutual Fund",
+    "Id": 850
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "HSBC Mutual Fund",
+    "Id": 851
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "ING Vysya Mutual Fund",
+    "Id": 852
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "JM Financial Mutual Fund",
+    "Id": 853
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Kotak Mahindra Mutual Fund",
+    "Id": 854
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "LIC Mutual Fund",
+    "Id": 855
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Lotus India Mutual Fund",
+    "Id": 856
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Morgan Stanley Mutual Fund",
+    "Id": 857
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "PRINCIPAL Mutual Fund",
+    "Id": 858
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": " ICICI Prudential Mutual Fund",
+    "Id": 859
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Quantum Mutual Fund",
+    "Id": 860
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Reliance Mutual Fund",
+    "Id": 861
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Sahara Mutual Fund",
+    "Id": 862
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "SBI Mutual Fund",
+    "Id": 863
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Standard Chartered Mutual Fund",
+    "Id": 864
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Sundaram Mutual Fund",
+    "Id": 865
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Tata Mutual Fund",
+    "Id": 866
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Taurus Mutual Fund",
+    "Id": 867
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "UTI Mutual Fund",
+    "Id": 868
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "IDFC MUTUAL FUND",
+    "Id": 869
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "PineBridge Mutual Fund",
+    "Id": 870
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "BOI AXA Mutual Fund",
+    "Id": 871
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "RELIGARE MUTUAL FUND",
+    "Id": 872
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "JP MORGAN ASSET MANAGEMENT",
+    "Id": 873
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "FORTIS MUTUAL FUND",
+    "Id": 874
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Axis Mutual Fund",
+    "Id": 875
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "L&T Mutual Fund",
+    "Id": 876
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Baroda Pioneer Mutual Fund",
+    "Id": 877
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "MOTILAL OSWAL MUTUAL FUND",
+    "Id": 878
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "IDBI MUTUAL FUND",
+    "Id": 879
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "EDELWEISS MUTUAL FUND",
+    "Id": 880
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "PRAMERICA MUTUAL FUND",
+    "Id": 881
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "BNP Paribas Mutual Fund",
+    "Id": 882
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "IIFL MUTUAL FUND",
+    "Id": 884
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Daiwa Mutual Fund",
+    "Id": 885
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Union KBC Mutual Fund",
+    "Id": 886
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Mirae Asset Mutual Fund",
+    "Id": 887
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "Goldman Sachs Mutual Fund",
+    "Id": 888
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "PEERLESS MUTUAL FUND",
+    "Id": 889
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "INDIABULLS MUTUAL FUND",
+    "Id": 890
+  },
+  {
+    "Param": "FundHouse",
+    "DisplayName": "PPFAS Mutual Fund",
+    "Id": 891
+  },
+  {
+    "Param": "AssetFamily",
+    "DisplayName": "Equity",
+    "Id": 1
+  },
+  {
+    "Param": "AssetFamily",
+    "DisplayName": "Debt",
+    "Id": 2
+  },
+  {
+    "Param": "AssetFamily",
+    "DisplayName": "Alternative",
+    "Id": 3
+  },
+  {
+    "Param": "AssetFamily",
+    "DisplayName": "Real Estate",
+    "Id": 4
+  },
+  {
+    "Param": "AssetFamily",
+    "DisplayName": "Cash & Cash Equivalents",
+    "Id": 5
+  },
+  {
+    "Param": "AssetFamily",
+    "DisplayName": "International",
+    "Id": 6
+  },
+  {
+    "Param": "AssetFamily",
+    "DisplayName": "Personal",
+    "Id": 7
+  },
+  {
+    "Param": "AssetFamily",
+    "DisplayName": "Insurance",
+    "Id": 8
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Equity: Others",
+    "Id": 1
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Equity: Large & Mid Cap",
+    "Id": 2
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Debt: Ultra Short Term",
+    "Id": 3
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Hybrid: Debt-oriented Conservative",
+    "Id": 4
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Debt: Liquid",
+    "Id": 5
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Debt: FMP",
+    "Id": 6
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Equity: Mid & Small Cap",
+    "Id": 7
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Equity: Banking",
+    "Id": 8
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Hybrid: Arbitrage",
+    "Id": 9
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Hybrid: Debt-oriented Aggressive",
+    "Id": 10
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Equity: Multi-Cap",
+    "Id": 11
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Debt: Income",
+    "Id": 12
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Equity: Tax Planning",
+    "Id": 13
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Debt: Gilt Short Term",
+    "Id": 14
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Debt: Gilt Medium & Long Term",
+    "Id": 15
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Equity: Large Cap",
+    "Id": 16
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Equity: Infrastructure",
+    "Id": 17
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Hybrid: Equity-oriented",
+    "Id": 18
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Equity: Technology",
+    "Id": 19
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Hybrid: Asset Allocation",
+    "Id": 20
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Debt: Short Term",
+    "Id": 21
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Equity: FMCG",
+    "Id": 22
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Debt: Others",
+    "Id": 23
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Equity: Pharma",
+    "Id": 24
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Equity: International",
+    "Id": 25
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Gold: Funds",
+    "Id": 26
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Hybrid: Others",
+    "Id": 27
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Equity: Diversified",
+    "Id": 28
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "FMP",
+    "Id": 29
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Liquid Fund",
+    "Id": 30
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Debt: Speciality",
+    "Id": 31
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "All Cap Fund",
+    "Id": 32
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Short Term Bond Fund",
+    "Id": 33
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Short Term Gilt Fund",
+    "Id": 34
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Fund of Funds",
+    "Id": 36
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Floating Rate Fund",
+    "Id": 37
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "ELSS Fund",
+    "Id": 38
+  },
+  {
+    "Param": "MFClassification",
+    "DisplayName": "Speciality Equity Funds",
+    "Id": 39
+  },
+  {
+    "Param": "Horizon",
+    "DisplayName": "0 - 7 Days",
+    "Id": 1
+  },
+  {
+    "Param": "Horizon",
+    "DisplayName": "8 - 15 Days",
+    "Id": 2
+  },
+  {
+    "Param": "Horizon",
+    "DisplayName": "15 Days - 1 Month",
+    "Id": 3
+  },
+  {
+    "Param": "Horizon",
+    "DisplayName": "1 Month - 3 Month",
+    "Id": 4
+  },
+  {
+    "Param": "Horizon",
+    "DisplayName": "3 Month - 6 Month",
+    "Id": 5
+  },
+  {
+    "Param": "Horizon",
+    "DisplayName": "6 Month - 12 Month",
+    "Id": 6
+  },
+  {
+    "Param": "Horizon",
+    "DisplayName": "1 year - 3 Year",
+    "Id": 7
+  },
+  {
+    "Param": "Horizon",
+    "DisplayName": "3 Year - 5 Year",
+    "Id": 8
+  },
+  {
+    "Param": "Horizon",
+    "DisplayName": "5 Year - 10 Year",
+    "Id": 9
+  },
+  {
+    "Param": "Horizon",
+    "DisplayName": "10 Year+",
+    "Id": 10
+  }
+]

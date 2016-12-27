@@ -1,0 +1,5818 @@
+[
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BIRLA INDIA GENNEXT FUND-DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BIRLA INDIA OPPORTUNITIES FUND-PLAN A (DIVIDEND)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE  BUY INDIA FUND-PLAN A(DIVIVDEND)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE BASIC INDUSTRIES FUND-PLAN A(DIVIDEND)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BIRLA INDIA OPPORTUNITIES FUND-PLAN B (GROWTH)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BIRLA MNC FUND-PLAN B (GROWTH)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE  BUY INDIA FUND-PLAN B(GROWTH)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE BASIC INDUSTRIES FUND - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "JM BASIC FUND - GROWTH PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "KOTAK LIFESTYLE - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL  INFRASTRUCTURE AND SERVICES INDUSTRIES FUND-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Exports and Other Services - Regular Plan - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE DIVERSIFIED POWER SECTOR FUND-GROWTH-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE MEDIA & ENTERTAINMENT FUND-GROWTH PLAN-GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SBI MAGNUM COMMA FUND - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM INFRASTRUCTURE ADVANTAGE FUND REGULAR GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM RURAL INDIA FUND GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "UTI-TRANSPORTATION AND LOGISTIC SECTOR - GROWTH PLAN "
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "JM AGRI & INFRA FUND - GROWTH PLAN    "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE NATURAL RESOURCES FUND - GROWTH PLAN - GROWTH OPTION    "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM ENERGY OPPORTUNITIES FUND - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "TATA SIP FUND - SCHEME II - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SBNPP SELECT THEMATIC FUNDS PSU OPP - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "UTI-INDIA LIFESTYLE FUND - GROWTH PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL SERVICES INDUSTRIES FUND-DIVIDEND "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE DIVERSIFIED POWER SECTOR FUND-DIVIDEND PLAN-DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE MEDIA & ENTERTAINMENT FUND-DIVIDEND PLAN-DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SBI MAGNUM COMMA FUND - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM RURAL INDIA FUND DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM BNP PARIBAS CAPEX OPPORTUNITIES FUND-DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IIFL MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "IIFL NIFTY ETF - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIGARE PSU EQUITY FUND - GROWTH PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Canbank Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "CANARA ROBECO FORCE RETAIL GROWTH FUND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK NATURAL RESOURCES AND NEW ENERGY FUND - REGULAR PLAN - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "TATA SIP FUND SCHEME I - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "KOTAK LIFESTYLE - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "UTI-ENERGY FUND - DIVIDEND PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "UTI SERVICES INDUSTRIES FUND-INCOME OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SBNPP SELECT THEMATIC FUNDS PSU OPP - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM ENERGY OPPORTUNITIES FUND DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIGARE PSU EQUITY FUND - DIVIDEND PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "JM BASIC FUND - DIVIDEND PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE NATURAL RESOURCES FUND - DIVIDEND PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "UTI-WEALTH BUILDER FUND SERIES II - GROWTH PLAN "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE INTERNATIONAL EQUITY FUND PLAN B - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "UTI-MNC FUND - GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Franklin India Feeder - Franklin U S Opportunities Fund GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "TATA SMART INVESTMENT  PLAN - 1 SCHEME A DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "TATA SERVICE INDUSTRIES FUND - DIVIDEND PLAN.  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK NATURAL RESOURCES AND NEW ENERGY FUND - REGULAR PLAN - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "IDFC TAX ADVANTAGE (ELSS) FUND - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "JM AGRI & INFRA FUND - DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM EQUITY PLUS DIVIDEND PAYOUT"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "HSBC BRAZIL FUND-DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Goldman Sachs Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "GOLDMAN SACHS S & P CNX 500 INDEX FUND - DIVIDEND PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDBI MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "IDBI NIFTY JUNIOR INDEX FUND - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "TATA SERVICE INDUSTRIES FUND - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL INFRASTRUCTURE & SERVICES INDUSTRIES FUND - DIVIDEND PAYOUT  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL INFRASTRUCTURE & SERVICES INDUSTRIES FUND - DIVIDEND REINVESTMENT  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Mirae Asset Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "MIRAE ASSET INDIA OPPORTUNITIES FUND - REGULAR - DIVIDEND PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE MNC FUND - DIVIDEND-REGULAR PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE INDIA GENNEXT FUND - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "ING Vysya Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ING MULTI-MANAGER EQUITY FUND - OPTION A - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "UTI-WEALTH BUILDER FUND SERIES II - DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "L&T GROWTH FUND - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Axis Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "AXIS MID CAP FUND - GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "IDFC STERLING EQUITY FUND-GROWTH-(DIRECT PLAN)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE EQUITY OPPORTUNITIES FUND - DIRECT GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "HDFC EQUITY FUND -DIRECT PLAN - GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "HDFC TOP 200 FUND - DIRECT PLAN - GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "IDFC Equity Opportunity Series-1-Regular Plan-Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL JUNIOR CAP FUND DIVIDEND PAYOUT"
+  },
+  {
+    "Risk": null,
+    "AmcName": "BNP Paribas Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BNP PARIBAS OPPORTUNITIES FUND - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL NIFTY ETF"
+  },
+  {
+    "Risk": null,
+    "AmcName": "ING Vysya Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ING BALANCED FUND - DIVIDEND OPTION "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Mirae Asset Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "MIRAE ASSET CHINA ADVANTAGE FUND - REGULAR PLAN GROWTH  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Mirae Asset Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "MIRAE ASSET EMERGING BLUECHIP FUND - REGULAR PLAN DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE UNCLAIMED DIVIDEND ABOVE 3 MONTHS TO BELOW 3 YEARS - GROWTH PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE INDEX FUND - NIFTY PLAN - GROWTH PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL DYNAMIC - DIRECT PLAN - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "IDFC EQUITY OPPORTUNITY SERIES-1-DIRECT PLAN DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SBI  NIFTY  INDEX FUND - REGULAR PLAN - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Axis Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "AXIS MID CAP FUND - DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL VALUE FUND SERIES 1 REGULAR PLAN DIVIDEND PAYOUT"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE CLOSE ENDED EQUITY FUND - SERIES A - GROWTH PLAN "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE CLOSE ENDED EQUITY FUND - SERIES A - DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE CLOSE ENDED EQUITY FUND - SERIES B - DIVIDEND PAYOUT"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Goldman Sachs Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "GOLDMAN SACHS NIFTY JUNIOR EXCHANGE TRADED SCHEME"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "IDFC EQUITY OPPORTUNITY SERIES-2-REGULAR PLAN-DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "KOTAK PSU BANK ETF"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Goldman Sachs Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "GOLDMAN SACHS PSU BANK EXCHANGE TRADED SCHEME (PSU BANK BEES)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Goldman Sachs Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "GOLDMAN SACHS HANG SENG EXCHANGE TRADED SCHEME (HANG SENG BEES)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "KOTAK NIFTY ETF"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Goldman Sachs Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "GOLDMAN SACHS BANKING INDEX EXCHANGE TRADED SCHEME (BANK BEES)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Goldman Sachs Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "GOLDMAN SACHS INFRASTRUCTURE EXCHANGE TRADED SCHEME (INFRA BEES)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "IDFC EQUITY OPPORTUNITY SERIES-3-REG PL-DIV (21 MONTHS)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Goldman Sachs Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "GOLDMAN SACHS S & P CNX 500 INDEX FUND - GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Mirae Asset Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "MIRAE ASSET EMERGING BLUECHIP FUND - REGULAR PLAN GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "IDFC NIFTY FUND-GROWTH-(REGULAR PLAN)"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL VALUE FUND SERIES 3 REGULAR PLAN DIVIDEND PAYOUT"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Goldman Sachs Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "GOLDMAN SACHS MUTUAL FUND CPSE ETF (RGESS)  GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "HDFC MID CAP OPPORTUNITIES FUND -DIRECT PLAN - GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIGARE INVESCO MID N SMALL CAP FUND - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "HDFC ARBITRAGE FUND - WHOLESALE PLAN -MONTHLY DIVIDEND - REGULAR"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK DUAL ADVANTAGE FUND - SERIES 14 - 33M - REG - GR MAT DT 05-JAN-2016"
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIGARE INVESCO GLOBAL EQUITY INCOME FUND - REGULAR PLAN - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Value Fund Series 4 Regular Plan Cumulative"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL DIVIDEND YIELD EQUITY FUND REGULAR PLAN GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL DIVIDEND YIELD EQUITY FUND REGULAR PLAN DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Baroda Pioneer Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BARODA PIONEER PSU EQUITY FUND - GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Canbank Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "CANARA ROBECO EMERGING EQUITIES FUND - REGULAR GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM INFRASTRUCTURE ADVANTAGE FUND REGULAR DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SBI PSU FUND - REGULAR PLAN - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SBI PSU FUND - REGULAR PLAN - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BSL PURE VALUE FUND - GROWTH-REGULAR PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Reliance Close Ended Equity Fund II - Series A - Growth Plan"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "HDFC DYNAMIC PE RATIO FUND OF FUNDS- PLAN A - REGULAR GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "HDFC DYNAMIC PE RATIO FUND OF FUNDS- PLAN B - REGULAR GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE EQUITY LINKED SAVINGS FUND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "L&T Business Cycles Fund Dividend Payout"
+  },
+  {
+    "Risk": "Low",
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "L&T Business Cycles Fund Growth"
+  },
+  {
+    "Risk": "Low",
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Value Fund Series 5 Regular Plan Dividend"
+  },
+  {
+    "Risk": "Low",
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Value Fund Series 5 Regular Plan Cumulative"
+  },
+  {
+    "Risk": "Low",
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Exports and Other Services Fund Regular Growth"
+  },
+  {
+    "Risk": "Low",
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Growth Fund Series 1 Regular Plan Dividend Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Principal Emerging Bluechip Fund - Dividend Plan Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Reliance Mid and Small Cap Fund-DIRECT DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Goldman Sachs Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "GOLDMAN SACHS MUTUAL FUND INDIA EQUITY FUND DIRECT PLAN GROWTH OPEN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Principal Balanced Fund - Dividend Plan Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IIFL MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "IIFL India Growth Fund Regular DIVIDEND PAYOUT"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IIFL MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "IIFL India Growth Fund Regular DIVIDEND REINVEST"
+  },
+  {
+    "Risk": "High",
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "UTI Transportation and Logistics-Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE MUTUAL FUND FRONTLINE EQUITY FUND DIRECT PLAN GROWTH OPEN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE CAPITAL BUILDER FUND II - SERIES A - DIRECT PLAN DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Canbank Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Canara Robeco F.O.R.C.E Fund - Regular Plan - Dividend Option"
+  },
+  {
+    "Risk": null,
+    "AmcName": "LIC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Not to Use LIC NOMURA MF TOP HUNDRED FUND - GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "IDFC Dynamic Equity Fund Regular Plan-Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SBI Equity Opportunities Fund-Series 1 - Regular Plan - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Growth Fund Series 3 Regular Plan Dividend Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BSL Focused Equity Fund - Series 3 (U/S 80CCG of IT ACT)-DIV-REGULAR"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "UTI MNC Fund - Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PineBridge Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "PineBridge India - US Equity Fund - Standard Plan - Growth option"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRAMERICA MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Pramerica Large Cap Equity Fund"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Value Fund Series 1 Direct Plan Dividend Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Equity Savings Fund - Series 1 Regular Plan - Cumulative"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "DonDWS Top Euroland Offshore Fund-Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BSL Pure Value Fund - Growth-Regular Plan"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Reliance Capital Builder Fund- Series A- Growth Option"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "DWS Inflation Indexed Bond Fund- Regular Plan- Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential MidCap Fund - Regular Plan - Dividend Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Birla Sun Life Banking And Financial Services Fund - Div. REGULAR"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "HDFC Equity Fund - Direct Plan - Dividend Reinvestment Option"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Birla Sun Life Manufacturing Equity Fund- REGULAR Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Equity Income Fund Regular Plan Cumulative"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Growth Fund Series 6 Regular Plan Dividend Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "UTI-ENERGY FUND - GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Sundaram PSU Opportunities Growth Option"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Birla Sun Life MNC Fund-Plan B (Growth)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "HDFC ARBITRAGE FUND WHOLESALE PLAN DIVIDEND OPTION DIRECT PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Reliance Arbitrage Advantage Fund- Direct Plan- Monthly dividend Plan"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Birla Sun Life Frontline Equity Fund - Growth - Direct Plan"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Birla Sun Life Frontline Equity Fund-Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Birla Sun Life Infrastructure Fund-Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Exports and Other Services Fund - Regular Plan - Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Focused Bluechip Equity Fund - Regular Plan -  Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SBI EMERGING BUSINESSES FUND - REGULAR  PLAN - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SBI Magnum Equity Fund - REGULAR PLAN - Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Top 200 Fund - Regular Plan -  Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "ING Vysya Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ING Multi-Manager Equity Fund - Option A Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Axis Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "AXIS EQUITY FUND GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Birla Sun Life Top 100 Fund - Growth - Direct Plan"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Birla Sun Life Emerging Leaders Fund - Series 3 - Regular Plan - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Reliance Capital Builder Fund - Series B - Direct Dividend Plan"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Balanced Fund - Regular Plan -  Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Indo Asia Equity Fund - Regular Plan -  Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Multicap Fund - Regular Plan -  Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Franklin India Smaller Companies Fund - Direct - Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "UTI Mid Cap Fund-Income Option- Direct"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Business Cycle Fund - Series 1 Regular Plan Cumulative Option"
+  },
+  {
+    "Risk": null,
+    "AmcName": "BNP Paribas Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "BNP Paribas Equity Fund - Direct Plan - Growth Option"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Business Cycle Fund - Series 1 Regular Plan Dividend Option"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "SBI Equity Opportunities Fund-Series - 2 - Regular Plan - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Reliance Capital Builder Fund- Series A- Dividend Payout Option"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Birla SL Emerging Leaders Series 5 Reg-Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "DWS Mid Cap Fund Series 1 Reg-D"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Sundaram Select Small Cap Ser II Reg-D"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Taurus Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Taurus Discovery Fund - Dividend Plan"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Reliance Close Ended Equity II Ser A-Div"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Sundaram Select Micro Cap Series III Reg-Div"
+  },
+  {
+    "Risk": null,
+    "AmcName": "MOTILAL OSWAL MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Motilal Oswal MOSt Focused 25 Fund- Direct Plan Dividend Option"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PEERLESS MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "Peerless Midcap Reg-Div"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRAMERICA MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "DHFL Pramerica Diversified Equity Reg-Div"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRAMERICA MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "DHFL Pramerica Midcap Opportunities Reg-Div"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "HDFC Equity Fund - Dividend Option"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "TATA SIP Fund Series 3 - Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Growth Fund Series 5 Regular Plan Dividend Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IIFL MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Equity: Others",
+    "HouseReco": null,
+    "SchemeName": "IIFL LIQUID FUND DIRECT PLAN  GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "BIRLA ADVANTAGE FUND-PLAN A (DIVIDEND)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "BIRLA TOP 100-DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "DSP MERRILL LYNCH OPPORTUNITIES FUND-DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "L & T EQUITY FUND-DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Franklin India FLEXI CAP FUND Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Franklin INDIA OPPORTUNITIES FUND DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Franklin India PRIMA PLUS DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "HDFC TOP 200 FUND-DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "BIRLA ADVANTAGE FUND-PLAN B (GROWTH)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE TOP 100-GROWTH OPTION - REGULAR"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Canbank Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "CANARA ROBECO EQUITY DIVERSIFIED - GROWTH PLAN "
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "DSP MERRILL LYNCH OPPORTUNITIES FUND-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "L & T  EQUITY FUND-GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Franklin India FLEXI CAP FUND Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Franklin INDIA OPPORTUNITIES FUND GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Franklin India PRIMA PLUS GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "HDFC TOP 200 FUND-GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "HSBC INDIA OPPORTUNITIES FUND-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "JM MID CAP FUND - GROWTH OPTION  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "JM EQUITY FUND-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "HSBC INDIA OPPORTUNITIES FUND-DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "ING Vysya Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "ING CORE EQUITY FUND -DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "JM MID CAP FUND - DIVIDEND OPTION  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "JM EQUITY FUND-DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "JM LARGE CAP FUND-DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "KOTAK EQUITY FOF - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL LARGE CAP FUND-DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Morgan Stanley Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "MORGAN STANLEY GROWTH FUND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "KOTAK EQUITY-FOF-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL GROWTH FUND-GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL LARGE CAP FUND-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL DYNAMIC PLAN-GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Multicap Fund - Regular Plan - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE EQUITY FUND-GROWTH PLAN-GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE NRI EQUITY FUND-GROWTH PLAN-GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE VISION FUND-GROWTH PLAN-GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "SBI BLUE CHIP FUND-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "SBI MAGNUM MULTICAP FUND - GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM INDIA LEADERSHIP FUND - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "TATA PURE EQUITY FUND - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI - EQUITY FUND-GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI - MASTER SHARE-GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI Bluechip Flexicap-Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI-DIVIDEND YIELD FUND.-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PineBridge Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "PINEBRIDGE INDIA EQUITY FUND REGULAR GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "FORTIS MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "FORTIS CHINA - INDIA FUND GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK FOCUS 25 FUND - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "IDFC CLASSIC EQUITY FUND - PLAN A GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "HSBC DYNAMIC FUND-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JP MORGAN ASSET MANAGEMENT",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "JPMORGAN INDIA EQUITY FUND GROWTH PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Axis Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "AXIS EQUITY FUND - GROWTH  "
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "PRUDENTIAL ICICI DYNAMIC PLAN-DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "PRUDENTIAL ICICI DYNAMIC PLAN-INSTITUTIONAL OPTION - I"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "PRUDENTIAL ICICI POWER PLAN - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "PRUDENTIAL ICICI VERY AGGRESSIVE PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "PRUDENTIAL ICICI VERY AGGRESSIVE PLAN-DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE EQUITY FUND-DIVIDEND PLAN-DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE NRI EQUITY FUND-DIVIDEND PLAN-DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE VISION FUND-DIVIDEND PLAN-D"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE VISION FUND-GROWTH PLAN-BONUS OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "MAGNUM EQUITY FUND -DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "SBI BLUE CHIP FUND-DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "SBI ONE INDIA FUND-DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "TATA EQUITY MANAGEMENT FUND - DIV"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI WEALTH BUILDER FUND - DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "SBI MAGNUM MULTICAP FUND - DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Sundaram Growth Fund-Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "L&T India Large Cap Fund - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI OPPORTUNITIES FUND - GROWTH PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Fidelity Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "L&T India Large Cap Fund - Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL INDO ASIA EQUITY FUND - RETAIL GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "L&T GROWTH FUND - QTLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "ING Vysya Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "ING CORE EQUITY FUND -GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "SBI ONE INDIA FUND-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM GROWTH FUND-APPRECIATION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "L&T GROWTH FUND - CUM - ORIGINAL"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM BNP PARIBAS INDIA LEADERSHIP FUND-DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "TATA PURE EQUITY FUND - DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI-EQUITY FUND - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI - MASTER GROWTH 93-INCOME OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI - MASTER SHARE-INCOME OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI Bluechip Flexicap-Div"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI OPPORTUNITIES FUND-DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI-DIVIDEND YIELD FUND.-INCOME"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PineBridge Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "AIG INDIA EQUITY FUND REGULAR DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "FORTIS MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "FORTIS CHINA-INDIA FUND-REGULAR PLAN-DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "BSL INTERNATIONAL EQUITY FUND -PLAN-B  - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "FORTIS MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "FORTIS OPPORTUNITIES FUND - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK FOCUS 25 FUND - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "IDFC CLASSIC EQUITY FUND - PLAN A DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Axis Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "AXIS EQUITY FUND - DIVIDEND OPTION  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL GROWTH FUND DIVIDEND PAYOUT-ANNUALLY  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL GROWTH FUND DIVIDEND REINVST. ANNUALLY  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "KOTAK SELECT FOCUS FUND - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "ING Vysya Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "ING EQUITY FUND - GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "SBI - MAGNUM EQUITY FUND-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Mirae Asset Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "MIRAE ASSET INDIA OPPORTUNITIES FUND - REGULAR - GROWTH PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "HSBC DYNAMIC FUND-DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "ING Vysya Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "ING EQUITY FUND - DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JP MORGAN ASSET MANAGEMENT",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "JPMorgan India Equity Fund - Regular Plan - Dividend Payout Option"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IIFL MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "IIFL DIVIDEND OPPORTUNITIES INDEX FUND - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "KOTAK SELECT FOCUS FUND - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI-MASTERSHARE UNIT SCHEME - DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI TOP 100 FUND - DIVIDEND PLAN "
+  },
+  {
+    "Risk": null,
+    "AmcName": "IIFL MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "IIFL DIVIDEND OPPORTUNITIES INDEX FUND - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL FOCUSSED ADVANTAGE FUND DIVIDEND PAYOUT ANNUALLY  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL FOCUSSED ADVANTAGE FUND DIVIDEND REINVESTMENT ANNUALLY  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL FOCUSSED ADVANTAGE FUND GROWTH PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "JP MORGAN ASSET MANAGEMENT",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "JPMORGAN INDIA EQUITY INCOME FUND - REGULAR PLAN - DIVIDEND REINVESTMENT"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL VALUE FUND SERIES 2 REGULAR PLAN DIVIDEND PAYOUT"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JP MORGAN ASSET MANAGEMENT",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "JPMORGAN INDIA TOP 100 FUND REGULAR GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JP MORGAN ASSET MANAGEMENT",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "JPMORGAN INDIA TOP 100 FUND REGULAR DIVIDEND -PAYOUT"
+  },
+  {
+    "Risk": "Medium",
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "HDFC Large Cap Fund - Regular Growth Plan"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI-FOCUSSED EQUITY FUND-SERIES I (1100 DAYS) - REGULAR PLAN - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "HDFC Equity Fund -Direct Plan - Dividend Payout Option"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Reliance Capital Builder Fund - Series C - Growth Plan"
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Religare Invesco Equity Fund - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Growth Fund Series 4 Regular Plan Dividend Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "DSP BlackRock 3 Years Close Ended Equity Fund - Regular Plan - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "DSP BlackRock 3 Years Close Ended Equity Fund - Regular Plan - Dividend Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Reliance Capital Builder Fund II - Series A - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Reliance Capital Builder Fund II Series A Regular Div Payout "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Sundaram Value Fund- Series-I 3Year Regular Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "L & T EQUITY FUND-DIVIDEND PAYOUT"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Growth Fund Series 2 Regular Plan Dividend Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Growth Fund Series 8 Regular Plan Dividend Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI-FOCUSSED EQUITY FUND-SERIES II (1102 DAYS) - REGULAR PLAN - GROWTH"
+  },
+  {
+    "Risk": "High",
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM TOP 100 SR 2 - 3 YRS REGULAR DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "UTI-FOCUSSED EQUITY FUND-SERIES II (1102 DAYS) - REGULAR PLAN - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "HDFC Top 200 Fund - Direct Plan - Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Birla Sun Life Frontline Equity Fund - Dividend Reinvest-Regular Plan"
+  },
+  {
+    "Risk": null,
+    "AmcName": "MOTILAL OSWAL MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Motilal Oswal MOSt Focused 25 Fund Regular Plan Dividend Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Dynamic - Regular Plan -  Dividend Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDBI MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential India Recovery Fund Series 1 Regular Plan Dividend Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Birla Sun Life Manufacturing Equity Fund-REGULAR Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Canbank Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "CANARA ROBECO EQUITY DIVERSIFIED - REGULAR DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Reliance Capital Builder Fund - Series C - Dividend PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JP MORGAN ASSET MANAGEMENT",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "JPMORGAN India Economic Resurgence Fund - Regular Dividend - Reinvestment"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Magnum Equity Fund- Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "BNP Paribas Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "BNP PARIBAS Equity Fund-Dividend Option"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Reliance Focused Large Cap Fund-Dividend Plan"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Birla Sun Life Manufacturing Equity Fund - Regular Plan - Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "SBI Bluechip-Dividend Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IIFL MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "IIFL India Growth Fund Direct Plan -Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE TOP 200 FUND - DIRECT DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Axis Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Axis Focused 25-Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "DSPBR Focus 25 Direct-Div payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "DSPBR Focus 25 Direct-Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Reliance Top 200 Retail Direct-Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "SBI Bluechip Direct-Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "MOTILAL OSWAL MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Motilal Oswal MOSt Focused Multicap 35 Fund - Direct Dividend Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "SBI Bluechip Direct-Div"
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Religare Invesco Growth Fund - Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Religare Invesco Growth Fund - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Equity",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Kotak Select Focus Fund - Growth - Direct"
+  },
+  {
+    "Risk": "High",
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "Sundaram Top 100 Fund Series - I Regular Plan - Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Equity: Large & Mid Cap",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Value Fund Series 7 Regular Plan Dividend Payout"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE SAVINGS FUND - RETAIL - FORTNIGHTLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE ULTRA SHORT TERM FUND - RETAIL MONTHLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS MONEY PLUS FUND - DIVIDEND - DAILY"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS MONEY PLUS FUND - INST DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK FLOATING RATE FUND - INSTITUTIONAL PLAN - DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP MERRILL LYNCH FLOATING RATE FUND - INSTITUTIONAL PLAN-DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP MERRILL LYNCH FLOATING RATE FUND - INSTITUTIONAL PLAN-WEEKLY DIVIDEND REINVEST"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK FLOATING RATE FUND - REGULAR PLAN-DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK FLOATING RATE FUND - REGULAR PLAN-DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK FLOATING RATE FUND - REGULAR PLAN - WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK MONEY MANAGER FUND - INSTITUTIONAL PLAN - DAILY DIVIDEND REINVEST"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK MONEY MANAGER FUND - REGULAR PLAN - DAILY DIVIDEND REINVEST"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK MONEY MANAGER FUND - REGULAR PLAN - WEEKLY DIVIDEND REINVEST"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK SHORT TERM FUND-MONTHLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK SHORT TERM FUND - WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TEMPLETON FLOATING RATE INCOME FUND-LONG TERM PLAN-INSTITUTIONAL OPTION - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TEMPLETON FLOATING RATE INCOME FUND - LONG TERM - SUPER INSTITUTIONAL PLAN - DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC CASH MANAGEMENT FUND TREASURY ADVANTAGE -RETAIL PLAN WEEKLY DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC CASH MANAGEMEN FUND TREASURY ADVANTAGE - WHOLESALE PLAN WEEKLY DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC CASH MANAGEMENT FUND -TREASURY ADVANTAGE  PLAN - WHOLESALE - DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC FLOATING RATE INCOME FUND - LONG TERM PLAN - DIVIDEND REINVESTMENT"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC FLOATING RATE INCOME FUND - SHORT TERM PLAN - RETAIL OPTION-DIVIDEND WEEKLY."
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC FLOATING RATE INCOME FUND - SHORT TERM PLAN - RETAIL OPTION-DAILY DIVIDEND REINVESTMENT"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC FLOATING RATE INCOME FUND - SHORT TERM PLAN - RETAIL OPTION-DIVIDEND WEEKLY"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC FLOATING RATE INCOME FUND-SHORT TERM PLAN-WHOLESALE-DIVIDEND - WEEKLY 1"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC FLOATING RATE INCOME FUND - SHORT TERM PLAN - WHOLESALE OPTION -  DIVIDEND REINVESTMENT - DAILY"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE SHORT TERM OPPORTUNITIES FUND-RETAIL GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA FLOATING RATE FUND-LONG TERM PLAN-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE SHORT TERM FUND-PLAN B(GROWTH)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS MONEY PLUS FUND-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS MONEY PLUS FUND - INST GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP MERRILL LYNCH FLOATING RATE FUND - INSTITUTIONAL PLAN-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP BlackRock Income Opportunities Fund - Regular Plan - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK MONEY MANAGER FUND - INSTITUTIONAL PLAN - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK MONEY MANAGER FUND - REGULAR PLAN - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK SHORT TERM FUND- REGULAR PLAN -GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC FLOATING RATE INCOME FUND - LONG TERM PLAN - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC FLOATING RATE INCOME FUND-SHORT TERM PLAN-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC FLOATING RATE FUND - LONG TERM PLAN-INSTITUTIONAL OPTION-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC FLOATING RATE FUND - LONG TERM PLAN-REGULAR OPTION-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC INCOME FUND - SHORT TERM PLAN-REGULAR PLAN-GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC ULTRA SHORT TERM BOND FUND - INST - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC ULTRA SHORT TERM BOND FUND - REGULAR - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JM FLOATER FUND - LONG TERM PLAN-GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC FLOATING RATE FUND - LONG TERM PLAN-INSTITUTIONAL OPTION-DIVIDEND - WEEKLY"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC FLOATING RATE FUND - LONG TERM PLAN-REGULAR OPTION-DIVIDEND - MONTHLY"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC FLOATING RATE - LT- INST DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC INCOME FUND - SHORT TERM PLAN - REGULAR - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC ULTRA SHORT TERM BOND FUND - INST. DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC ULTRA SHORT TERM BOND FUND - INST.- WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC LIQUID PLUS FUND - INST. PLUS - DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC ULTRA SHORT TERM BOND FUND - INST. PLUS - WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC LIQUID PLUS FUND - REGULAR - DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC INCOME FUND-STP-WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "ING Vysya Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ING VYSYA INCOME FUND-SHORT TERM PLAN -DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JM MONEY MANAGER  FUND REGULAR PLAN - DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JM MONEY MANAGER FUND - SUPER PLAN - DAILY DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JM MONEY MANAGER FUND - SUPER PLUS PLAN - DALIY DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JM SHORT TERM FUND..-DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "KOTAK FLEXI-DEBT-DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "KOTAK FLEXI DEBT SCHEME - QUARTERLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Kotak Treasury Advantage Fund- Monthly Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Kotak Treasury Advantage Fund-Weekly Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Kotak Treasury Advantage Fund- Daily Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIGARE ULTRA SHORT TERM FUND - INSTITUTIONAL WEEKLY DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL FLOATING RATE FUND - FMP-INSTI. MONTHLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL FLOATING RATE FUND - FMP-INSTI. WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL FLOATING RATE FUND FMP - INSTITUTIONAL - DAILY DIVIDEND REINVESTMENT   "
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JM MONEY MANAGER FUND - REGULAR PLAN - GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JM MONEY MANAGER FUND - SUPER PLAN - GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JM MONEY MANAGER FUND - SUPER PLUS PLAN - GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JM SHORT TERM FUND..-GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Kotak Treasury Advantage Fund-Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "LIC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "LICMF SAVING PLUS FUND-GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL SHORT TERM PLAN-INSTITUTIONAL Â?? GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "PRUDENTIAL ICICI FLEXIBLE INCOME PLAN PREMIUM-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "PRUDENTIAL ICICI FLOATING RATE PLAN-GROWTH - OPTION A"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL FLOATING RATE PLAN B-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL FLOATING RATE PLAN B-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Corporate Bond Fund B - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE FLOATING RATE FUND-GROWTH-GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE MEDIUM TERM FUND-RETAIL PLAN - GROWTH PLAN GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SBI Corporate Bond Fund Regular Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS ULTRA SHORT TERM FUND REGULAR PLAN BONUS  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS MONEY PLUS FUND REGULAR PLAN BONUS  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM SELECT DEBT SHORT TERM ASSET PLAN REGULAR GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TATA FLOATER FUND GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TATA SHORT TERM BOND FUND - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "UTI - TREASURY ADVANTAGE FUND - GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "UTI - FLOATING RATE STP-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE MONEY MANAGER FUND - RETAIL OPTION - GROWTH PLAN    "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "P_RELIANCE MONEY MANAGER FUND- GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC MONEY MANAGER FUND - TREASURY PLAN - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC CASH MANAGEMENT FUND - TREASURY ADVANTAGE PLAN - RETAIL - GROWTH "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS CASH OPPORTUNITIES FUND REGULAR PLAN GROWTH "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS ULTRA SHORT TERM FUND - INSTITUTIONAL GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "LIC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "LICMF INCOME PLUS FUND - GROWTH PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIGARE ULTRA SHORT TERM FUND - INSTITUTIONAL GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "KOTAK FLEXI DEBT SCHEME INSTITUTIONAL - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "BNP Paribas Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "FORTIS MONEY PLUS REGULAR GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "ING Vysya Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ING TREASURY ADVANTAGE FUND-REG GROWTH  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "ING Vysya Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ING TREASURY ADVANTAGE FUND - INSTITUTIONAL GROWTH  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS CASH OPPORTUNITIES FUND - INSTITUTIONAL PLAN GROWTH    "
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Flexible Income - Regular Plan - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC CASH MANAGEMENT FUND - TREASURY ADVANTAGE PLAN - WHOLESALE - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Flexible Income Plan Retail Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "FORTIS MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "FORTIS MONEY PLUS INSTITUITIONAL GROWTH  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Axis Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "AXIS TREASURY ADVANTAGE FUND - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC MONEY MANAGER FUND -TREASURY PLAN- SUPER INST PLAN C - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "L&T FREEDOM INCOME -SHORT TERM FUND-REGULAR -REGULAR-CUM-ORIGINAL  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Franklin India Ultra Short Bond Fund - Retail Plan GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "L&T Low Duration Fund - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "UTI - TREASURY ADVANTAGE FUND - INSTITUTIONAL-GROWTH  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC MONEY MANAGER FUND -TREASURY PLAN - INST PLAN B-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "UTI-FLOATING RATE FUND - SHORT TERM PLAN - INSTITUTIONAL GROWTH  OPTION  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SBI-SHF- ULTRA SHORT TERM FUND - INSTITUTIONAL PLAN - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC FLOATING RATE INCOME FUND - SHORT TERM PLAN - WHOLESALE OPTION - GROWTH "
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIGARE ULTRA SHORT TERM FUND - REGULAR GROWTH.  "
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL FLEXIBLE INCOME PLAN PREMIUM - DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL FLEXIBLE INCOME PLAN PREMIUM - WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL FLOATING RATE PLAN B - DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL FLOATING RATE PLAN B"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL FLOATING RATE PLAN C - FORTNIGHTLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL FLOATING RATE PLAN A - DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "PRUDENTIAL ICICI FLOATING RATE PLAN-- OPTION C - DAILY DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Savings Fund -Regular-Daily Dividend "
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL FLOATING RATE PLAN D - FORTNIGHTLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE FLOATING RATE FUND - SHORT TERM PLAN - DAILY DIVIDEND REINVESTMENT"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE FLOATING RATE FUND - SHORT TERM PLAN - DIVIDEND PLAN-MONTHLY DIVIDEND "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE FLOATING RATE FUND-DIVIDEND PLAN-WEEKLY DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE MEDIUM TERM FUND-RETAIL PLAN - QUARTERLY DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SBI MAGNUM INSTA CASH FUND - LIQUID FLOATER PLAN - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM FLEXIBLE FUND ST INST. -DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM FLEXIBLE FUND-SHORT TERM REGULAR MON DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDBI MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDBI ULTRA SHORT TERM FUND - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM ULTRA ST FUND INST GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Canbank Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "CANARA ROBECO TREASURY ADVANTAGE INSTITUTIONAL GROWTH FUND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Canbank Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "CANARA ROBECO TREASURY ADVANTAGE SUPER INSTT GROWTH FUND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "KOTAK FLEXI DEBT SCHEME - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "UTI TREASURY ADVANTAGE FUND INSTITUTIONAL PLAN (BONUS OPTION)(FORMERLY IL&FS BOND FUND)  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE SAVINGS FUND (DISCIPLINE ADVANTAGE PLAN)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Fidelity Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "FIDELITY ULTRA SHORT TERM DEBT FUND INSTITUTIONAL - GROWTH OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "L&T Low Duration Fund Retail - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM ULTRA ST FUND RETAIL GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC MONEY MANAGER FUND - INVESTMENT PLAN - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC MONEY MANAGER FUND - INVESTMENT PLAN -INST PLAN B-GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Birla Sun Life Cash Manager - Institutional Plan - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "ING Vysya Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ING SHORT TERM INCOME FUND -GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM ULTRA ST FUND SUPER INST. GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TATA TREASURY MANAGER SHIP GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Franklin India Ultra Short Bond Fund - Super Institutional Plan GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS ULTRA SHORT TERM FUND REGULAR GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JP MORGAN ASSET MANAGEMENT",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JPMORGAN INDIA TREASURY FUND RETAIL GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JP MORGAN ASSET MANAGEMENT",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JPMORGAN INDIA TREASURY FUND SUPER INST GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TEMPLETON FLOATING RATE INCOME FUND SHORT TERM PLAN RETAIL OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TEMPLETON INDIA IBA GROWTHPLAN A BONUS 1"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TEMPLETON INDIA INCOME BUILDER ACCOUNT PLAN B GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM BNP PARIBAS SELECT  DEBT-SHORT-TERM ASSET PLAN-MONTHLY DIVIDEND REINVST"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TATA FLOATER FUND WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TATA FLOATER FUND - DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TATA SHORT TERM BOND FUND - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PineBridge Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "AIG INDIA TREASURY PLUS FUND RETAIL DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM BNP PARIBAS LIQUID PLUS INST. DIV. REIN. DAILY"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE MONEY MANAGER FUND - RETAIL OPTION - WEEKLY DIVIDEND PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE MONEY MANAGER FUND - RETAIL OPTION - DAILY DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "LIC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "LICMF INCOME PLUS FUND - WEEKLY DIVIDEND PLAN    "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE MEDIUM TERM FUND - DAILY DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE MEDIUM TERM FUND - WEEKLY DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE MEDIUM TERM FUND - MONTHLY DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC-MONEY MANAGER FUND-TREASURY PLAN-PLAN B-DAILY DIV"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC MONEY MANAGER FUND - TREASURY PLAN - DAILY DIV"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC-MONEY MANAGER FUND-TREASURY PLAN-WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC-MONEY MANAGER FUND-TREASURY PLAN-PLAN B-WEEKLY DIV"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS Ultra Short Term Fund- Weekly Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Franklin India Ultra Short Bond Fund - Retail Plan WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC MONEY MANAGER FUND - INVESTMENT PLAN - PLAN A - DAILY DIV."
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC MONEY MANAGER FUND - INVESTMENT PLAN - INST PLAN B-DAILY DIV."
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC-MONEY MANAGER FUND-INVESTMENT PLAN A-WEEKLY DIV"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC CASH MANAGEMENT FUND - TREASURY ADVANTAGE PLAN - RETAIL - DAILY DIVIDEND "
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC CASH MANAGEMENT FUND - TREASURY ADVANTAGE PLAN - RETAIL - MONTHLY DIVIDEND "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE MONEY MANAGER FUND - WEEKLY DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "UTI TREASURY ADVANTAGE FUND DAILY DIVIDEND PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "LIC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "LICMF INCOME PLUS FUND - MONTHLY DIVIDEND PLAN    "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS ULTRA SHORT TERM FUND - INSTITUTIONAL DAILY DIVIDEND "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Canbank Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "CANARA ROBECO TREASURY ADVANTAGE RETAIL DAILY DIVIDEND FUND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Canbank Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "CANARA ROBECO TREASURY ADVANTAGE INSTITUTIONAL DAILY DIVIDEND FUND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS CASH OPPORTUNITIES FUND REGULAR PLAN DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS ULTRA SHORT TERM FUND - REGULAR WEEKLY DIVIDEND PLAN    "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TATA TREASURY MANAGER RETAIL INVESTMENT FUND - MONTHLY DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Canbank Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "CANARA ROBECO SHORT TERM INSTITUTIONAL DIVIDEND FUND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Canbank Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "CANARA ROBECO SHORT TERM RETAIL DIVIDEND FUND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIGARE ULTRA SHORT TERM FUND - INSTITUTIONAL DAILY DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "LIC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "LICMF INCOME PLUS FUND - DAILY DIVIDEND PLAN    "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Franklin India Savings Plus Fund Quarterly Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL FLEXIBLE INCOME PLAN REGULAR DAILY DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "KOTAK FLEXI DEBT - INSTITUTIONAL - DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "FORTIS MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "FORTIS MONEY PLUS INSTITUTIONAL PLAN DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "BNP Paribas Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BNP PARIBAS MONEY PLUS REGULAR PLAN DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "BNP Paribas Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "FORTIS MONEY PLUS REGULAR MONTHLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "BNP Paribas Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BNP PARIBAS MONEY PLUS FUND - REGULAR -WEEKLY DIV REINVEST"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS CASH OPPORTUNITIES FUND - INSTITUTIONAL PLAN WEEKLY DIVIDEND    "
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL ULTRA SHORT TERM PLAN SUPER PREMIUM DAILY DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Franklin India Ultra Short Bond Fund - Retail Plan DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE MONEY MANAGER FUND - RETAIL OPTION - MONTHLY DIVIDEND PLAN    "
+  },
+  {
+    "Risk": null,
+    "AmcName": "LIC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "LICMF SAVINGS PLUS FUND - WEEKLY DIVIDEND PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "LIC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "LICMF SAVINGS PLUS FUND - DAILY DIVIDNED"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Flexible Income - Regular Plan - Daily Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Flexible Income - Regular Plan - Weekly Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI Prudential Flexible Income Plan Retail Daily Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL FLEXIBLE INCOME PLAN RETAIL WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC MONEY MANAGER FUND -TREASURY PLAN -SUPER INST PLAN C-WEEKLY DIV"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE SAVINGS FUND-RETAIL-MONTHLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE FLOATING RATE FUND-LONG TERM - RETAIL PLAN-WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE FLOATING RATE FUND-LONG TERM - INSTITUTIONAL PLAN-WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC-MONEY MANAGER FUND-INVESTMENT PLAN-INST PLAN B-WEEKLY DIV."
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "UTI - TREASURY ADVANTAGE FUND - INSTITUTIONAL-DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TATA TREASURY MANAGER FUND SUPER HIGH INVESTMENT PLAN MONTHLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM BNP PARIBAS ULTRA SHORT TERM REGULAR - QUARTERLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM BNP PARIBAS SHORT TERM FUND RETAIL DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC MONEY MANAGER FUND - TREASURY PLAN - SUPER INST PLAN C - DAILY DIV  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Fidelity Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "FIDELITY ULTRA SHORT TERM DEBT FUND SUPER INSTITUTIONAL - DAILY DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS ULTRA SHORT TERM FUND REGULAR DAILY DIVIDEND PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "FORTIS MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "FORTIS SHORT TERM INCOME FUND-INSTITUTIONAL PLUS PLAN-DAILY DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Baroda Pioneer Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BARODA PIONEER TREASURY ADVANTAGE FUND - INSTITUTIONAL DAILY DIVIDEND PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL FLOATING RATE PLAN A - WEEKLY DIVIDEND "
+  },
+  {
+    "Risk": null,
+    "AmcName": "HDFC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HDFC SHORT TERM OPPORTUNITIES FUND - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIGARE CREDIT OPPORTUNITIES FUND - REGULAR MONTHLY DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIGARE CREDIT OPPORTUNITIES FUND - INSTITUTIONAL - MONTHLY DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIGARE CREDIT OPPORTUNITIES FUND - REGULAR PLAN - DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL LONG TERM FLOATING RATE PLAN C - WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Fidelity Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "FIDELITY ULTRA SHORT TERM DEBT FUND RETAIL - WEEKLY DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Fidelity Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "FIDELITY ULTRA SHORT TERM DEBT FUND INSTITUTIONAL - WEEKLY DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "UTI TREASURY ADVANTAGE FUND WEEKLY DIVIDEND PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE SHORT TERM OPPORTUNITIES FUND-RETAIL-WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JP MORGAN ASSET MANAGEMENT",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JPMORGAN INDIA TREASURY FUND - RETAIL - DAILY DIVIDEND PLAN - REINVEST  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE SHORT TERM OPPPORTUNITIES FUND-INSTITUTIONAL WEEKLY DIVIDEND PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "UTI FLOATING RATE FUND - SHORT TERM PLAN INSTITUIONAL DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL ULTRA SHORT TERM PLAN REGULAR WEEKLY DIVIDEND "
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK MONEY MANAGER FUND - INSTITUTIONAL PLAN - WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC ULTRA SHORT TERM FUND MONTHLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Axis Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "AXIS TREASURY ADVANTAGE FUND - RETAIL WEEKLY DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Axis Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "AXIS TREASURY ADVANTAGE FUND - INSTITUTIONAL DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC FLOATING RATE FUND - LONG TERM - REGULAR OPTION - WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Axis Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "AXIS TREASURY ADVANTAGE FUND - INSTITUTIONAL WEEKLY DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JM MONEY MANAGER FUND - REGULAR PLAN - WEEKLY DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": " JM MONEY MANAGER FUND - SUPER PLAN - WEEKLY DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JM MONEY MANAGER FUND - SUPER PLUS PLAN - WEEKLY DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM ULTRA ST FUND RETAIL DIVIDEND WEEKLY"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL ULTRA SHORT TERM FUND DIVIDEND REINVESTMENT WEEKLY  "
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL FLOATING RATE PLAN B - WEEKLY DIVIDEND "
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL FLOATING RATE PLAN C - WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC MONEY MANAGER FUND - TREASURY PLAN A- MONTHLY DIV"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC ULTRA SHORT TERM BOND FUND - REGULAR - WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIGARE ULTRA SHORT TERM FUND - REGULAR DAILY DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIGARE ULTRA SHORT TERM FUND - REGULAR WEEKLY DIVIDEND."
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS TREASURY FUND INVESTMENT INSTL PLAN-WEEKLY DIV  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC ULTRA SHORT TERM FUND DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Franklin India Ultra Short Bond Fund - Institutional Plan GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "L&T FLOATING RATE FUND - CUM"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PineBridge Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "AIG INDIA TREASURY FUND SUPER INSTITUTIONAL GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE CASH MANAGER - GROWTH (CONVERTED)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM BOND SAVER - BONUS (BONUS UNITS)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "L&T FREEDOM INCOME-STP-REGULAR-CUM-BONUS"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL FLOATING RATE PLAN D - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIGARE CREDIT OPPORTUNITIES FUND - INSTITUTIONAL GROWTH  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "L&T Ultra Short Term Fund Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PRINCIPAL Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "PRINCIPAL ULTRA SHORT TERM FUND GROWTH PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "BNP Paribas Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BNP PARIBAS MONEY PLUS INSTITUTIONAL GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC ULTRA SHORT TERM FUND GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Taurus Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TAURUS ULTRA SHORT TERM BOND FUND - SUPER INSTI GROWTH PLANÂ  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS CASH OPPORTUNITIES FUND INSTITUTIONAL PLAN GROWTH "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Axis Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "AXIS SHORT TERM FUND - RETAIL GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL ULTRA SHORT TERM PLAN PREMIUM GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Morgan Stanley Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "MORGAN STANLEY SHORT TERM BOND FUND - REGULAR GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "BNP Paribas Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BNP PARIBAS SHORT TERM INCOME FUND - REGULAR - GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "EDELWEISS MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "EDELWEISS ULTRA SHORT TERM BOND FUND - INSTITUTIONAL - GROWTH PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE SAVINGS FUND- RETAIL - GROWTH (FV-100)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE CASH MANAGER - REGULAR -GROWTH (FV-100)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Birla Sun Life Savings Fund - Growth - Regular Plan"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Baroda Pioneer Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BARODA PIONEER TREASURY ADVANTAGE FUND - INSTITUTIONAL GROWTH PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE TREASURY OPTIMIZER PLAN  GROWTH (FV - 100)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SBI Ultra Short Term Debt Fund - Regular Plan - Growth"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BSL FLOATING RATE FUND - LONG TERM - INSTL - GROWTH(FV-100)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SBI-SHF- ULTRA SHORT TERM FUND - INSTITUTIONAL PLAN - GROWTH (FV-1000)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS MONEY PLUS FUND REGULAR PLAN WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JP MORGAN ASSET MANAGEMENT",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JPMORGAN INDIA TREASURY FUND SUPER INST. DAILY  A"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC MONEY MANAGER FUND - INVESTMENT PLAN - QTRLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS ULTRA SHORT TERM FUND REGULAR WEEKLY DIVIDEND PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM ULTRA ST FUND INST. DIV. REIN. WEEKLY"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "L&T FREEDOM INCOME STP INST - DAILY DIVIDEND REINVESTMENT PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "KOTAK FLEXI DEBT SCHEME - WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Canbank Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "CANARA ROBECO TREASURY ADVANTAGE RETAIL DIVIDEND FUND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Canbank Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "CANARA ROBECO TREASURY ADVANTAGE RETAIL WEEKLY DIV REINV FUND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE SAVINGS FUND INSTL. - FORTNIGHTLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE ULTRA SHORT TERM FUND -INSTITUTIONAL WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Fidelity Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "FIDELITY ULTRA SHORT TERM DEBT FUND RETAIL - MONTHLY DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Fidelity Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "FIDELITY ULTRA SHORT TERM DEBT FUND SUPER INSTITUTIONAL - WEEKLY DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC FLOATING RATE FUND - LONG TERM PLAN - INSTITUTIONAL OPTION - FORTNIGHTLY  DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "HSBC Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "HSBC FLOATING RATE-LT-REG DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "ING Vysya Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ING TREASURY ADVANTAGE FUND - INSTITUTIONAL WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "ING Vysya Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ING TREASURY ADVANTAGE FUND - REG QTRLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "ING Vysya Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ING TREASURY ADVANTAGE FUND REG-WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Kotak Mahindra Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "KOTAK FLEXI DEBT SCHEME INSTITUTIONAL - WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM ULTRA ST FUND Reg.DIV REIN DAILY"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC MONEY MANAGER FUND - INVESTMENT PLAN - INST PLAN B-MONTHLY DIV."
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC MONEY MANAGER FUND - INVESTMENT PLAN - PLAN A-MONTHLY DIV."
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC ULTRA SHORT TERM FUND WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PineBridge Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "AIG INDIA TREASURY FUND INSTITUTIONAL WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PineBridge Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "AIG INDIA TREASURY FUND RETAIL WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "PineBridge Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "AIG INDIA TREASURY FUND SUPER INSTITUTIONAL WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "PRUDENTIAL ICICI FLOATING RATE PLAN-DIVIDEND - OPTION A"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "UTI TREASURY ADVANTAGE FUND INSTITUTIONAL WEEKLY DIVIDEND PLAN  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "DSP BlackRock Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DSP BLACKROCK SHORT TERM FUND - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Fidelity Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "FIDELITY ULTRA SHORT TERM DEBT FUND  INSTITUTIONAL - DAILY DIVIDEND OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL FLOATING RATE PLAN D - WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Franklin India Low Duration Fund Monthly Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Franklin India Ultra Short Bond Fund - Super Institutional Plan DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Franklin India Low Duration Fund Quarterly Dividend"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS CASH OPPORTUNITIES FUND INSTITUTIONAL DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS CASH OPPORTUNITIES FUND INSTITUTIONAL PLAN MONTHLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS CASH OPPORTUNITIES FUND REGULAR PLAN WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS MONEY PLUS FUND INSTITUTIONAL PLAN WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JP MORGAN ASSET MANAGEMENT",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JPMORGAN INDIA TREASURY FUND RETAIL WEEKLY DIV"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JP MORGAN ASSET MANAGEMENT",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JP Morgan India Treasury Super Inst-DW Reinvestment"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TEMPLETON FLOATING RATE INCOME FUND LONG TERM PLAN SUPER INSTITUTIONAL"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TEMPLETON FLOATING RATE INCOME FUND SHORT TERM PLAN RETAIL OPTION"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TEMPLETON INDIA INCOME BUILDER ACCOUNT PLAN B (QDP)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TEMPLETON INDIA TREASURY MANAGEMENT ACCOUNT"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Deutsche Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "DWS TREASURY FUND INVESTMENT INSTI PLAN-DAILY DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE CASH PLUS - INSTL. - DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TATA FLOATER FUND - GROWTH (FV-1000)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM FLEXIBLE FUND SHORT TERM RETAIL GROWTH"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Franklin India Ultra Short Bond Fund - Institutional Plan WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SBI - MAGNUM INCOME FUND FR SAVINGS PLUS BOND PLAN-DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": " ICICI Prudential Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "ICICI PRUDENTIAL ULTRA SHORT TERM PLAN REGULAR DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM ULTRA ST FUND SUPER INST.DIV REIN WEEKLY "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Axis Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "AXIS TREASURY ADVANTAGE FUND - RETAIL DAILY DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "BNP Paribas Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BNP PARIBAS MONEY PLUS FUND- DAILY DIVIDEND OPTION "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Franklin India Ultra Short Bond Fund - Super Institutional Plan WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "L&T FREEDOM INCOME STP INST-MONTHLY DIV"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "L&T FREEDOM INCOME STP-REGULAR-SEMI ANNUAL DIV"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "L&T FREEDOM INCOME - STP-REGULAR MONTHLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE CASH MANAGER - DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sundaram Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SUNDARAM MONEY FUND INST.-WEEKLY DIV REIN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "L&T Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "L&T FLOATING RATE FUND DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "JM Financial Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "JM SHORT TERM FUND - INSTITUTIONAL PLAN-DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "RELIGARE MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIGARE CREDIT OPPORTUNITIES FUND - INSTITUTIONAL DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Franklin Templeton Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Franklin India Ultra Short Bond Fund - Institutional Plan DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE MONEY MANAGER FUND - RETAIL OPTION - QUARTERLY DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "UTI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "UTI TREASURY ADVANTAGE FUND INSTITUTIONAL MONTHLY DIVIDEND PLAN "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Axis Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "AXIS SHORT TERM FUND - RETAIL MONTHLY DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Axis Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "AXIS SHORT TERM FUND - RETAIL REGULAR DIVIDEND  "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE SAVINGS FUND - RETAIL - DAILY DIVIDEND (FV-100)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE SAVINGS FUND - RETAIL - WEEKLY DIVIDEND (FV-100)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "Birla Sun Life Savings Fund - Daily Dividend-Regular Plan"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE CASH MANAGER - REGULAR WEEKLY DIVIDEND (FV-100)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE CASH MANAGER - IP - WEEKLY DIVIDEND (FV-100)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE ULTRA SHORT TERM FUND - RETAIL - DAILY DIVIDEND (FV-100)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BSL ULTRA SHORT TERM FUND - RETAIL -FORTNIGHTLY DIVIDEND (FV-100)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE TREASURY OPTIMIZER PLAN -INSTITUTIONAL DAILY DIVIDEND (FV-100)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE SAVINGS FUND - REGULAR - WEEKLY DIVIDEND "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE CASH MANAGER - REGULAR DAILY DIVIDEND (FV-100)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE TREASURY OPTIMIZER PLAN -INSTITUTIONAL FORTNIGHTLY DIVIDEND (FV-100)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Reliance Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "RELIANCE MONEY MANAGER FUND -  MONTHLY DIVIDEND PLAN "
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE CASH MANAGER - IP - DAILY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Tata Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "TATA TREASURY MANAGER SHIP WEEKLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Sahara Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SAHARA SHORT TERM BOND FUND - DIVIDEND PLAN"
+  },
+  {
+    "Risk": null,
+    "AmcName": "IDFC MUTUAL FUND",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "IDFC ULTRA SHORT TERM FUND QUARTERLY DIVIDEND"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SBI-SHF- ULTRA SHORT TERM FUND - INSTITUTIONAL PLAN - DAILY DIVIDEND (FV-1000)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SBI - SHF- ULTRA SHORT TERM FUND - INSTITUTIONAL PLAN -WEEKLY DIVIDEND (FV-1000)"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SBI Ultra Short Term Debt- Weekly Div"
+  },
+  {
+    "Risk": null,
+    "AmcName": "SBI Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "SBI Ultra Short Term Debt -DD"
+  },
+  {
+    "Risk": null,
+    "AmcName": "Birla Sun Life Mutual Fund",
+    "AssetFamily": "Debt",
+    "ClassificationName": "Debt: Ultra Short Term",
+    "HouseReco": null,
+    "SchemeName": "BIRLA SUN LIFE FLOATING RATE FUND - RETAIL- LONG TERM - WEEKLY DIVIDEND"
+  }
+]

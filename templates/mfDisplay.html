@@ -1,0 +1,438 @@
+<div class="mfDisplay" >
+	<header> 
+			    <!-- Navigation -->
+	    <nav class="navbar navbar-default navbar-fixed-top"  >
+	        <div class="container">
+	            <!-- Brand and toggle get grouped for better mobile display -->
+	            <div class="navbar-header page-scroll">
+	                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+	                    <span class="sr-only">Toggle navigation</span>
+	                    <span class="icon-bar"></span>
+	                    <span class="icon-bar"></span>
+	                    <span class="icon-bar"></span>
+	                </button>
+	                <a class="navbar-brand" href="http://finotrust.com"><img src="./images/logo_img.jpg " ></a>
+	            </div>
+
+	            <!-- Collect the nav links, forms, and other content for toggling -->
+	            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav navbar-right">
+	                    <li class="hidden"><a href="#page-top"></a></li>
+						<li class="page-scroll"><a href="#/whyFino">Why Fino</a></li>
+						<li class="page-scroll"><a href="#/whatWeDo" >What We Do</a></li>
+						<li class="page-scroll"><a href="#/aboutUs">About Us</a></li>
+						<li class="page-scroll"><a href="#/pricing" >Pricing</a></li>
+						<li class="page-scroll"><a href="#/FAQs">FAQs</a></li>
+						<li class="page-scroll"><a class="cd-signin" href="#">Sign in</a></li>
+						<li class="page-scroll" id="sign-up" ><a href="#/getStarted"> Sign Up </a></li> 		
+				</ul>
+	            </div>
+	        </div>
+	    </nav>
+	</header>
+	<div class="main-wrapper" ><br/><br/><br/>
+		<div class="two-tone-layout left-sidebar">
+			<div class="equal-content-sidebar">
+				<div class="container">
+					<div class="sidebar-wrapper ">
+						<aside>
+							<div class="mb-10"></div>
+							<div class="result-search-form-wrapper clearfix">
+								<h3 class="text-center">Modify Search</h3>
+								<div class="inner">
+									<form class="gap-10" ng-controller="datePickCrl">
+										<div class="col-xs-12 col-sm-12 paddingLeft2">
+											<div class="form-group form-icon-right mb-10">
+												<label>Amount you want to invest?</label>
+												<input class="form-control mb-0" placeholder="Rs. 25,000" type="text">
+											</div>
+										</div>
+										<div class="col-xs-12 col-sm-6 paddingLeft2">
+											<div class="form-group form-icon-right mb-10"> 
+												<label>From</label>
+												<input name="arrival_date" class="form-control mb-0" id="dpd1" placeholder="From" type="text">
+												<i class="fa fa-calendar"></i>
+											</div>
+										</div>
+										<div class="col-xs-12 col-sm-6 paddingLeft2">
+											<div class="form-group form-icon-right mb-10"> 
+												<label>To</label>
+												<input name="departure_date" class="form-control mb-0" id="dpd2" placeholder="To" type="text">
+												<i class="fa fa-calendar"></i>
+											</div>
+										</div>
+										<div class="col-xs-12 col-sm-12 paddingLeft2">
+												<label>Investment type</label>
+										</div>
+										<div class="col-xs-12 col-sm-6 paddingLeft2">
+											<div class="form-group checkbox"  style="margin-top : 0;">
+										      <label><input type="checkbox" value="" name="taxSaving">Tax Saving</label>
+										    </div>
+										</div>
+										<div class="col-xs-12 col-sm-6 paddingLeft2">
+											<div class="form-group checkbox" style="margin-top : 0;">
+										      <label><input type="checkbox" value="" name="regular">Regular</label>
+										    </div>
+										</div>
+										<!--
+										<div class="col-xs-6 col-sm-4">
+											<div class="form-group">
+												<label>Adults</label>
+												<div class="fancy-select"><select class="custom-select fancified" id="change-search-adult" style="width: 1px; height: 1px; display: block; position: absolute; top: 0px; left: 0px; opacity: 0;">
+													<option value="0">Adult</option>
+													<option value="1">1</option>
+													<option value="2">2</option>
+													<option value="3">3</option>
+													<option value="4">4‎</option>
+													<option value="5">5</option>
+												</select><div class="form-control">Adult</div><ul class="options"><li data-raw-value="0" class="selected">Adult</li><li data-raw-value="1">1</li><li data-raw-value="2">2</li><li data-raw-value="3">3</li><li data-raw-value="4">4‎</li><li data-raw-value="5">5</li></ul></div>
+											</div>
+										</div>
+										<div class="col-xs-6 col-sm-4">
+											<div class="form-group">
+												<label>Children</label>
+												<div class="fancy-select"><select class="custom-select fancified" id="change-search-child" style="width: 1px; height: 1px; display: block; position: absolute; top: 0px; left: 0px; opacity: 0;">
+													<option value="0">Child</option>
+													<option value="1">1</option>
+													<option value="2">2</option>
+													<option value="3">3</option>
+													<option value="4">4‎</option>
+													<option value="5">5</option>
+												</select><div class="form-control">Child</div><ul class="options"><li data-raw-value="0" class="selected">Child</li><li data-raw-value="1">1</li><li data-raw-value="2">2</li><li data-raw-value="3">3</li><li data-raw-value="4">4‎</li><li data-raw-value="5">5</li></ul></div>
+											</div>
+										</div>
+										-->
+										<div class="clear"></div>
+										
+										<div class="col-sm-12">
+											<button class="btn btn-block btn-primary btn-icon mt-5">Search <span class="icon"><i class="fa fa-search"></i></span></button>
+										</div>
+										
+										<div class="clear mb-10"></div>
+										<div class="clear"></div>
+
+									</form>
+								</div>
+							</div>
+							
+							<div class="result-filter-wrapper clearfix">
+							
+								<h3><span class="icon"><i class="fa fa-sliders"></i></span> Filter</h3>
+								<div class="another-toggle filter-toggle">
+									<h4 class="active"  data-toggle="collapse" data-target="#risk-toggle">Risk</h4>
+									<div class="another-toggle-content" style="display: block;">
+										<div class="another-toggle-inner collapse in" area-expanded="true"  id="risk-toggle"  class="collapse in" >
+											<div class="checkbox-block font-icon-checkbox">
+												<input id="filter_amenities-1" name="filter_amenities" class="checkbox" checked="checked" type="checkbox">
+												<label class="" for="filter_amenities-1">Any</label>
+											</div>
+											<div class="checkbox-block font-icon-checkbox">
+												<input id="filter_amenities-2" name="filter_amenities" class="checkbox" type="checkbox">
+												<label class="" for="filter_amenities-2">Low</label>
+											</div>
+											<div class="checkbox-block font-icon-checkbox">
+												<input id="filter_amenities-3" name="filter_amenities" class="checkbox" type="checkbox">
+												<label class="" for="filter_amenities-3">Medium</label>
+											</div>
+											<div class="checkbox-block font-icon-checkbox">
+												<input id="filter_amenities-4" name="filter_amenities" class="checkbox" type="checkbox">
+												<label class="" for="filter_amenities-4">High</label>
+											</div>
+											<div id="amenities-more-less" class="collapse"> 
+												<div class="inner">
+													<div class="checkbox-block font-icon-checkbox">
+														<input id="filter_amenities-6" name="filter_amenities" class="checkbox" type="checkbox">
+														<label class="" for="filter_amenities-6">Very High</label>
+													</div>
+													<div class="checkbox-block font-icon-checkbox">
+														<input id="filter_amenities-7" name="filter_amenities" class="checkbox" type="checkbox">
+														<label class="" for="filter_amenities-7">No Risk</label>
+													</div>
+												</div>
+											</div>
+											<button class="btn btn-more-less" data-toggle="collapse" data-target="#amenities-more-less">Show more</button>
+										</div>
+									</div>
+								</div>
+								
+								<div class="another-toggle filter-toggle">
+									<h4 class="active " data-toggle="collapse" data-target="#exit-load">Exit Load</h4>
+									<div class="another-toggle-content" style="display: block;" >
+										<div class="another-toggle-inner collapse" id="exit-load" class="collapse" aria-expanded="true">
+											<div class="checkbox-block font-icon-checkbox">
+												<input name="" class="checkbox" checked="checked" type="checkbox">
+												<label class="" for="filter_facility-1">Any</label>
+											</div>
+											<div class="checkbox-block font-icon-checkbox">
+												<input name="" class="checkbox" type="checkbox">
+												<label class="" for="filter_facility-2">Yes</label>
+											</div>
+											<div class="checkbox-block font-icon-checkbox">
+												<input name="" class="checkbox" type="checkbox">
+												<label class="" for="filter_facility-3">No</label>
+											</div>
+										</div>
+									</div>
+								</div>
+								
+								<div class="another-toggle filter-toggle">
+									<h4 class="active " data-toggle="collapse" data-target="#min-inv">Minimum Investment</h4>
+									<div class="another-toggle-content" style="display: block;" >
+										<div class="another-toggle-inner collapse" id="min-inv" class="collapse" aria-expanded="true">
+											<div class="checkbox-block font-icon-checkbox">
+												<input name="" class="checkbox" type="checkbox">
+												<label class="" for="filter_facility-1">< 1000</label>
+											</div>
+											<div class="checkbox-block font-icon-checkbox">
+												<input name="" class="checkbox" type="checkbox">
+												<label class="" for="filter_facility-2">1000 - 5000</label>
+											</div>
+											<div class="checkbox-block font-icon-checkbox">
+												<input name="" class="checkbox" checked="checked" type="checkbox">
+												<label class="" for="filter_facility-3">> 5000</label>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="another-toggle filter-toggle">
+									<h4 class="active " data-toggle="collapse" data-target="#fund-house">Fund House</h4>
+									<div class="another-toggle-content" style="display: block;" >
+										<div class="another-toggle-inner collapse" id="fund-house" class="collapse" aria-expanded="true" ng-controller="serchFilter">
+											<div class="checkbox-block font-icon-checkbox">
+												<input name="" class="" type="text" ng-model="test" style="margin-bottom: 4px;">
+											</div>
+											<ul>
+											  <li ng-repeat="x in funds | filter : test">
+
+												<input name="" class="checkbox" type="checkbox">
+												<label class="" for="filter_facility-3">{{ x }}</label>
+											  </li>
+											</ul>
+										</div>
+									</div>
+								</div>
+								<div class="another-toggle filter-toggle">
+									<h4 class="active " data-toggle="collapse" data-target="#fund-type">Type of Funds</h4>
+									<div class="another-toggle-content" style="display: block;" >
+										<div class="another-toggle-inner collapse" id="fund-type" class="collapse" aria-expanded="true">
+											<div class="checkbox-block font-icon-checkbox">
+												<input name="" class="checkbox" type="checkbox">
+												<label class="" for="filter_facility-1">Equity Funds</label>
+											</div>
+											<div class="checkbox-block font-icon-checkbox">
+												<input name="" class="checkbox" type="checkbox">
+												<label class="" for="filter_facility-2">Debt Funds</label>
+											</div>
+											<div class="checkbox-block font-icon-checkbox">
+												<input name="" class="checkbox" checked="checked" type="checkbox">
+												<label class="" for="filter_facility-3">Hybrid Funds</label>
+											</div>
+										</div>
+									</div>
+								</div>
+								
+								<!--<div class="another-toggle filter-toggle">
+									<h4 class="">Inactive Toggle</h4>
+									<div class="another-toggle-content">
+										<div class="another-toggle-inner">
+											<p>Affronting imprudence do he he everything. Sex lasted dinner wanted indeed wished out law. Far advanced settling say finished raillery. Offered chiefly farther of my no colonel shyness. Such on help ye some door if in. Laughter proposal laughing any son law consider. Needed except up piqued an.</p>
+										</div>
+									</div>
+								</div>-->
+
+								
+							</div>
+
+							
+							<div class="mb-20"></div>
+							
+						</aside><br/><br/><br/><br/>
+					</div>
+					
+					<div class="content-wrapper">
+						
+						<div class="mb-10"></div>
+						<div class="sort-wrapper">
+					
+							<ul class="clearfix">
+							
+								<li class="text">Sort by: </li>
+								<li class="active"><a href="#">Risk <i class="fa fa-long-arrow-up"></i></a></li>
+								<li><a href="#">Expected Returns</a></li>
+								<li class="dropdown">
+									<a id="area-dropdown" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Historic Returns <i class="fa fa-caret-down"></i>
+									</a>
+									<ul class="dropdown-menu" aria-labelledby="area-dropdown">
+										<li><a href="#">1 Month</a></li>
+										<li><a href="#">3 Month</a></li>
+										<li><a href="#">6 Month</a></li>
+										<li><a href="#">1 Year</a></li>
+										<li><a href="#">3 Year</a></li>
+										<li><a href="#">5 Year</a></li>
+									</ul>
+								</li>
+							</ul>
+						
+						</div>
+						
+						<div class="hotel-item-list-wrapper comboSchemes mb-40" ng-controller="serchFilter">
+							<div class="data1"  ng-repeat="combos in combo">
+								<div class="hotel-item-list">
+									<div class="image" style="background-image:url('images/TLH/3.png');"></div>
+									<div class="content">
+										<div class="heading">
+											<h4>{{combo[$index].ComboName}}</h4>
+										</div>
+										<div class="risk-info">
+											<p>Risk Level :   <span><strong style="color:red; font-weight: 600;">{{combo[$index].Risk}}</strong></span></p>
+										</div>
+										<div class="risk-info" ng-if="combo[$index].TaxSaving == 'Y'">
+											<p><i class="fa fa-check-square-o" style="color: #18bb9c" aria-hidden="true"></i> Tax Saving</p>
+										</div>
+										<div class="price-wrapper ">
+											<table class="previousStats">
+												<thead>
+													<th>1 Mon</th>
+													<th class="hidden-6m">3 Mon</th>
+													<th class="hidden-6m">6 Mon</th>
+													<th>1 Yr</th>
+													<th>3 Yr</th>
+													<th>5 Yr</th>
+												</thead>
+												<tr>
+													<td>8%</td>
+													<td class="hidden-6m">8.4%</td>
+													<td class="hidden-6m">8.2%</td>
+													<td>5.8%</td>
+													<td>9.8%</td>
+													<td>14.8%</td>
+												</tr>
+											</table>
+										</div>
+									</div>
+									<div class="absolute-right">
+										<div class="meta-option">
+											<a class="tripadvisor-module">
+												<div class="texting">
+													Expected Returns
+												</div>
+												<p class="price text-center"><span class="number">Rs. 18,537</span></p>
+												<p class="meta-option ">(Rs. 18,000)</p>
+											</a>
+										</div>
+										<div class="price-wrapper">
+											
+											<a class="btn btn-outline btn-sm" ng-controller="cartController" ng-click="addDate()">Add to cart</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="hotel-item-list-wrapper mb-40" ng-controller="mfFilter">
+							<div class="data1"   ng-repeat="customer in pagedData | limitTo:pageSize" ng-class="{'lastItem': $last}"  >
+								<div class="hotel-item-list"  ng-click="yearhide = !yearhide">
+									<div class="image" style="background-image:url('images/TLH/1.png');"></div>
+									<div class="content">
+										<div class="heading">
+											<h4>{{customer.SchemeName}}</h4>
+										</div>
+										<div class="risk-info">
+											<p>Risk Level :   <span><strong style="color:red; font-weight: 600;">{{customer.Risk}}</strong></span></p>
+										</div>
+										<div class="price-wrapper ">
+											<table class="previousStats">
+												<thead>
+													<th>1 Mon</th>
+													<th class="hidden-6m">3 Mon</th>
+													<th class="hidden-6m">6 Mon</th>
+													<th>1 Yr</th>
+													<th>3 Yr</th>
+													<th>5 Yr</th>
+												</thead>
+												<tr>
+													<td>8%</td>
+													<td class="hidden-6m">8.4%</td>
+													<td class="hidden-6m">8.2%</td>
+													<td>5.8%</td>
+													<td>9.8%</td>
+													<td>14.8%</td>
+												</tr>
+											</table>
+										</div>
+									</div>
+									<div class="absolute-right">
+										<div class="meta-option">
+											<a class="tripadvisor-module">
+												<div class="texting">
+													Expected Returns
+												</div>
+												<p class="price text-center"><span class="number">Rs. 18,537</span></p>
+												<p class="meta-option ">(Rs. 18,000)</p>
+											</a>
+										</div>
+										<div class="price-wrapper">
+											
+											<a class="btn btn-outline btn-sm" ng-controller="cartController" ng-click="addDate()">Add to cart</a>
+										</div>
+									</div>
+								</div>
+								<div class="schemeDetails" ng-hide="yearhide"> 
+									<div class="inner mfScheme row">
+										<div class="col-md-6">
+											<p>Scheme type: {{customer.AmcName}}</p>
+											<p>Asset Family: {{customer.AssetFamily}}</p>
+											<p>MF Classification: {{customer.ClassificationName}}</p>
+										</div>
+										<div class="col-md-6">
+											<p>Minimum Investment: {{customer.AssetFamily}}</p>
+											<p>Lock-in Period: {{customer.AmcName}}</p>
+											<p>Exit Load: {{customer.AssetFamily}}</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="text-center">
+								 <button ng-disabled="pageButtonDisabled(-1)" ng-click="paginate(-1)">Previous</button>
+								 	&nbsp;&nbsp; Page {{currentPage+1}} of {{totalPages}}
+						    	 <button ng-disabled="pageButtonDisabled(1)" ng-click="paginate(1)">Next</button>
+							</div>
+						</div>
+						
+						<!--<div class="result-paging-wrapper">
+						
+							<div class="row">
+							
+								<div class="col-sm-6">
+									<div class="text-holder">
+										Showing 1-30 from 3564
+									</div>
+								</div>
+								
+								<div class="col-sm-6">
+									<ul class="paging">
+										<li class="disable"><a href="#">«</a></li>
+										<li><a href="#">1</a></li>
+										<li class="active"><a href="#">2</a></li>
+										<li><a href="#">3</a></li>
+										<li><a href="#">4</a></li>
+										<li><a href="#">5</a></li>
+										<li><a href="#">6</a></li>
+										<li><a href="#">»</a></li>
+									</ul>
+								</div>
+							
+							</div>
+							
+						</div>-->
+					
+						<div class="mb-20"></div>
+						
+					</div>
+				
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+</div>

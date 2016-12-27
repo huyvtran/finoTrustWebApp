@@ -1,0 +1,206 @@
+body{
+	@include fontl(16);
+}
+p{
+	@include fontm(14);
+}
+a,a:focus{
+	outline: 0;
+}
+.onboarding{margin-top:7em;}
+.step-labels.nav-tabs{
+	li{
+		border: none;
+		&.active{
+			&>a,&>a:hover,&>a:focus{
+			border: none;
+			color: #1F93EF;
+			font-size: 15px;			
+			}
+		}
+		a,a:hover{
+			border:none;
+			color: #999;
+			background-color: transparent;
+		}
+		
+	}
+}
+
+/* Progress Bar */
+.progress{
+	height: 2px;
+	.progress-bar{
+		background-color:#1F93EF;
+	}
+}
+
+section.intro{
+	text-align:center;
+	margin: 25px 0px;
+	h1{
+	@include fontm(36);
+	}
+	p{
+		@include fontl(16);
+		line-height: 30px;
+	}
+	} 
+section.plan_info{
+	.panel{
+		margin: 0px;
+	}
+	.panel-heading{
+		background-color: #18bb9c;
+		color: #fff;
+		text-align: right;
+		padding: 25px 35px;
+		h2{
+		display: inline-block;
+		float: left;
+		@include fontm(22);
+	}
+	span{
+		@include fontl(22);
+	}
+	label{
+		display: block;
+		@include fontl(12);
+	}
+	}
+
+	p {
+		display: inline-block;
+		text-align: center;
+		padding: 0px 20px;
+		
+	}
+}
+/* End section info */
+/* Begin Accordion */
+.panel_accordion .panel-default{
+	.row{
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+	.panel-heading{
+		cursor: pointer;
+		background-color:transparent;
+		padding:0px;
+		position: relative;
+		p{
+			padding:20px 10px 20px 35px;
+			@include fontl(15);
+			max-width: 600px;
+			line-height: 30px;
+			span {
+			input[type="text"]{
+				border: none;
+				background-color: transparent;
+				border-bottom: 1px solid #000;
+				width: 95px;
+			}
+			
+			
+		}
+		.target-amount,.target-time{
+				position: relative;
+				cursor: pointer;
+				display: inline-block;
+				border-bottom: 1px solid #18BB9C;
+				padding: 0px 5px;
+				color: #18BB9C
+				
+			}
+			
+			span.edittext:after{
+				content: "Edit";
+				position: absolute;
+				top: -17px;
+				font-size: 12px;
+				right: -2px;
+			}
+			
+			
+		}
+		span.down_arrow{
+			position: absolute;
+			color: #18BB9C;
+			left: 88%;
+			font-size: 22px;
+			top: 1.7em;			
+		}
+		@media screen and (min-width: 768px){span.down_arrow{left:95%;} }
+	}
+	.goal_metainfo {
+		background-color: #F9F9F9;
+		padding: 25px 0px;
+		label{
+			@include fontl(16);
+			margin-left: 80px;
+			display: block;
+			&:nth-of-type(2){
+				@include fontm(18);
+				font-size:1.05em;
+			}
+		}
+
+	}
+	.plan_icon{
+		width: 50px;
+		height: 50px;
+		display: inline-block;
+		margin-left: 15px;
+	}
+
+	.plan_icon{
+		width: 50px;
+		height: 50px;
+		display: inline-block;
+		margin-left: 15px;
+	}
+	.goal_content{
+		.panel-body{
+			border-top-color: transparent;
+			&.selected_row{
+				background-color:#f2ffe5;
+			}
+			h3{
+				@include fontsb(16);
+			}
+			.chartdiv_dimens{
+				width: 80%;
+				min-height: 210px;
+			}
+			button[type="button"] {
+				background-color: rgb(242, 255, 229);
+				float: right;
+				color: rgb(0, 0, 0);
+				cursor: default;
+			}
+
+			ul {
+				clear: both;
+				li{
+					@include fontsb(14);
+					padding-bottom: 12px;
+					padding-left: 25px;
+				}
+			}
+			a.btn{
+					margin-top: 15px;
+				}		
+		}
+	}
+	
+
+}
+/* End Accordion */
+
+/* For Index forms */
+form[name="onboardinfo"] div.error,form[name="onboardinfo_mob"] div.error {
+	display:none;
+	label {
+		display: block;
+	}
+}
