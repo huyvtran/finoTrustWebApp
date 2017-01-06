@@ -1,0 +1,1034 @@
+<div class="benchmarkPage"> 
+	<header>
+    <!-- Navigation -->
+<nav class="navbar navbar-default inner-head">
+  <div class="container-fluid">
+    <!--<div class="navbar-header">
+      <a class="navbar-brand" href="#">
+        <img alt="Brand" src="images/logo_img.jpg ">
+      </a>
+    </div>-->
+ <div class="navbar-header page-scroll">
+	<button type="button" class="navbar-toggle inner-button" data-toggle="collapse" data-target="#dropdown-thumbnail-preview1">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="glyphicon glyphicon-user"></span>
+	</button>
+	<button type="button" class="navbar-toggle inner-button" data-toggle="collapse" data-target="#dropdown-thumbnail-preview">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	</button>
+	<a class="navbar-brand" href="summary.html"><img src="images/logo_img.jpg " ></a>
+</div>
+	    <div  >
+      <ul class="nav navbar-nav collapse navbar-collapse" id="dropdown-thumbnail-preview">
+		<li class="hidden"><a href="#page-top"></a></li>
+        <li class="page-scroll"><a href="/summary">Summary</a></li>
+        <li class="page-scroll"><a href="/invest">invest</a></li>
+        <li class="page-scroll"><a href="/performance">Performance</a></li>
+        <li class="page-scroll"><a href="/benchmark" class="active-now">Benchmark</a></li>
+        <li class="page-scroll"><a href="/funds">Funds</a></li>
+        <li class="page-scroll hidden-lg" data-toggle="modal" data-target="#tour_modal"><a>take a Tour</a></li>
+
+      </ul>
+	  
+	  
+      <ul class="nav navbar-nav navbar-right " >
+
+        <li class="dropdown visible-lg" data-toggle="modal" data-target="#tour_modal"><a>take a Tour</a></li>
+        <li class="dropdown username" >
+          <a class="dropdown-toggle visible-lg" data-toggle="dropdown" >Username <span class="caret"></span></a>
+          <ul class="dropdown-menu  navbar-collapse" role="menu" id="dropdown-thumbnail-preview1">
+            <li><a href="#">Total Balance</a></li>
+            <li><a href="#">Add a Family Member</a></li>
+            <li><a href="#">Settings</a></li>
+            <li><a href="#">Log Out</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div>
+</nav>
+</header>
+	
+	
+
+<div class="benchmark">
+
+<section id="logo">
+<div  class="text-center">
+	<h3 class="text-center">Ever wondered how your peer group is investing and what goals they are saving for?</h3><br>
+	<h4 class="text-center">Benchmark yourself by scrolling down</h4>
+</div>
+</section>
+<section id="goal-story">
+<div  class="text-center">
+	<h3 class="text-center">goal wise story</h3><br>
+	
+<div class="container">
+	<div class="row">
+		<div class="col-md-3"><div class="chart" id="graph" data-percent="70"></div></div>
+		<div class="col-md-3"><div class="chart" id="graph2" data-percent="30"></div></div>
+		<div class="col-md-3"><div class="chart" id="graph3" data-percent="40"></div></div>
+		<div class="col-md-3"><div class="chart" id="graph4" data-percent="90"></div></div>
+	  </div>
+</div>
+</div>
+</section>
+<section id="age-story">
+<div  class="text-center">
+	<h3 class="text-center">age wise story</h3><br>
+</div>
+	<form id="msform">
+
+	<!-- fieldsets -->
+		<fieldset>
+			<span class="glyphicon glyphicon-chevron-left "></span>Retirement Plan<span class="glyphicon glyphicon-chevron-right next "></span>
+			<div id="chartdiv"  ></div>
+		</fieldset>
+		<fieldset>
+			<span class="glyphicon glyphicon-chevron-left previous"></span>Retirement  2<span class="glyphicon glyphicon-chevron-right next "></span>
+			<div id="chartdiv2"  ></div></fieldset>
+		<fieldset>
+			<span class="glyphicon glyphicon-chevron-left previous"></span> Retirement 3<span class="glyphicon glyphicon-chevron-right  "></span>
+			<div id="chartdiv3"  ></div>
+		</fieldset>
+
+	</form>
+
+</section>
+<section id="invest">
+<div  class="text-center">
+	<h3 class="text-center">investments made per month story</h3><br>
+</div>
+<div id="chartdiv5"  ></div>
+</section>
+    <!-- Modal -->
+    <div class="modal fade tour_popup" id="tour_modal" tabindex="-1" role="dialog" aria-labelledby="tour_modal">
+              <div class="modal-dialog  modal-lg" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h1 class="modal-title" id="myModalLabel">Brief tour of the website</h1>
+                  </div>                
+
+                  <div class="modal-body">
+                  <!-- starting tabs -->
+                   <!-- Nav tabs -->
+                      <ul class="nav nav-tabs" role="tablist" id="tour_tabs">
+                        <li role="presentation"><a href="#summary" aria-controls="summary" role="tab" data-toggle="tab">SUMMARY</a></li>
+                        <li role="presentation"><a href="#Invest" aria-controls="Invest" role="tab" data-toggle="tab">INVEST</a></li>
+                        <li role="presentation"><a href="#Performance" aria-controls="Performance" role="tab" data-toggle="tab">PERFORMANCE</a></li>
+                        <li role="presentation" class="active"><a href="#benchmark" aria-controls="benchmark" role="tab" data-toggle="tab">BENCHMARK</a></li>
+                        <li role="presentation" ><a href="#funds" aria-controls="funds" role="tab" data-toggle="tab">FUNDS</a></li>
+                      </ul>
+
+                      <div class="tab-content">
+                        <div role="tabpanel" class="tab-pane" id="summary">
+                        <!-- starting first tab -->
+                            <!-- Pasting the slider -->
+                        <div id="carousel-tour" class="carousel slide" data-ride="carousel" data-interval="false">
+                  <!-- Indicators --> 
+                          <ol class="carousel-indicators">
+                            <li data-target="#carousel-tour" data-slide-to="0" class="active"></li>
+                            <li data-target="#carousel-tour" data-slide-to="1"></li>
+                            <li data-target="#carousel-tour" data-slide-to="2"></li>
+                            <li data-target="#carousel-tour" data-slide-to="3"></li>
+                          </ol>
+
+                  <!-- Wrapper for slides -->
+                  <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <img src="images/tour/summary/one.png" alt="tour_summary">
+                        </div>
+                        <div class="col-md-6">
+                            <h5>Invest </h5>
+                            <p> Enter the desired amount to invest.</p>
+                            <h5>Add Goal </h5>
+                            <p>Goal setting is pretty simple. A goal is something that you are willing to work for.</p>
+                        </div>                      
+
+                    </div>
+                      
+                    </div>
+                    <div class="item">
+                       <div class="row">
+                        <div class="col-md-6">
+                            <img src="images/tour/summary/two.png" alt="tour_summary">
+                        </div>
+                        <div class="col-md-6">
+                        <h5>Total Balance for all goals</h5>
+                            <p>A consolidated view of your overall investments and earnings. </p>
+                        </div>      
+
+                    </div>
+                    </div>
+
+                    <div class="item">
+                      <div class="row">
+                        <div class="col-md-6">
+                            <img src="images/tour/summary/three.png" alt="tour_summary">
+                        </div>
+                        <div class="col-md-6">
+                        <h5>Goal</h5>
+                            <p>Your goal account summary. </p>
+                        </div>      
+
+                    </div>
+                    </div>
+                    <div class="item">
+				      <div class="row">
+				    	<div class="col-md-6">
+				    		<img src="images/tour/summary/four.png" alt="tour_summary">
+				    	</div>
+				    	<div class="col-md-6">
+				    	<h5>Recent Transactions</h5>
+				    		<p>Track your recent transactions. </p>
+				    	</div>  	
+
+				    </div>
+				    </div>
+				    
+                  </div>
+
+                  <!-- Controls -->
+                  <a class="left carousel-control" href="#carousel-tour" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                  </a>
+                  <a class="right carousel-control" href="#carousel-tour" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                  </a>
+                </div>
+                        <!-- End of slider -->
+                        <!-- end first tab -->
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="Invest">
+                        <!-- start -->
+                            <!-- Pasting the slider -->
+                        <div id="carousel-tour2" class="carousel slide" data-ride="carousel" data-interval="false">
+                  <!-- Indicators --> 
+                          <ol class="carousel-indicators">
+                            <li data-target="#carousel-tour2" data-slide-to="0" class="active"></li>
+                            <li data-target="#carousel-tour2" data-slide-to="1"></li>
+                            <li data-target="#carousel-tour2" data-slide-to="2"></li>
+                            <li data-target="#carousel-tour2" data-slide-to="3"></li>
+                          </ol>
+
+                  <!-- Wrapper for slides -->
+                  <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <img src="images/tour/invest/one.png" alt="tour_summary">
+                        </div>
+                        <div class="col-md-6">
+                        <h5>Execute Portfolio</h5>
+                            <p>Execute the recommended plan that best meets your needs and tolerance for risk. </p>
+                        </div>                      
+
+                    </div>
+                      
+                    </div>
+                    <div class="item">
+                       <div class="row">
+                        <div class="col-md-6">
+                            <img src="images/tour/invest/two.png" alt="tour_summary">
+                        </div>
+                        <div class="col-md-6">
+                        <h5>Change Portfolio</h5>
+                            <p>If you wish to modify the recommended portfolio you can use this option. Our advisors are available to help you choose wisely.</p>
+                        </div>      
+
+                    </div>
+                    </div>
+
+                    <div class="item">
+                      <div class="row">
+                        <div class="col-md-6">
+                            <img src="images/tour/invest/three.png" alt="tour_summary">
+                        </div>
+                        <div class="col-md-6">
+                        <h5>Buy/Sell</h5>
+                            <p>You can transact and manage individual funds/assets from here. </p>
+                        </div>      
+
+                    </div>
+                    </div>
+
+                    <div class="item">
+                      <div class="row">
+                        <div class="col-md-6">
+                            <img src="images/tour/invest/four.png" alt="tour_summary">
+                        </div>
+                        <div class="col-md-6">
+                        <h5>Mutual Funds Listing</h5>
+                            <p>List of Mutual funds under your portfolio. You can click on each of the them to view a brief description.</p>
+                        </div>      
+
+                    </div>
+                    </div>
+                    
+                  </div>
+
+                  <!-- Controls -->
+                  <a class="left carousel-control" href="#carousel-tour2" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                  </a>
+                  <a class="right carousel-control" href="#carousel-tour2" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                  </a>
+                </div>
+                        <!-- End of slider -->
+                        <!-- end -->
+
+                        </div>
+                        
+						<div role="tabpanel" class="tab-pane" id="Performance">
+
+					    <!-- start -->
+					    	<!-- Pasting the slider -->
+				        <div id="carousel-tour5" class="carousel slide" data-ride="carousel" data-interval="false">
+				  <!-- Indicators --> 
+						  <ol class="carousel-indicators">
+						    <li data-target="#carousel-tour5" data-slide-to="0" class="active"></li>
+						    <li data-target="#carousel-tour5" data-slide-to="1"></li>
+						  </ol>
+
+				  <!-- Wrapper for slides -->
+				  <div class="carousel-inner" role="listbox">
+				    <div class="item active">
+				    <div class="row">
+				    	<div class="col-md-6">
+				    		<img src="images/tour/performance/tour1.png" alt="tour_summary">
+				    	</div>
+				    	<div class="col-md-6">
+				    	<h5>Performance Statistics</h5>
+				    		<p>Check your performance over Balance snapshot,Balance Overtime,Balance and Holding.</p>
+				    	</div> 			    		
+
+				    </div>
+				      
+				    </div>
+				    <div class="item">
+				       <div class="row">
+				    	<div class="col-md-6">
+				    		<img src="images/tour/performance/tour2.png" alt="tour_summary">
+				    	</div>
+				    	<div class="col-md-6">
+				    	<h5>Performance Statistics</h5>
+				    		<p>Compare your performance with our suggested projected savings.</p>
+				    		<p>Also, check your recent transactions to track yourself. </p>
+				    	</div>  	
+
+				    </div>
+				    </div>
+
+				  </div>
+
+				  <!-- Controls -->
+				  <a class="left carousel-control" href="#carousel-tour5" role="button" data-slide="prev">
+				    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+				    <span class="sr-only">Previous</span>
+				  </a>
+				  <a class="right carousel-control" href="#carousel-tour5" role="button" data-slide="next">
+				    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				    <span class="sr-only">Next</span>
+				  </a>
+				</div>
+				        <!-- End of slider -->
+					    <!-- end -->
+					    </div>
+							
+						<div role="tabpanel" class="tab-pane fade in active" id="benchmark">
+
+                            <!-- start -->
+                            <!-- Pasting the slider -->
+                        <div id="carousel-tour3" class="carousel slide" data-ride="carousel" data-interval="false">
+                  <!-- Indicators --> 
+                          <ol class="carousel-indicators">
+                            <li data-target="#carousel-tour3" data-slide-to="0" class="active"></li>
+                           
+                          </ol>
+
+                  <!-- Wrapper for slides -->
+                  <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <img src="images/tour/benchmark/one.png" alt="tour_summary">
+                        </div>
+                        <div class="col-md-6">
+                        <h5>Benchmark</h5>
+                            <p>we provide you a set of priorities based on your expectations using finotrust data driven analytics. </p>
+                        </div>                      
+
+                    </div>                    
+                    </div>              
+                  </div>
+
+                  <!-- Controls -->
+                  <a class="left carousel-control" href="#carousel-tour3" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                  </a>
+                  <a class="right carousel-control" href="#carousel-tour3" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                  </a>
+                </div>
+                        <!-- End of slider -->
+                        <!-- end -->
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="funds">
+
+                        <!-- start -->
+                            <!-- Pasting the slider -->
+                        <div id="carousel-tour4" class="carousel slide" data-ride="carousel" data-interval="false">
+                  <!-- Indicators --> 
+                          <ol class="carousel-indicators">
+                            <li data-target="#carousel-tour4" data-slide-to="0" class="active"></li>
+                            <li data-target="#carousel-tour4" data-slide-to="1"></li>
+                            <li data-target="#carousel-tour4" data-slide-to="2"></li>
+                          </ol>
+
+                  <!-- Wrapper for slides -->
+                  <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <img src="images/tour/funds/one.png" alt="tour_summary">
+                        </div>
+                        <div class="col-md-6">
+                        <h5>Mutual Fund Types</h5>
+                            <p>You can glide through the tabs for different mutual funds each having their own level of risks and returns.</p>
+                        </div>                      
+
+                    </div>
+                      
+                    </div>
+					<div class="item">
+                      <div class="row">
+                        <div class="col-md-6">
+                            <img src="images/tour/funds/three.png" alt="tour_summary">
+                        </div>
+                        <div class="col-md-6">
+                        <h5>SIP & One Time</h5>
+                            <p>Systematic Investment Planning - SIP is a method of investing a fixed sum, regularly, in a mutual fund scheme allowing you to buy units on a given date each month.</p>
+                            <p> One Time - You can invest lump sum into the mutual fund. </p>
+                        </div>  
+
+                    </div>
+                    </div>
+                    <div class="item">
+                       <div class="row">
+                        <div class="col-md-6">
+                            <img src="images/tour/funds/two.png" alt="tour_summary">
+                        </div>
+                        <div class="col-md-6">
+                        <h5>Search funds to invest</h5>
+                            <p>This sections helps you to search different scheme types to invest in.</p>
+                        </div>      
+
+                    </div>
+                    </div>
+
+                  </div>
+
+                  <!-- Controls -->
+                  <a class="left carousel-control" href="#carousel-tour4" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                  </a>
+                  <a class="right carousel-control" href="#carousel-tour4" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                  </a>
+                </div>
+                        <!-- End of slider -->
+                        <!-- end -->
+                        </div>
+                      </div>
+
+                  
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                  </div>
+                </div>
+              </div>
+    </div>
+        <!-- Ending intro pop up -->
+				
+</div>
+<!--
+<script>
+
+
+	/*Dev code*/
+	$(function() {
+
+var current_fs, next_fs, previous_fs; //fieldsets
+var left, opacity, scale; //fieldset properties which we will animate
+var animating; //flag to prevent quick multi-click glitches
+
+
+
+$(".next").on("click",function(){
+	console.log("in next function");
+	if(animating) return false;
+	console.log("in next after condition");
+	animating = true;
+
+	current_fs = $(this).parent();
+	next_fs = $(this).parent().next();
+	
+	
+	//show the next fieldset
+	next_fs.show(); 
+	//hide the current fieldset with style
+	current_fs.animate({opacity: 0}, {
+		step: function(now, mx) {
+			//as the opacity of current_fs reduces to 0 - stored in "now"
+			//1. scale current_fs down to 80%
+			scale = 1 - (1 - now) * 0.2;
+			//2. bring next_fs from the right(50%)
+			left = (now * 50)+"%";
+			//3. increase opacity of next_fs to 1 as it moves in
+			opacity = 1 - now;
+			current_fs.css({'transform': 'scale('+scale+')'});
+			next_fs.css({'left': left, 'opacity': opacity});
+		}, 
+		//duration: 800, 
+		complete: function(){
+			current_fs.hide();
+			animating = false;
+			console.log("near end");
+		}, 
+		//this comes from the custom easing plugin
+	});
+	console.log("end");
+});
+
+$(".previous").on("click",function(){
+	if(animating) return false;
+	animating = true;
+	
+	current_fs = $(this).parent();
+	previous_fs = $(this).parent().prev();
+	
+	//de-activate current step on progressbar
+	$("#progressbar li").eq($("fieldset").index(current_fs)).removeClass("active");
+	
+	//show the previous fieldset
+	previous_fs.show(); 
+	//hide the current fieldset with style
+	current_fs.animate({opacity: 0}, {
+		step: function(now, mx) {
+			//as the opacity of current_fs reduces to 0 - stored in "now"
+			//1. scale previous_fs from 80% to 100%
+			scale = 0.8 + (1 - now) * 0.2;
+			//2. take current_fs to the right(50%) - from 0%
+			left = ((1-now) * 50)+"%";
+			//3. increase opacity of previous_fs to 1 as it moves in
+			opacity = 1 - now;
+			current_fs.css({'left': left});
+			previous_fs.css({'transform': 'scale('+scale+')', 'opacity': opacity});
+		}, 
+		//duration: 100, 
+		complete: function(){
+			current_fs.hide();
+			animating = false;
+		}, 
+		//this comes from the custom easing plugin
+	});
+});
+
+
+});
+</script>
+
+		<!-- amCharts javascript sources --
+		<script type="text/javascript" src="http://www.amcharts.com/lib/3/amcharts.js"></script>
+		<script type="text/javascript" src="http://www.amcharts.com/lib/3/serial.js"></script>
+
+		<!-- amCharts javascript code --
+
+<script type="text/javascript">
+			AmCharts.makeChart("chartdiv",
+				{
+					"type": "serial",
+					"categoryField": "category",
+					"startDuration": 1,
+					"categoryAxis": {
+						"gridPosition": "start"
+					},
+					"trendLines": [],
+					"graphs": [
+						{
+							"fillAlphas": 1,
+							"id": "AmGraph-1",
+							"title": "25-32 Yrs",
+							"type": "column",
+							"valueField": "column-1"
+						}
+					],
+					"guides": [],
+					"valueAxes": [
+						{
+							"id": "ValueAxis-1",
+							"title": "Axis title"
+						}
+					],
+					"allLabels": [],
+					"balloon": {},
+					"dataProvider": [
+						{
+							"category": "category 1",
+							"column-1": 8
+						},
+						{
+							"category": "category 2",
+							"column-1": 16
+						},
+						{
+							"category": "category 3",
+							"column-1": 2
+						},
+						{
+							"category": "category 4",
+							"column-1": 7
+						}
+					]
+				}
+			);
+		</script>
+<script type="text/javascript">
+			AmCharts.makeChart("chartdiv2",
+				{
+					"type": "serial",
+					"categoryField": "category",
+					"startDuration": 1,
+					"categoryAxis": {
+						"gridPosition": "start"
+					},
+					"trendLines": [],
+					"graphs": [
+						{
+							"fillAlphas": 1,
+							"id": "AmGraph-1",
+							"title": "graph 1",
+							"type": "column",
+							"valueField": "column-1"
+						}
+					],
+					"guides": [],
+					"valueAxes": [
+						{
+							"id": "ValueAxis-1",
+							"title": "Axis title"
+						}
+					],
+					"allLabels": [],
+					"balloon": {},
+					"dataProvider": [
+						{
+							"category": "category 1",
+							"column-1": 8
+						},
+						{
+							"category": "category 2",
+							"column-1": 16
+						},
+						{
+							"category": "category 3",
+							"column-1": 2
+						},
+						{
+							"category": "category 4",
+							"column-1": 7
+						}
+					]
+				}
+			);
+		</script>
+<script type="text/javascript">
+			AmCharts.makeChart("chartdiv3",
+				{
+					"type": "serial",
+					"categoryField": "category",
+					"startDuration": 1,
+					"categoryAxis": {
+						"gridPosition": "start"
+					},
+					"trendLines": [],
+					"graphs": [
+						{
+							"fillAlphas": 1,
+							"id": "AmGraph-1",
+							"title": "graph 1",
+							"type": "column",
+							"valueField": "column-1"
+						}
+					],
+					"guides": [],
+					"valueAxes": [
+						{
+							"id": "ValueAxis-1",
+							"title": "Axis title"
+						}
+					],
+					"allLabels": [],
+					"balloon": {},
+					"dataProvider": [
+						{
+							"category": "category 1",
+							"column-1": 8
+						},
+						{
+							"category": "category 2",
+							"column-1": 16
+						},
+						{
+							"category": "category 3",
+							"column-1": 2
+						},
+						{
+							"category": "category 4",
+							"column-1": 7
+						}
+					]
+				}
+			);
+		</script>
+
+	<script type="text/javascript">
+			AmCharts.makeChart("chartdiv5",
+				{
+					"type": "serial",
+					"categoryField": "category",
+					"plotAreaBorderColor": "#FFF",
+					"plotAreaFillColors": "#000",
+					"startDuration": 1,
+					"backgroundColor": "#000",
+					"borderColor": "#FFF",
+					"fontSize": 15,
+					"categoryAxis": {
+					"gridPosition": "start",
+					"axisColor": "#FFF",
+					"color": "#FFF",
+					"fillAlpha": 0.15,
+					"fontSize": 12,
+					"gridAlpha": 0.15,
+					"gridColor": "#FFF",
+					"gridCount": 10,
+					"titleColor": "#FFFFFF"
+					},
+					"graphs": [
+						{
+							"balloonText": "[[title]] of [[category]]:[[value]]",
+							"fillAlphas": 1,
+							"id": "AmGraph-1",
+							"title": "25-32 Yrs",
+							"type": "column",
+							"valueField": "column-1"
+						},
+						{
+							"balloonText": "[[title]] of [[category]]:[[value]]",
+							"fillAlphas": 1,
+							"id": "AmGraph-2",
+							"title": "32-40 Yrs",
+							"type": "column",
+							"valueField": "column-2"
+						},
+						{
+							"balloonText": "[[title]] of [[category]]:[[value]]",
+							"fillAlphas": 1,
+							"id": "AmGraph-3",
+							"title": "40-60 Yrs",
+							"type": "column",
+							"valueField": "column-3"
+						}
+					],
+					"guides": [],
+					"valueAxes": [
+						{
+							"id": "ValueAxis-1",
+							"axisColor": "#FFF",
+							"color": "#FFFFFF",
+							"fontSize": 15,
+							"title": "Axis title",
+							"titleColor": "#FFFFFF"
+						}
+					],
+					"allLabels": [],
+					"balloon": {},
+					"colors": [
+					"#208b95",
+					"#b91a2c",
+					"#632f77",
+					"#0D8ECF",
+					"#2A0CD0",
+					"#CD0D74",
+					"#CC0000"
+					],
+					"legend": {
+						"enabled": true,
+						"backgroundColor": "#000",
+						"bottom": -2,
+						"color": "#FFF",
+						"gradientRotation": -4,
+						"maxColumns": 3,
+						"spacing": 0,
+						"useGraphSettings": true
+					},
+					"titles": [
+						{
+							"color": "#FFFFFF",
+							"id": "Title-1",
+							"size": 15,
+							"text": ""
+						}
+					],
+					"dataProvider": [
+						{
+			"category": "category 1",
+			"column-1": 8,
+			"column-2": 5,
+			"column-3": 10
+		},
+		{
+			"category": "category 2",
+			"column-1": 6,
+			"column-2": 7,
+			"column-3": 6
+		},
+		{
+			"category": "category 3",
+			"column-1": 2,
+			"column-2": 3,
+			"column-3": 3
+		},
+		{
+			"category": "category 4",
+			"column-1": "5",
+			"column-2": "7",
+			"column-3": 4
+		},
+		{
+			"category": "category 5",
+			"column-1": "2",
+			"column-2": "3",
+			"column-3": 10
+		},
+		{
+			"category": "category 6",
+			"column-1": "8",
+			"column-2": "12",
+			"column-3": 2
+		},
+		{
+			"category": "category 7",
+			"column-1": "1",
+			"column-2": "4",
+			"column-3": 4
+		}
+	]
+				}
+			);
+		</script>
+
+<script type="text/javascript">
+	
+$(document).ready(function(){
+	
+var el = document.getElementById('graph'); // get canvas
+
+var options = {
+    percent:  el.getAttribute('data-percent') || 25,
+    size: el.getAttribute('data-size') || 150,
+    lineWidth: el.getAttribute('data-line') || 15,
+    rotate: el.getAttribute('data-rotate') || 0
+}
+
+var canvas = document.createElement('canvas');
+var span = document.createElement('span');
+span.textContent = options.percent + '%';
+    
+if (typeof(G_vmlCanvasManager) !== 'undefined') {
+    G_vmlCanvasManager.initElement(canvas);
+}
+
+var ctx = canvas.getContext('2d');
+canvas.width = canvas.height = options.size;
+
+el.appendChild(span);
+el.appendChild(canvas);
+
+ctx.translate(options.size / 2, options.size / 2); // change center
+ctx.rotate((-1 / 2 + options.rotate / 180) * Math.PI); // rotate -90 deg
+
+//imd = ctx.getImageData(0, 0, 240, 240);
+var radius = (options.size - options.lineWidth) / 2;
+
+var drawCircle = function(color, lineWidth, percent) {
+		percent = Math.min(Math.max(0, percent || 1), 1);
+		ctx.beginPath();
+		ctx.arc(0, 0, radius, 0, Math.PI * 2 * percent, false);
+		ctx.strokeStyle = color;
+        ctx.lineCap = 'round'; // butt, round or square
+		ctx.lineWidth = lineWidth
+		ctx.stroke();
+};
+
+drawCircle('#efefef', options.lineWidth, 100 / 100);
+drawCircle('#006ef3', options.lineWidth, options.percent / 100);
+	
+});	
+$(document).ready(function(){
+	
+var el = document.getElementById('graph2'); // get canvas
+
+var options = {
+    percent:  el.getAttribute('data-percent') || 25,
+    size: el.getAttribute('data-size') || 150,
+    lineWidth: el.getAttribute('data-line') || 15,
+    rotate: el.getAttribute('data-rotate') || 0
+}
+
+var canvas = document.createElement('canvas');
+var span = document.createElement('span');
+span.textContent = options.percent + '%';
+    
+if (typeof(G_vmlCanvasManager) !== 'undefined') {
+    G_vmlCanvasManager.initElement(canvas);
+}
+
+var ctx = canvas.getContext('2d');
+canvas.width = canvas.height = options.size;
+
+el.appendChild(span);
+el.appendChild(canvas);
+
+ctx.translate(options.size / 2, options.size / 2); // change center
+ctx.rotate((-1 / 2 + options.rotate / 180) * Math.PI); // rotate -90 deg
+
+//imd = ctx.getImageData(0, 0, 240, 240);
+var radius = (options.size - options.lineWidth) / 2;
+
+var drawCircle = function(color, lineWidth, percent) {
+		percent = Math.min(Math.max(0, percent || 1), 1);
+		ctx.beginPath();
+		ctx.arc(0, 0, radius, 0, Math.PI * 2 * percent, false);
+		ctx.strokeStyle = color;
+        ctx.lineCap = 'round'; // butt, round or square
+		ctx.lineWidth = lineWidth
+		ctx.stroke();
+};
+
+drawCircle('#efefef', options.lineWidth, 100 / 100);
+drawCircle('#fdd02f', options.lineWidth, options.percent / 100);
+	
+});	
+	
+$(document).ready(function(){
+	
+var el = document.getElementById('graph3'); // get canvas
+
+var options = {
+    percent:  el.getAttribute('data-percent') || 25,
+    size: el.getAttribute('data-size') || 150,
+    lineWidth: el.getAttribute('data-line') || 15,
+    rotate: el.getAttribute('data-rotate') || 0
+}
+
+var canvas = document.createElement('canvas');
+var span = document.createElement('span');
+span.textContent = options.percent + '%';
+    
+if (typeof(G_vmlCanvasManager) !== 'undefined') {
+    G_vmlCanvasManager.initElement(canvas);
+}
+
+var ctx = canvas.getContext('2d');
+canvas.width = canvas.height = options.size;
+
+el.appendChild(span);
+el.appendChild(canvas);
+
+ctx.translate(options.size / 2, options.size / 2); // change center
+ctx.rotate((-1 / 2 + options.rotate / 180) * Math.PI); // rotate -90 deg
+
+//imd = ctx.getImageData(0, 0, 240, 240);
+var radius = (options.size - options.lineWidth) / 2;
+
+var drawCircle = function(color, lineWidth, percent) {
+		percent = Math.min(Math.max(0, percent || 1), 1);
+		ctx.beginPath();
+		ctx.arc(0, 0, radius, 0, Math.PI * 2 * percent, false);
+		ctx.strokeStyle = color;
+        ctx.lineCap = 'round'; // butt, round or square
+		ctx.lineWidth = lineWidth
+		ctx.stroke();
+};
+
+drawCircle('#efefef', options.lineWidth, 100 / 100);
+drawCircle('#18859c', options.lineWidth, options.percent / 100);
+	
+});	
+	
+$(document).ready(function(){
+	
+var el = document.getElementById('graph4'); // get canvas
+
+var options = {
+    percent:  el.getAttribute('data-percent') || 25,
+    size: el.getAttribute('data-size') || 150,
+    lineWidth: el.getAttribute('data-line') || 15,
+    rotate: el.getAttribute('data-rotate') || 0
+}
+
+var canvas = document.createElement('canvas');
+var span = document.createElement('span');
+span.textContent = options.percent + '%';
+    
+if (typeof(G_vmlCanvasManager) !== 'undefined') {
+    G_vmlCanvasManager.initElement(canvas);
+}
+
+var ctx = canvas.getContext('2d');
+canvas.width = canvas.height = options.size;
+
+el.appendChild(span);
+el.appendChild(canvas);
+
+ctx.translate(options.size / 2, options.size / 2); // change center
+ctx.rotate((-1 / 2 + options.rotate / 180) * Math.PI); // rotate -90 deg
+
+//imd = ctx.getImageData(0, 0, 240, 240);
+var radius = (options.size - options.lineWidth) / 2;
+
+var drawCircle = function(color, lineWidth, percent) {
+		percent = Math.min(Math.max(0, percent || 1), 1);
+		ctx.beginPath();
+		ctx.arc(0, 0, radius, 0, Math.PI * 2 * percent, false);
+		ctx.strokeStyle = color;
+        ctx.lineCap = 'round'; // butt, round or square
+		ctx.lineWidth = lineWidth
+		ctx.stroke();
+};
+
+drawCircle('#efefef', options.lineWidth, 100 / 100);
+drawCircle('#ad005a', options.lineWidth, options.percent / 100);
+	
+});	
+
+
+</script>
+-->

@@ -104,35 +104,7 @@ angular.module('myApp.services', [])
 .factory('myService', function() {
  return {
  myFunction: function(proofStatus){
-	 /*
-	 console.log(proofStatus)
-	 var proofStatusValue=(proofStatus+100000).toString();
-var fromIndex=0;
-var totalIndex = [];
-var keepGoing= true;
-angular.forEach([1,2,3,4,5,6], function(value) {
-     if(keepGoing) {
-     var currentIndex = proofStatusValue.indexOf("0",fromIndex);
-    if(currentIndex == -1){
-      keepGoing = false;
-    }
-    else{
-		this.push(currentIndex);
-    }
-  }
-  fromIndex=currentIndex+1;
-
-}, totalIndex);
-console.log(totalIndex +"     in service");
-return totalIndex;
-
-
-
-
-*/
-
 var values = [1,2,3,4,5];
-//var xx=(proofStatus+100000).toString();
 xx=proofStatus;
 var ss=0;
 var totalIndex = [];

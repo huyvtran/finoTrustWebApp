@@ -1,0 +1,28 @@
+<div ng-controller="navTabsCtrl">
+<nav class="navbar navbar-default navbar-fixed-top"  >
+  <div class="container">
+    <div class="navbar-header page-scroll">
+      <a class="navbar-brand" href="/home"><img src="img/logo_priv.png" ></a>
+    </div>
+  </div>
+</nav>
+</div>
+
+<div ng-controller="signImageCTRL" class="text-center"><br/>
+	<p class="padding">I hereby certify that the information provided is correct to the best of my knowledge and belief. PLEASE SIGN IN THE BOX BELOW</p>
+          <canvas id='signatureCanvas' height='300' width='600' style='border: 1px solid black;'></canvas>
+          <div class='button-bar text-left' style="width: 607px; margin: auto;">
+              <a class='button button-energized' ng-click='clearCanvas()'>Clear</a>
+              <button class='button button-positive' ng-click='saveCanvas()'>Confirm</button>
+          </div>
+          <br>
+		  <div class="">
+			<img ng-src='{{signature}}' style="height: 8vh; margin-top: 5px;"/>
+		  </div>
+	<div class="button-bar " style="padding:0;">
+		<button class="button button-positive" ng-click="signUpload()" ng-disabled="!signature">SUBMIT</button>
+	</div>
+<div ng-class="{testSpin: spinneractive}"></div>
+<span us-spinner spinner-key="spinner-1"></span>
+</div>
+

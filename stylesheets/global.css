@@ -807,12 +807,12 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 /* line 1, ../sass/_onboard.scss */
 body {
-  font: 300 16px Open Sans;
+  font: 300 14px Open Sans;
 }
 
 /* line 4, ../sass/_onboard.scss */
 p {
-  font: 400 14px Open Sans;
+  font: 400 13px Open Sans;
 }
 
 /* line 7, ../sass/_onboard.scss */
@@ -1045,291 +1045,292 @@ form[name="onboardinfo"] div.error label, form[name="onboardinfo_mob"] div.error
 }
 
 /* line 7, ../sass/_innerpages.scss */
-.summary .manage_account h1 {
+.summaryPage .manage_account h1 {
   line-height: 35px;
   padding: 10px 20px;
   color: #17406B;
   font: 600 21px Open Sans;
 }
 /* line 14, ../sass/_innerpages.scss */
-.summary .manage_account .account_controls .deposit_div {
+.summaryPage .manage_account .account_controls .deposit_div {
   font: 400 14px Open Sans;
 }
 /* line 16, ../sass/_innerpages.scss */
-.summary .manage_account .account_controls .deposit_div .deposit_box {
+.summaryPage .manage_account .account_controls .deposit_div .deposit_box {
   width: 100px;
   float: left;
   position: relative;
 }
 /* line 20, ../sass/_innerpages.scss */
-.summary .manage_account .account_controls .deposit_div .deposit_box form {
+.summaryPage .manage_account .account_controls .deposit_div .deposit_box form {
   padding: 15px 0px;
 }
 /* line 22, ../sass/_innerpages.scss */
-.summary .manage_account .account_controls .deposit_div .deposit_box form label {
+.summaryPage .manage_account .account_controls .deposit_div .deposit_box form label {
   padding-bottom: 10px;
 }
 /* line 27, ../sass/_innerpages.scss */
-.summary .manage_account .account_controls .deposit_div .deposit_box .show_form {
+.summaryPage .manage_account .account_controls .deposit_div .deposit_box .show_form {
   display: block;
 }
 /* line 31, ../sass/_innerpages.scss */
-.summary .manage_account .account_controls .deposit_div .btn-info {
+.summaryPage .manage_account .account_controls .deposit_div .btn-info {
   margin-right: 5px;
 }
 /* line 34, ../sass/_innerpages.scss */
-.summary .manage_account .account_controls .deposit_div button[type="submit"] {
+.summaryPage .manage_account .account_controls .deposit_div button[type="submit"] {
   width: 100%;
 }
 /* line 37, ../sass/_innerpages.scss */
-.summary .manage_account .account_controls .deposit_div .deposit_button {
+.summaryPage .manage_account .account_controls .deposit_div .deposit_button {
   background-color: #7FB800;
   color: #fff;
 }
 /* line 46, ../sass/_innerpages.scss */
-.summary .modal-dialog.add-goal {
+.summaryPage .modal-dialog.add-goal {
   width: 70%;
   top: 5em;
 }
 /* line 47, ../sass/_innerpages.scss */
-.summary .modal-dialog.add-goal .modal-header {
+.summaryPage .modal-dialog.add-goal .modal-header {
   background-color: #2C3E51;
   color: white;
   font-weight: 600;
   text-transform: uppercase;
 }
 /* line 48, ../sass/_innerpages.scss */
-.summary .modal-dialog.add-goal .modal-body {
+.summaryPage .modal-dialog.add-goal .modal-body {
   overflow-y: scroll;
   background-color: #ebebeb;
   height: 23em;
 }
 /* line 48, ../sass/_innerpages.scss */
-.summary .modal-dialog.add-goal .modal-body.step-2 .target {
+.summaryPage .modal-dialog.add-goal .modal-body.step-2 .target {
   padding: 15px;
 }
 /* line 49, ../sass/_innerpages.scss */
-.summary .modal-dialog.add-goal .modal-footer {
+.summaryPage .modal-dialog.add-goal .modal-footer {
   background-color: #ebebeb;
 }
 /* line 52, ../sass/_innerpages.scss */
-.summary .modal-dialog.add-goal .btn-default {
+.summaryPage .modal-dialog.add-goal .btn-default {
   box-shadow: none;
 }
 /* line 52, ../sass/_innerpages.scss */
-.summary .modal-dialog.add-goal .btn-default.submit-goal {
+.summaryPage .modal-dialog.add-goal .btn-default.submit-goal {
   background-color: #2C3E51;
   color: white;
 }
 /* line 52, ../sass/_innerpages.scss */
-.summary .modal-dialog.add-goal .btn-default.select-goal {
+.summaryPage .modal-dialog.add-goal .btn-default.select-goal {
   width: 11.5em;
 }
 /* line 52, ../sass/_innerpages.scss */
-.summary .modal-dialog.add-goal .btn-default.select-goal p {
+.summaryPage .modal-dialog.add-goal .btn-default.select-goal p {
   font: 300 14px Open Sans;
 }
 /* line 52, ../sass/_innerpages.scss */
-.summary .modal-dialog.add-goal .btn-default.select-goal.active, .summary .modal-dialog.add-goal .btn-default.select-goal:active, .summary .modal-dialog.add-goal .btn-default.select-goal:focus, .summary .modal-dialog.add-goal .btn-default.select-goal:hover {
+.summaryPage .modal-dialog.add-goal .btn-default.select-goal.active, .summaryPage .modal-dialog.add-goal .btn-default.select-goal:active, .summaryPage .modal-dialog.add-goal .btn-default.select-goal:focus, .summaryPage .modal-dialog.add-goal .btn-default.select-goal:hover {
   background-color: #2C3E51;
   color: white;
   font-weight: 700;
 }
 /* line 53, ../sass/_innerpages.scss */
-.summary .modal-dialog.add-goal .goals {
+.summaryPage .modal-dialog.add-goal .goals {
   width: 100%;
 }
 /* line 54, ../sass/_innerpages.scss */
-.summary .modal-dialog.add-goal .goals .row {
+.summaryPage .modal-dialog.add-goal .goals .row {
   padding: 10px 0;
 }
 /* line 56, ../sass/_innerpages.scss */
-.summary .modal-dialog.add-goal .goals .row .goal-header {
+.summaryPage .modal-dialog.add-goal .goals .row .goal-header {
   font: 300 16px Open Sans;
   font-weight: 500;
 }
 /* line 59, ../sass/_innerpages.scss */
-.summary .modal-dialog.add-goal input[type="radio"] {
+.summaryPage .modal-dialog.add-goal input[type="radio"] {
   position: absolute;
   clip: rect(0px, 0px, 0px, 0px);
   pointer-events: none;
 }
 /* line 63, ../sass/_innerpages.scss */
-.summary .modal-dialog.add-goal.focus {
+.summaryPage .modal-dialog.add-goal.focus {
   outline: none;
 }
 /* line 64, ../sass/_innerpages.scss */
-.summary .modal-dialog.add-goal input[type="text"] {
+.summaryPage .modal-dialog.add-goal input[type="text"] {
   font-size: 14px;
   border: 1px solid #18bb9c;
   border-radius: 4px;
   padding: 5px;
 }
 /* line 74, ../sass/_innerpages.scss */
-.summary .bottom-table {
+.summaryPage .bottom-table {
   padding: 0px !important;
   margin: 1em auto;
   border: 2px solid #DDD;
   border-radius: 4px;
 }
 /* line 75, ../sass/_innerpages.scss */
-.summary .bottom-table .tab-content {
+.summaryPage .bottom-table .tab-content {
   margin-top: 0.5em;
 }
 /* line 75, ../sass/_innerpages.scss */
-.summary .bottom-table .tab-content h3 {
+.summaryPage .bottom-table .tab-content h3 {
   font-size: 15px;
   font-weight: 600;
   padding: 2em 0 0;
 }
 /* line 76, ../sass/_innerpages.scss */
-.summary .bottom-table .bottom-nav-tabs li {
+.summaryPage .bottom-table .nav-tabs li {
   width: 25%;
   border: none;
   color: white;
   background: gainsboro;
 }
 /* line 76, ../sass/_innerpages.scss */
-.summary .bottom-table .bottom-nav-tabs li a {
+.summaryPage .bottom-table .nav-tabs li a {
   color: #000;
   font-weight: 600;
 }
 /* line 77, ../sass/_innerpages.scss */
-.summary .bottom-table .bottom-nav-tabs li.active a, .summary .bottom-table .bottom-nav-tabs li.active a:focus, .summary .bottom-table .bottom-nav-tabs li.active a:hover {
+.summaryPage .bottom-table .nav-tabs li.active a, .summaryPage .bottom-table .nav-tabs li.active a:focus, .summaryPage .bottom-table .nav-tabs li.active a:hover {
   color: white;
   background-color: #18bb9c;
 }
 /* line 81, ../sass/_innerpages.scss */
-.summary .bottom-table th:first-child {
+.summaryPage .bottom-table th:first-child {
   width: auto;
 }
 /* line 85, ../sass/_innerpages.scss */
-.summary .bottom-table table {
+.summaryPage .bottom-table table {
   border: 1px solid #cccccc;
   width: 100%;
-  font-size: 12px;
   margin-top: 20px;
 }
-/* line 89, ../sass/_innerpages.scss */
-.summary .bottom-table table th {
-  font-size: 15px;
+/* line 88, ../sass/_innerpages.scss */
+.summaryPage .bottom-table table th {
+  font-size: 14px;
   text-align: center;
   background: #18bb9c;
   color: white;
   border: 2px solid #cccccc;
   padding: 3px;
+  font-size: 12px;
 }
 /* line 95, ../sass/_innerpages.scss */
-.summary .bottom-table table th:first-child {
+.summaryPage .bottom-table table th:first-child {
   width: 250px;
 }
-/* line 102, ../sass/_innerpages.scss */
-.summary .bottom-table td {
+/* line 101, ../sass/_innerpages.scss */
+.summaryPage .bottom-table td {
   padding: 5px;
+  font-size: 12px;
   border: 1px solid #cccccc;
 }
 
 /* Overview */
-/* line 108, ../sass/_innerpages.scss */
+/* line 109, ../sass/_innerpages.scss */
 .panel-default {
   margin-top: 30px;
 }
-/* line 110, ../sass/_innerpages.scss */
+/* line 111, ../sass/_innerpages.scss */
 .panel-default .chartdiv {
   min-height: 300px;
 }
 
-/* line 116, ../sass/_innerpages.scss */
+/* line 117, ../sass/_innerpages.scss */
 .overview_account .earnings .earnings_div {
   text-align: center;
 }
-/* line 117, ../sass/_innerpages.scss */
+/* line 118, ../sass/_innerpages.scss */
 .overview_account .earnings .earnings_div h3 {
   font: 300 14px Open Sans;
   margin-left: 10px;
 }
-/* line 121, ../sass/_innerpages.scss */
+/* line 122, ../sass/_innerpages.scss */
 .overview_account .earnings .earnings_div h1 {
   font: 400 32px Open Sans;
 }
-/* line 130, ../sass/_innerpages.scss */
+/* line 131, ../sass/_innerpages.scss */
 .overview_account .losses p {
   font: 300 14px Open Sans;
 }
-/* line 133, ../sass/_innerpages.scss */
+/* line 134, ../sass/_innerpages.scss */
 .overview_account .losses p:first-child {
   color: #1F93EF;
 }
-/* line 138, ../sass/_innerpages.scss */
+/* line 139, ../sass/_innerpages.scss */
 .overview_account #earning_info {
   display: none;
 }
-/* line 140, ../sass/_innerpages.scss */
+/* line 141, ../sass/_innerpages.scss */
 .overview_account #earning_info h4 {
   font: 300 12px Open Sans;
 }
 
 /* retirement Plan */
-/* line 148, ../sass/_innerpages.scss */
+/* line 149, ../sass/_innerpages.scss */
 #retirement_info {
   display: none;
   padding-top: 2em;
 }
 
-/* line 154, ../sass/_innerpages.scss */
+/* line 155, ../sass/_innerpages.scss */
 .retirement_plan_actions > div.edit_plan {
   padding: 0px;
 }
-/* line 156, ../sass/_innerpages.scss */
+/* line 157, ../sass/_innerpages.scss */
 .retirement_plan_actions > div.edit_plan span {
   cursor: pointer;
 }
-/* line 159, ../sass/_innerpages.scss */
+/* line 160, ../sass/_innerpages.scss */
 .retirement_plan_actions > div.edit_plan h2 {
   margin: 0px 15px 0px 10px;
   font: 600 16px Open Sans;
 }
-/* line 163, ../sass/_innerpages.scss */
+/* line 164, ../sass/_innerpages.scss */
 .retirement_plan_actions > div.edit_plan button {
   border-color: #1F93EF;
   color: #1F93EF;
 }
-/* line 166, ../sass/_innerpages.scss */
+/* line 167, ../sass/_innerpages.scss */
 .retirement_plan_actions > div.edit_plan button:hover {
   background-color: #1F93EF;
   color: #fff;
 }
-/* line 172, ../sass/_innerpages.scss */
+/* line 173, ../sass/_innerpages.scss */
 .retirement_plan_actions .deposit {
   text-align: center;
 }
-/* line 174, ../sass/_innerpages.scss */
+/* line 175, ../sass/_innerpages.scss */
 .retirement_plan_actions .deposit p {
   font: 300 14px Open Sans;
 }
-/* line 177, ../sass/_innerpages.scss */
+/* line 178, ../sass/_innerpages.scss */
 .retirement_plan_actions .deposit p.above {
   font-weight: 300;
 }
-/* line 179, ../sass/_innerpages.scss */
+/* line 180, ../sass/_innerpages.scss */
 .retirement_plan_actions .deposit h1 {
   font: 400 32px Open Sans;
 }
 @media (min-width: 768px) and (max-width: 991px) {
-  /* line 182, ../sass/_innerpages.scss */
+  /* line 183, ../sass/_innerpages.scss */
   .retirement_plan_actions .deposit #target1 {
     height: 38px;
   }
 }
-/* line 183, ../sass/_innerpages.scss */
+/* line 184, ../sass/_innerpages.scss */
 .retirement_plan_actions .deposit .plan_values {
   font: 400 22px Open Sans;
 }
-/* line 185, ../sass/_innerpages.scss */
+/* line 186, ../sass/_innerpages.scss */
 .retirement_plan_actions button {
   padding: 2px 12px;
 }
-/* line 191, ../sass/_innerpages.scss */
+/* line 192, ../sass/_innerpages.scss */
 .retirement_plan_actions .deposit_status a {
   color: #999;
   display: block;
@@ -1338,18 +1339,24 @@ form[name="onboardinfo"] div.error label, form[name="onboardinfo_mob"] div.error
 }
 
 /* basket_balance */
-/* line 202, ../sass/_innerpages.scss */
+/* line 203, ../sass/_innerpages.scss */
 .basket_balance {
   display: none;
 }
 
+/* line 207, ../sass/_innerpages.scss */
+.plus-sign {
+  color: #18bb9c;
+  margin: 4px;
+}
+
 /* POrtfolio Page */
-/* line 210, ../sass/_innerpages.scss */
+/* line 214, ../sass/_innerpages.scss */
 .portfolio .projected-gap {
   text-align: left;
   text-transform: uppercase;
 }
-/* line 213, ../sass/_innerpages.scss */
+/* line 217, ../sass/_innerpages.scss */
 .portfolio .projected-gap input {
   width: 10em;
   border: 2px solid gray;
@@ -1358,20 +1365,20 @@ form[name="onboardinfo"] div.error label, form[name="onboardinfo_mob"] div.error
   border-radius: 4px;
   padding: 5px 0;
 }
-/* line 221, ../sass/_innerpages.scss */
+/* line 225, ../sass/_innerpages.scss */
 .portfolio .panel-default {
   margin-top: 0px;
 }
-/* line 225, ../sass/_innerpages.scss */
+/* line 229, ../sass/_innerpages.scss */
 .portfolio .panel .Current-Value.\32 {
   padding-left: 12.5em;
 }
-/* line 226, ../sass/_innerpages.scss */
+/* line 230, ../sass/_innerpages.scss */
 .portfolio .panel .Current-Value span {
   padding-left: 1em;
   font-weight: 700;
 }
-/* line 227, ../sass/_innerpages.scss */
+/* line 231, ../sass/_innerpages.scss */
 .portfolio .panel .panel-fake-heading {
   padding: 10px 15px;
   border-bottom: 1px solid #DDD;
@@ -1379,116 +1386,121 @@ form[name="onboardinfo"] div.error label, form[name="onboardinfo_mob"] div.error
   border-top-right-radius: 3px;
   background: #2C3E51;
 }
-/* line 233, ../sass/_innerpages.scss */
+/* line 237, ../sass/_innerpages.scss */
 .portfolio .panel .panel-fake-heading .year, .portfolio .panel .panel-fake-heading .amount {
   text-align: center;
   color: white;
 }
-/* line 233, ../sass/_innerpages.scss */
+/* line 237, ../sass/_innerpages.scss */
 .portfolio .panel .panel-fake-heading .year h3, .portfolio .panel .panel-fake-heading .amount h3 {
   color: #aaa;
 }
-/* line 234, ../sass/_innerpages.scss */
+/* line 238, ../sass/_innerpages.scss */
 .portfolio .panel .panel-fake-heading p, .portfolio .panel .panel-fake-heading h2 {
   font: 600 16px Open Sans;
 }
-/* line 237, ../sass/_innerpages.scss */
+/* line 241, ../sass/_innerpages.scss */
 .portfolio .panel .panel-fake-heading h3 {
   font: 400 14px Open Sans;
 }
-/* line 240, ../sass/_innerpages.scss */
+/* line 244, ../sass/_innerpages.scss */
 .portfolio .panel .panel-fake-heading .selected-goal {
   padding: 10px 0;
 }
-/* line 240, ../sass/_innerpages.scss */
+/* line 244, ../sass/_innerpages.scss */
 .portfolio .panel .panel-fake-heading .selected-goal a {
   color: #18bb9c;
   text-decoration: none;
   text-transform: uppercase;
   font-weight: 600;
 }
-/* line 244, ../sass/_innerpages.scss */
+/* line 248, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body.main-panel {
   background: #ebebeb;
 }
-/* line 245, ../sass/_innerpages.scss */
+/* line 249, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body p {
   font: 300 14px Open Sans;
 }
-/* line 249, ../sass/_innerpages.scss */
+/* line 253, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_small_info table {
   width: 100%;
   margin-top: 20px;
 }
-/* line 255, ../sass/_innerpages.scss */
+/* line 259, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_small_info td {
   font: 400 14px Open Sans;
   padding-bottom: 10px;
 }
-/* line 259, ../sass/_innerpages.scss */
+/* line 263, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_small_info button {
   color: #1F93EF;
   border-color: #1F93EF;
   width: 80%;
 }
-/* line 263, ../sass/_innerpages.scss */
+/* line 267, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_small_info button:hover {
   background-color: #1F93EF;
   color: #fff;
 }
-/* line 271, ../sass/_innerpages.scss */
+/* line 275, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .rebalance .panel-body > div > span {
   font: 300 14px Open Sans;
 }
-/* line 277, ../sass/_innerpages.scss */
+/* line 281, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .rebalance .panel-body > p {
   font: 300 12px Open Sans;
   padding: 5px 15px;
 }
-/* line 281, ../sass/_innerpages.scss */
+/* line 285, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .rebalance .panel-body .drift_amount {
   color: #1F93EF;
 }
-/* line 285, ../sass/_innerpages.scss */
+/* line 289, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info {
   /* end of table */
 }
-/* line 286, ../sass/_innerpages.scss */
+/* line 290, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info .Current-Value {
   float: right;
 }
-/* line 287, ../sass/_innerpages.scss */
-.portfolio .panel .panel-body .portfolio_large_info .heading {
-  padding: 20px 15px;
-}
-/* line 289, ../sass/_innerpages.scss */
-.portfolio .panel .panel-body .portfolio_large_info .heading a:focus, .portfolio .panel .panel-body .portfolio_large_info .heading a:hover {
-  text-decoration: none;
+/* line 291, ../sass/_innerpages.scss */
+.portfolio .panel .panel-body .portfolio_large_info .panel.panel-default {
+  border-radius: 4px;
 }
 /* line 293, ../sass/_innerpages.scss */
+.portfolio .panel .panel-body .portfolio_large_info .panel.panel-default .panel-heading {
+  background: white;
+  padding: 20px 15px;
+}
+/* line 296, ../sass/_innerpages.scss */
+.portfolio .panel .panel-body .portfolio_large_info .panel.panel-default .panel-heading a:focus, .portfolio .panel .panel-body .portfolio_large_info .panel.panel-default .panel-heading a:hover {
+  text-decoration: none;
+}
+/* line 301, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table {
   width: 100%;
 }
-/* line 294, ../sass/_innerpages.scss */
+/* line 302, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table#current_investment td {
   padding: 4px 0;
 }
-/* line 294, ../sass/_innerpages.scss */
+/* line 302, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table#current_investment td:first-child {
   padding-left: 5px;
 }
-/* line 296, ../sass/_innerpages.scss */
+/* line 304, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table th {
   font: 600 14px Open Sans;
   border-bottom: 1px solid #cccccc;
   padding: 6px;
   padding-bottom: 15px;
 }
-/* line 301, ../sass/_innerpages.scss */
+/* line 309, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table th:first-child {
   width: 35%;
 }
-/* line 305, ../sass/_innerpages.scss */
+/* line 313, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table td, .portfolio .panel .panel-body .portfolio_large_info table td p, .portfolio .panel .panel-body .portfolio_large_info table td a {
   font: 400 15px Open Sans;
   color: #696969;
@@ -1496,108 +1508,114 @@ form[name="onboardinfo"] div.error label, form[name="onboardinfo_mob"] div.error
   padding-bottom: 5px;
   line-height: auto;
 }
-/* line 312, ../sass/_innerpages.scss */
+/* line 320, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table td {
   padding: 6px;
   vertical-align: middle;
 }
-/* line 315, ../sass/_innerpages.scss */
+/* line 323, ../sass/_innerpages.scss */
+.portfolio .panel .panel-body .portfolio_large_info table td .form-control {
+  max-width: 180px;
+  width: 100%;
+  margin: 0;
+}
+/* line 328, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table td:first-child {
   padding-left: 5px;
 }
-/* line 318, ../sass/_innerpages.scss */
+/* line 331, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table td .btn {
   padding: 5px 20px;
   margin-right: 5px;
 }
-/* line 322, ../sass/_innerpages.scss */
+/* line 335, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table td .btn-primary {
   background-color: #2C3E51;
   border-color: #2C3E51;
 }
-/* line 325, ../sass/_innerpages.scss */
+/* line 338, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table td .btn-primary:hover {
   background-color: #233140;
 }
-/* line 329, ../sass/_innerpages.scss */
+/* line 342, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table td .btn-default {
   border-color: #2C3E51;
   color: #2C3E51;
 }
-/* line 334, ../sass/_innerpages.scss */
+/* line 347, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table tfoot {
   border-top: 1px solid #cccccc;
 }
-/* line 336, ../sass/_innerpages.scss */
+/* line 349, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table tfoot td {
   padding-top: 15px;
 }
-/* line 341, ../sass/_innerpages.scss */
+/* line 354, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table td a {
   display: inline-block;
 }
-/* line 343, ../sass/_innerpages.scss */
+/* line 356, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table td a:hover {
   color: #3f3f3f;
   text-indent: 5px;
   text-decoration: none;
 }
-/* line 350, ../sass/_innerpages.scss */
+/* line 363, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table .tr_fund td {
   font-size: 13px;
   text-transform: uppercase;
   color: #000;
   padding-left: 0;
 }
-/* line 356, ../sass/_innerpages.scss */
+/* line 369, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table .action {
   width: 100px;
   background-color: #2C3E50;
   color: white;
 }
-/* line 363, ../sass/_innerpages.scss */
+/* line 376, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table #new_investment .add_schemea {
   color: red !important;
 }
-/* line 365, ../sass/_innerpages.scss */
+/* line 378, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info table tr th {
   padding-top: 1em;
 }
-/* line 368, ../sass/_innerpages.scss */
+/* line 381, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info .modal_container {
   margin-top: 30px;
 }
-/* line 370, ../sass/_innerpages.scss */
+/* line 383, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info .modal_container .modal-header h1 {
   color: #1F93EF;
   font: 600 16px Open Sans;
 }
-/* line 374, ../sass/_innerpages.scss */
+/* line 387, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info .modal_container .modal-footer {
   text-align: center;
 }
-/* line 376, ../sass/_innerpages.scss */
+/* line 389, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info .modal_container .modal-footer button {
   background-color: #1F93EF;
   color: #fff;
 }
-/* line 381, ../sass/_innerpages.scss */
+/* line 394, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info .modal_container .btn-group {
   width: 100%;
 }
-/* line 383, ../sass/_innerpages.scss */
+/* line 396, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info .modal_container .btn-group button {
   width: 33%;
 }
-/* line 385, ../sass/_innerpages.scss */
+/* line 398, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info .modal_container .btn-group button:hover {
   background-color: #fff;
 }
-/* line 387, ../sass/_innerpages.scss */
+/* line 400, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info .modal_container .btn-group button:hover h5, .portfolio .panel .panel-body .portfolio_large_info .modal_container .btn-group button:hover h6 {
   color: #1F93EF;
 }
-/* line 391, ../sass/_innerpages.scss */
+/* line 404, ../sass/_innerpages.scss */
 .portfolio .panel .panel-body .portfolio_large_info .modal_container .btn-group button h5, .portfolio .panel .panel-body .portfolio_large_info .modal_container .btn-group button h6 {
   font: 300 12px Open Sans;
   color: #686868;
@@ -1605,7 +1623,7 @@ form[name="onboardinfo"] div.error label, form[name="onboardinfo_mob"] div.error
 }
 
 /* Performance */
-/* line 409, ../sass/_innerpages.scss */
+/* line 422, ../sass/_innerpages.scss */
 .box {
   display: none;
   width: 80%;
@@ -1613,63 +1631,63 @@ form[name="onboardinfo"] div.error label, form[name="onboardinfo_mob"] div.error
   margin-left: 30px;
 }
 
-/* line 417, ../sass/_innerpages.scss */
+/* line 430, ../sass/_innerpages.scss */
 .performance .panel a, .performance .panel a:hover {
   text-decoration: none;
   font: 400 14px Open Sans;
 }
-/* line 421, ../sass/_innerpages.scss */
+/* line 434, ../sass/_innerpages.scss */
 .performance .panel table {
   min-width: 70%;
   margin-top: 0px;
 }
-/* line 424, ../sass/_innerpages.scss */
+/* line 437, ../sass/_innerpages.scss */
 .performance .panel table td {
   border-bottom: 1px solid #DDD;
   padding: 10px 0px;
 }
-/* line 427, ../sass/_innerpages.scss */
+/* line 440, ../sass/_innerpages.scss */
 .performance .panel table td a, .performance .panel table td a:hover {
   color: #1F93EF;
 }
-/* line 434, ../sass/_innerpages.scss */
+/* line 447, ../sass/_innerpages.scss */
 .performance .panel .right-side-graph table th {
   font: 600 14px Open Sans;
 }
-/* line 437, ../sass/_innerpages.scss */
+/* line 450, ../sass/_innerpages.scss */
 .performance .panel .right-side-graph table td {
   font: 400 14px Open Sans;
 }
-/* line 441, ../sass/_innerpages.scss */
+/* line 454, ../sass/_innerpages.scss */
 .performance .panel .right-side-graph p {
   font: 400 14px Open Sans;
 }
-/* line 444, ../sass/_innerpages.scss */
+/* line 457, ../sass/_innerpages.scss */
 .performance .panel .right-side-graph h1 {
   font: 600 14px Open Sans;
   margin-bottom: 20px;
 }
-/* line 448, ../sass/_innerpages.scss */
+/* line 461, ../sass/_innerpages.scss */
 .performance .panel .right-side-graph .order {
   margin-top: 30px;
 }
-/* line 450, ../sass/_innerpages.scss */
+/* line 463, ../sass/_innerpages.scss */
 .performance .panel .right-side-graph .order div {
   margin: 10px 0px;
 }
-/* line 452, ../sass/_innerpages.scss */
+/* line 465, ../sass/_innerpages.scss */
 .performance .panel .right-side-graph .order div button {
   margin-right: 10px;
 }
 @media (min-width: 1100px) {
-  /* line 457, ../sass/_innerpages.scss */
+  /* line 470, ../sass/_innerpages.scss */
   .performance .panel .right-side-graph #chartdiv, .performance .panel .right-side-graph #chartdiv1, .performance .panel .right-side-graph #chartdiv2 {
     width: 80%;
     height: 350px;
   }
 }
 @media (max-width: 1100px) {
-  /* line 458, ../sass/_innerpages.scss */
+  /* line 471, ../sass/_innerpages.scss */
   .performance .panel .right-side-graph #chartdiv, .performance .panel .right-side-graph #chartdiv1, .performance .panel .right-side-graph #chartdiv2 {
     width: 100%;
     height: 300px;
@@ -1677,11 +1695,11 @@ form[name="onboardinfo"] div.error label, form[name="onboardinfo_mob"] div.error
 }
 
 /* for sign up page */
-/* line 465, ../sass/_innerpages.scss */
+/* line 478, ../sass/_innerpages.scss */
 .sign-up {
   font: 600 16px Open Sans;
 }
-/* line 470, ../sass/_innerpages.scss */
+/* line 483, ../sass/_innerpages.scss */
 .sign-up .info_bubble {
   border-radius: 50%;
   text-align: center;
@@ -1692,7 +1710,7 @@ form[name="onboardinfo"] div.error label, form[name="onboardinfo_mob"] div.error
   color: #fff;
   margin: 0 auto;
 }
-/* line 471, ../sass/_innerpages.scss */
+/* line 484, ../sass/_innerpages.scss */
 .sign-up .info_bubble .info_icon {
   height: 60px;
   width: 40px;
@@ -1701,72 +1719,72 @@ form[name="onboardinfo"] div.error label, form[name="onboardinfo_mob"] div.error
   background-repeat: no-repeat;
   background-position: 0px -197px;
 }
-/* line 487, ../sass/_innerpages.scss */
+/* line 500, ../sass/_innerpages.scss */
 .sign-up .info_bubble > p {
   width: 85%;
   margin: 28px auto;
 }
-/* line 492, ../sass/_innerpages.scss */
+/* line 505, ../sass/_innerpages.scss */
 .sign-up .info_bubble .info_questions {
   background-color: #12756a;
   text-align: center;
   padding: 15px 0px 25px 0px;
   position: relative;
 }
-/* line 498, ../sass/_innerpages.scss */
+/* line 511, ../sass/_innerpages.scss */
 .sign-up .info_bubble .info_questions p {
   padding: 0px;
   margin: 5px 0 20px;
 }
-/* line 503, ../sass/_innerpages.scss */
+/* line 516, ../sass/_innerpages.scss */
 .sign-up .info_bubble .info_questions:hover {
   bottom: 165px;
 }
-/* line 509, ../sass/_innerpages.scss */
+/* line 522, ../sass/_innerpages.scss */
 .sign-up form.one-step {
   z-index: 0;
 }
-/* line 512, ../sass/_innerpages.scss */
+/* line 525, ../sass/_innerpages.scss */
 .sign-up form h1 {
   margin: 10px 0px;
 }
-/* line 515, ../sass/_innerpages.scss */
+/* line 528, ../sass/_innerpages.scss */
 .sign-up form p {
   font: 400 14px Open Sans;
   margin: 5px 0px 35px;
 }
-/* line 520, ../sass/_innerpages.scss */
+/* line 533, ../sass/_innerpages.scss */
 .sign-up form div.name_field {
   margin: 0px;
 }
-/* line 522, ../sass/_innerpages.scss */
+/* line 535, ../sass/_innerpages.scss */
 .sign-up form div.name_field > div {
   padding: 0px;
 }
-/* line 524, ../sass/_innerpages.scss */
+/* line 537, ../sass/_innerpages.scss */
 .sign-up form div.name_field > div input[type="text"] {
   width: 85%;
   min-width: 250px;
   max-width: 270px;
 }
-/* line 531, ../sass/_innerpages.scss */
+/* line 544, ../sass/_innerpages.scss */
 .sign-up form label {
   display: block;
   font: 400 14px Open Sans;
   margin: 0px;
 }
-/* line 535, ../sass/_innerpages.scss */
+/* line 548, ../sass/_innerpages.scss */
 .sign-up form label.error {
   font: 400 12px Open Sans;
   color: #ff4c4c;
   margin-bottom: 10px;
 }
-/* line 542, ../sass/_innerpages.scss */
+/* line 555, ../sass/_innerpages.scss */
 .sign-up form input[type="radio"] + label {
   display: inline-block;
   margin-bottom: 0px;
 }
-/* line 547, ../sass/_innerpages.scss */
+/* line 560, ../sass/_innerpages.scss */
 .sign-up form input[type="text"], .sign-up form input[type="password"], .sign-up form input[type="email"] {
   display: block;
   margin-bottom: 20px;
@@ -1776,12 +1794,12 @@ form[name="onboardinfo"] div.error label, form[name="onboardinfo_mob"] div.error
   width: 45%;
   min-width: 250px;
 }
-/* line 556, ../sass/_innerpages.scss */
+/* line 569, ../sass/_innerpages.scss */
 .sign-up form input {
   font: 300 14px Open Sans;
   padding-top: 2px;
 }
-/* line 560, ../sass/_innerpages.scss */
+/* line 573, ../sass/_innerpages.scss */
 .sign-up form h4 {
   width: 49%;
   display: inline-block !important;
@@ -1790,26 +1808,26 @@ form[name="onboardinfo"] div.error label, form[name="onboardinfo_mob"] div.error
   font: 300 12px Open Sans;
   text-align: center;
 }
-/* line 570, ../sass/_innerpages.scss */
+/* line 583, ../sass/_innerpages.scss */
 .sign-up .modal {
   display: block;
   position: relative;
   overflow: visible;
 }
-/* line 571, ../sass/_innerpages.scss */
+/* line 584, ../sass/_innerpages.scss */
 .sign-up .one-step {
   overflow: visible;
   border: none;
   box-shadow: none;
 }
-/* line 575, ../sass/_innerpages.scss */
+/* line 588, ../sass/_innerpages.scss */
 .sign-up .one-step .form-footer {
   padding: 15px;
   padding-right: 0;
   text-align: right;
   border: none;
 }
-/* line 580, ../sass/_innerpages.scss */
+/* line 593, ../sass/_innerpages.scss */
 .sign-up .one-step .form-footer .btn-primary {
   background-color: #17ba9b;
   border-color: #17ba9b;
@@ -1817,63 +1835,63 @@ form[name="onboardinfo"] div.error label, form[name="onboardinfo_mob"] div.error
   margin-bottom: 30px;
 }
 
-/* line 593, ../sass/_innerpages.scss */
+/* line 606, ../sass/_innerpages.scss */
 .add-scheme .add-scheme-tab {
   margin-top: 2em;
   border: 1px solid #ddd;
 }
-/* line 596, ../sass/_innerpages.scss */
+/* line 609, ../sass/_innerpages.scss */
 .add-scheme .add-scheme-tab .nav-tabs li {
   width: 50%;
   border: none;
   color: white;
 }
-/* line 598, ../sass/_innerpages.scss */
+/* line 611, ../sass/_innerpages.scss */
 .add-scheme .add-scheme-tab .nav-tabs li a {
   color: #000;
   font-weight: 600;
 }
-/* line 598, ../sass/_innerpages.scss */
+/* line 611, ../sass/_innerpages.scss */
 .add-scheme .add-scheme-tab .nav-tabs li.active a, .add-scheme .add-scheme-tab .nav-tabs li.active a:focus, .add-scheme .add-scheme-tab .nav-tabs li.active a:hover {
   color: white;
   background-color: #18bb9c;
 }
-/* line 599, ../sass/_innerpages.scss */
+/* line 612, ../sass/_innerpages.scss */
 .add-scheme .add-scheme-tab p {
   font: 300 14px Open Sans;
 }
-/* line 601, ../sass/_innerpages.scss */
+/* line 614, ../sass/_innerpages.scss */
 .add-scheme .add-scheme-tab #all-funds label, .add-scheme .add-scheme-tab #all-funds p, .add-scheme .add-scheme-tab #all-funds span {
   font: 300 14px Open Sans;
 }
-/* line 602, ../sass/_innerpages.scss */
+/* line 615, ../sass/_innerpages.scss */
 .add-scheme .add-scheme-tab #all-funds p {
   padding: 10px;
 }
-/* line 603, ../sass/_innerpages.scss */
+/* line 616, ../sass/_innerpages.scss */
 .add-scheme .add-scheme-tab #all-funds select {
   width: 13em;
   border: 1px solid #ddd;
   padding: 5px;
 }
-/* line 604, ../sass/_innerpages.scss */
+/* line 617, ../sass/_innerpages.scss */
 .add-scheme .add-scheme-tab #all-funds .select-amc {
   padding: 2em 0em 1em;
 }
-/* line 605, ../sass/_innerpages.scss */
+/* line 618, ../sass/_innerpages.scss */
 .add-scheme .add-scheme-tab #all-funds .show-schemes {
   padding: 2em 1em 1em;
   border-top: 1px solid #ddd;
   margin: 0;
 }
-/* line 609, ../sass/_innerpages.scss */
+/* line 622, ../sass/_innerpages.scss */
 .add-scheme .search-results table {
   border: 2px solid #cccccc;
   width: 100%;
   font-size: 12px;
   margin-top: 20px;
 }
-/* line 613, ../sass/_innerpages.scss */
+/* line 626, ../sass/_innerpages.scss */
 .add-scheme .search-results table th {
   font-size: 15px;
   text-align: center;
@@ -1882,45 +1900,45 @@ form[name="onboardinfo"] div.error label, form[name="onboardinfo_mob"] div.error
   border: 2px solid #cccccc;
   padding: 3px;
 }
-/* line 619, ../sass/_innerpages.scss */
+/* line 632, ../sass/_innerpages.scss */
 .add-scheme .search-results table th:first-child {
   width: 250px;
 }
-/* line 625, ../sass/_innerpages.scss */
+/* line 638, ../sass/_innerpages.scss */
 .add-scheme .search-results table td {
   padding: 5px;
   text-align: center;
   border: 1px solid #cccccc;
 }
 
-/* line 632, ../sass/_innerpages.scss */
+/* line 645, ../sass/_innerpages.scss */
 .payment {
   margin-top: 6em;
 }
-/* line 635, ../sass/_innerpages.scss */
+/* line 648, ../sass/_innerpages.scss */
 .payment .secure-pay-head h3 {
   font: 300 16px Open Sans;
   padding: 10px;
   font-weight: 600;
 }
-/* line 635, ../sass/_innerpages.scss */
+/* line 648, ../sass/_innerpages.scss */
 .payment .secure-pay-head h3 span {
   color: #18bb9c;
 }
-/* line 636, ../sass/_innerpages.scss */
+/* line 649, ../sass/_innerpages.scss */
 .payment .secure-pay-head h4 {
   font: 300 32px Open Sans;
 }
-/* line 637, ../sass/_innerpages.scss */
+/* line 650, ../sass/_innerpages.scss */
 .payment .secure-pay-head h5 {
   font: 300 14px Open Sans;
   color: gray;
 }
-/* line 638, ../sass/_innerpages.scss */
+/* line 651, ../sass/_innerpages.scss */
 .payment .secure-pay-head img {
   padding: 0 15px;
 }
-/* line 639, ../sass/_innerpages.scss */
+/* line 652, ../sass/_innerpages.scss */
 .payment .secure-pay-body img {
   padding: 12px 12px 3px;
 }

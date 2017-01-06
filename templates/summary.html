@@ -1,0 +1,819 @@
+<div class="summaryPage">
+<header>
+    <!-- Navigation -->
+<nav class="navbar navbar-default inner-head">
+  <div class="container-fluid">
+    <!--<div class="navbar-header">
+      <a class="navbar-brand" href="#">
+        <img alt="Brand" src="images/logo_img.jpg ">
+      </a>
+    </div>-->
+ <div class="navbar-header page-scroll">
+	<button type="button" class="navbar-toggle inner-button" data-toggle="collapse" data-target="#dropdown-thumbnail-preview1">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="glyphicon glyphicon-user"></span>
+	</button>
+	<button type="button" class="navbar-toggle inner-button" data-toggle="collapse" data-target="#dropdown-thumbnail-preview">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	</button>
+	<a class="navbar-brand" href="summary.html"><img src="images/logo_img.jpg " ></a>
+</div>
+	    <div  >
+      <ul class="nav navbar-nav collapse navbar-collapse" id="dropdown-thumbnail-preview">
+		<li class="hidden"><a href="#page-top"></a></li>
+        <li class="page-scroll"><a href="/summary" class="active-now">Summary</a></li>
+        <li class="page-scroll"><a href="/invest">invest</a></li>
+        <li class="page-scroll"><a href="/performance">Performance</a></li>
+        <li class="page-scroll"><a href="/benchmark">Benchmark</a></li>
+        <li class="page-scroll"><a href="/funds">Funds</a></li>
+        <li class="page-scroll hidden-lg" data-toggle="modal" data-target="#tour_modal"><a>take a Tour</a></li>
+
+      </ul>
+	  
+	  
+      <ul class="nav navbar-nav navbar-right " >
+
+        <li class="dropdown visible-lg" data-toggle="modal" data-target="#tour_modal"><a>take a Tour</a></li>
+        <li class="dropdown username" >
+          <a class="dropdown-toggle visible-lg" data-toggle="dropdown" >{{USER}}  <span class="caret"></span></a>
+          <ul class="dropdown-menu  navbar-collapse" role="menu" id="dropdown-thumbnail-preview1">
+            <li><a href="#">Total Balance</a></li>
+            <li><a href="#">Add a Family Member</a></li>
+            <li><a href="#">Settings</a></li>
+            <li><a href="#">Log Out</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div>
+</nav>
+</header>
+	
+	
+	<div class="container" >
+    	<div class="manage_account row"> 
+    	<h1 class="col-sm-6">{{USER}} Personal Account Overview </h1>
+    	<div class="account_controls col-sm-4 text-center">
+    	<div class="deposit_div">
+	    	<div class="deposit_box">
+	    	<a href="invest.html"><button type="button" class="btn deposit_button" >Invest </button></a>	
+	    	</div>    	
+    	<button type="button" id="third" class="btn btn-info" data-toggle="modal" data-target="#myModal">Add Goal</button>
+    	</div>
+    </div>
+    </div>
+    <!-- Starting panel -->
+
+
+
+<uib-accordion close-others="oneAtATime">
+    <div uib-accordion-group class="panel-default" is-open="status.isFirstOpen" is-disabled="status.isFirstDisabled">
+      <uib-accordion-heading>
+        
+  		<div class="row "> 	
+		    <div class="earnings col-sm-4 flclear retirement_plan_actions">
+		    	<div class="earnings_div deposit">
+			    	<p> <i class="plus-sign pull-left fa " ng-class="{'fa-minus-circle': status.isFirstOpen, 'fa-plus-circle ': !status.isFirstOpen}" ng-click="yearInv=false; yearEarn=false;"></i>CURRENT BALANCE FOR ALL GOALS</p>
+			    	<h1>&#x20B9;0.00</h1>
+			    	
+		    	</div> <!-- End for classless div after span -->
+		    </div><!-- End of first col-sm -6 for overaccoint -->
+		    
+			<div class="col-sm-4 retirement_plan_actions">
+				<div class="deposit above">
+					<p>
+						INFLOW MINUS OUTFLOW(NET FLOW) 
+						<span data-toggle="popover" data-placement="top"  data-trigger="hover" data-content="Amount of Money Invested minus Amount of Money taken out"><img src="images/i.png"></span>
+					</p>
+					<h1>&#x20B9;0.00</h1>
+				</div>
+			</div>
+			<div class="col-sm-4 retirement_plan_actions"><div class="deposit above"><p>ANNUALIZED PORTFOLIO RETURNS <span data-toggle="popover" data-placement="top"  data-trigger="hover" data-content="Returns generated in percentage since you started investing on all your investments"><img src="images/i.png"></span></p><h1>0.00%</h1></div></div>
+	    </div>
+
+      </uib-accordion-heading>
+      	<div class="summary_plan_detailed_info">
+	    	<div>
+	    		<p> PERIOD SINCE ACCOUNT OPENED (AUGUST 2015)</p>
+	    	</div>
+	    	<table>
+		    	<thead>
+		    		<tr>
+		    			<th  ng-click="yearInv = !yearInv"><i class="plus-sign pull-left fa " ng-class="{'fa-minus-circle': yearInv, 'fa-plus-circle ': !yearInv}"></i> What you have invested </th> <th>0.00 </th>
+		    		</tr>
+		    	</thead> 
+		    	<tbody  ng-show="yearInv">
+		    		<tr>
+		    			<td>Deposits </td> <td>0.00 </td>
+		    		</tr>
+		    		<tr>
+		    			<td>Withdrawals </td> <td>0.00  </td>
+		    		</tr>
+		    		<tr>
+		    			<td>Other </td> <td>0.00  </td>
+		    		</tr>
+		    	</tbody>	
+	    	</table>
+
+	    	<table>
+		    	<thead>
+		    		<tr>
+		    			<th ng-click="yearEarn = !yearEarn"><i class="plus-sign pull-left fa " ng-class="{'fa-minus-circle': yearEarn, 'fa-plus-circle ': !yearEarn}"></i> What you've earned  </th> <th>0.00 </th>
+		    		</tr>
+		    	</thead>
+		    	
+		    	<tbody ng-show="yearEarn">
+		    		<tr>
+		    			<td>Market changes </td> <td>0.00 </td>
+		    		</tr>
+		    		<tr>
+		    			<td>Dividends </td> <td>0.00  </td>
+		    		</tr>
+		    	</tbody>	  		   		
+	    		
+	    	</table>
+	    	<table class="total">
+	    	<thead>
+	    		<tr>
+	    			<th>Earnings  </th> <th>0.00  </th>
+	    		</tr>
+	    	</thead>
+	    	<tbody>
+	    		<tr>
+	    			<th>Time-weighted return </th> <th>0.00  </th>
+	    		</tr>
+	    	</tbody>    		
+	    		
+
+	    	</table>
+	    </div>
+    </div>
+    <div uib-accordion-group class="panel-default" is-open="status.open">
+      <uib-accordion-heading>
+
+		<div class="row earnings">
+			<div class="col-sm-4 edit_plan">
+			<i class="plus-sign pull-left fa " ng-click="yearInv1=false; yearEarn1=false;" ng-class="{'fa-minus-circle': status.open, 'fa-plus-circle ': !status.open}"></i>
+        	<h2> RETIREMENT </h2> 
+			</div>
+			<div class="col-sm-2 retirement_plan_actions"><div class="deposit"><p id="target1">TARGET YEAR</p><span class="plan_values">2024</span></div></div>
+			<div class="col-sm-2 retirement_plan_actions"><div class="deposit"><p>TARGET AMOUNT</p><span class="plan_values">Rs 0.00 </span></div></div>
+			<div class="col-sm-2 retirement_plan_actions"><div class="deposit"><p>CURRENT BALANCE</p><span class="plan_values">Rs 0.00 </span></div></div>
+			<div class="col-sm-2 retirement_plan_actions"><div class="deposit"><p>PROJECTED GAP <span data-toggle="popover" data-placement="top" data-trigger="hover" data-content="Expected value of your investment by your target year minus amount you require for your goal by your target year"><img src="images/i.png"></span></p><span class="plan_values">Rs 0.00 </span></div></div>
+		</div>
+
+      </uib-accordion-heading>
+	<div class="row retirement_plan"> 
+		<div class="earnings col-sm-6 retirement_plan_actions">		
+		    <!-- copied  -->
+		    <div class="summary_plan_detailed_info" >
+		    	<div>
+		    		<p> PERIOD SINCE ACCOUNT OPENED (AUGUST 2015)</p>
+		    	</div>	    	
+		    	<table>
+			    	<thead>
+			    		<tr>
+			    			<th ng-click="yearInv1 = !yearInv1"><i class="plus-sign pull-left fa " ng-class="{'fa-minus-circle': yearInv1, 'fa-plus-circle ': !yearInv1}"></i> What you have invested </th> <th>0.00 </th>
+			    		</tr>
+			    	</thead>
+			    	 
+			    	<tbody ng-show="yearInv1">
+			    		<tr>
+			    			<td>Deposits </td> <td>0.00 </td>
+			    		</tr>
+			    		<tr>
+			    			<td>Withdrawals </td> <td>0.00  </td>
+			    		</tr>
+			    		<tr>
+			    			<td>Other </td> <td>0.00  </td>
+			    		</tr>
+			    	</tbody> 	
+		    		
+		    	</table>
+
+		    	<table>
+					<thead>
+						<tr>
+							<th ng-click="yearEarn1 = !yearEarn1"><i class="plus-sign pull-left fa " ng-class="{'fa-minus-circle': yearEarn1, 'fa-plus-circle ': !yearEarn1}"></i> What you've earned  </th> <th>0.00 </th>
+						</tr>
+					 </thead>
+
+					 <tbody ng-show="yearEarn1">
+					 	<tr>
+							<td>Market changes </td> <td>0.00 </td>
+						</tr>
+						<tr>
+							<td>Dividends </td> <td>0.00  </td>
+						</tr>
+						<tr>
+							<td>Betterment's fees </td> <td>0.00  </td>
+						</tr>
+					 </tbody>
+		    	</table>
+		    	<table class="total">
+			    	<thead>
+			    		<tr>
+			    			<th>Earnings  </th> <th>0.00  </th>
+			    		</tr>
+			    	</thead>
+			    	<tbody>
+			    		<tr>
+			    			<th>Time-weighted return </th> <th>0.00  </th>
+			    		</tr>
+			    	</tbody>
+		    	</table>
+		    	<div class="deposit_status">
+		    		<a>AUTO-DEPOSIT OFF</a>
+		    		<a>SMARTDEPOSIT OFF</a>
+
+		    	</div>
+		    </div>
+	    <!-- end cop -->
+	    </div><!-- end of outer col sm 6 -->
+	    <div class="col-sm-6">
+
+	    </div>
+
+	  </div>
+    </div>
+</uib-accordion>
+
+
+
+
+	<!-- Modal -->
+<div class="bottom-table">
+ <uib-tabset active="active">
+    <uib-tab index="0" heading="Recent Transactions">
+    <div class="tab-pane fade in active">
+		<table>
+			<thead>
+				<tr>
+					<th><div class="">Folio</div></th> 
+					<th><div class="">Date & Time</div></th> 
+					<th><div class="">Ref.No.</div></th> 
+					<th><div class="">Payment Id</div></th> 
+					<th><div class="">Scheme name </div></th> 
+					<th><div class="">Transaction Type </div></th> 
+					<th><div class="">Units</div></th> 
+					<th><div class="">Amount(Rs.)</div></th> 
+					<th><div class="">Status</div></th> 
+				</tr>
+			</thead>
+
+			<tbody>
+				<tr>
+					<td >195858</td>
+					<td >02/12/2015 16:42:12</td>
+					<td >52154</td>
+					<td >55454545</td>
+					<td >BNP Paribas LT Equity Fund(G)</td>
+					<td >New Investment</td>
+					<td >506.25</td>
+					<td >50,000</td>
+					<td >Transaction<br>completed</td>
+				</tr>
+				<tr>
+					<td >195858</td>
+					<td >02/12/2015 16:42:12</td>
+					<td >52154</td>
+					<td >55454545</td>
+					<td >BNP Paribas LT Equity Fund(G)</td>
+					<td >New Investment</td>
+					<td >506.25</td>
+					<td >50,000</td>
+					<td >Transaction<br>completed</td>
+				</tr>
+
+			</tbody>
+		</table>
+	
+    </div>
+    </uib-tab>
+    <uib-tab index="1" heading="My Systematic Plans">
+    <div class="tab-pane fade in active">
+		<table>
+			<thead>
+				<tr>
+					<th><div class="">Folio</div></th> 
+					<th><div class="">Date & Time</div></th> 
+					<th><div class="">Ref.No.</div></th> 
+					<th><div class="">Payment Id</div></th> 
+					<th><div class="">Scheme name </div></th> 
+					<th><div class="">Transaction Type </div></th> 
+					<th><div class="">Units</div></th> 
+					<th><div class="">Amount(Rs.)</div></th> 
+					<th><div class="">Status</div></th> 
+				</tr>
+			</thead>
+
+			<tbody>
+				<tr>
+					<td >195858</td>
+					<td >02/12/2015 16:42:12</td>
+					<td >52154</td>
+					<td >55454545</td>
+					<td >BNP Paribas LT Equity Fund(G)</td>
+					<td >New Investment</td>
+					<td >506.25</td>
+					<td >50,000</td>
+					<td >Transaction<br>completed</td>
+				</tr>
+				<tr>
+					<td >195858</td>
+					<td >02/12/2015 16:42:12</td>
+					<td >52154</td>
+					<td >55454545</td>
+					<td >BNP Paribas LT Equity Fund(G)</td>
+					<td >New Investment</td>
+					<td >506.25</td>
+					<td >50,000</td>
+					<td >Transaction<br>completed</td>
+				</tr>
+
+			</tbody>
+		</table>
+	
+    </div>
+    </uib-tab>
+  </uib-tabset>
+</div>
+
+    <div class="modal fade tour_popup" id="tour_modal" tabindex="-1" role="dialog" aria-labelledby="tour_modal">
+              <div class="modal-dialog  modal-lg" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h1 class="modal-title" id="myModalLabel">Brief tour of the website</h1>
+                  </div>                
+
+                  <div class="modal-body">
+                  <!-- starting tabs -->
+                   <!-- Nav tabs -->
+					  <ul class="nav nav-tabs" role="tablist" id="tour_tabs">
+					    <li role="presentation" class="active"><a href="#summary" aria-controls="summary" role="tab" data-toggle="tab">SUMMARY</a></li>
+					    <li role="presentation"><a href="#Invest" aria-controls="Invest" role="tab" data-toggle="tab">INVEST</a></li>
+						<li role="presentation"><a href="#Performance" aria-controls="Performance" role="tab" data-toggle="tab">PERFORMANCE</a></li>
+					    <li role="presentation"><a href="#benchmark" aria-controls="benchmark" role="tab" data-toggle="tab">BENCHMARK</a></li>
+					    <li role="presentation"><a href="#funds" aria-controls="funds" role="tab" data-toggle="tab">FUNDS</a></li>
+					  </ul>
+
+					  <div class="tab-content">
+					    <div role="tabpanel" class="tab-pane fade in active" id="summary">
+					    <!-- starting first tab -->
+					    	<!-- Pasting the slider -->
+				        <div id="carousel-tour" class="carousel slide" data-ride="carousel" data-interval="false">
+				  <!-- Indicators --> 
+						  <ol class="carousel-indicators">
+						    <li data-target="#carousel-tour" data-slide-to="0" class="active"></li>
+						    <li data-target="#carousel-tour" data-slide-to="1"></li>
+						    <li data-target="#carousel-tour" data-slide-to="2"></li>
+						    <li data-target="#carousel-tour" data-slide-to="3"></li>
+						  </ol>
+
+				  <!-- Wrapper for slides -->
+				  <div class="carousel-inner" role="listbox">
+				    <div class="item active">
+				    <div class="row">
+				    	<div class="col-md-6">
+				    		<img src="images/tour/summary/one.png" alt="tour_summary">
+				    	</div>
+				    	<div class="col-md-6">
+				    		<h5>Invest </h5>
+				    		<p> Enter the desired amount to invest.</p>
+				    		<h5>Add Goal </h5>
+				    		<p>Goal setting is pretty simple. A goal is something that you are willing to work for.</p>
+				    	</div> 			    		
+
+				    </div>
+				      
+				    </div>
+				    <div class="item">
+				       <div class="row">
+				    	<div class="col-md-6">
+				    		<img src="images/tour/summary/two.png" alt="tour_summary">
+				    	</div>
+				    	<div class="col-md-6">
+				    	<h5>Current Balance for all goals</h5>
+				    		<p>A consolidated view of your overall investments and earnings. </p>
+				    	</div>  	
+
+				    </div>
+				    </div>
+
+				    <div class="item">
+				      <div class="row">
+				    	<div class="col-md-6">
+				    		<img src="images/tour/summary/three.png" alt="tour_summary">
+				    	</div>
+				    	<div class="col-md-6">
+				    	<h5>Goal</h5>
+				    		<p>Your goal account summary. </p>
+				    	</div>  	
+
+				    </div>
+				    </div>
+
+				    <div class="item">
+				      <div class="row">
+				    	<div class="col-md-6">
+				    		<img src="images/tour/summary/four.png" alt="tour_summary">
+				    	</div>
+				    	<div class="col-md-6">
+				    	<h5>Recent Transactions</h5>
+				    		<p>Track your recent transactions. </p>
+				    	</div>  	
+
+				    </div>
+				    </div>
+				    
+				  </div>
+
+				  <!-- Controls -->
+				  <a class="left carousel-control" href="#carousel-tour" role="button" data-slide="prev">
+				    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+				    <span class="sr-only">Previous</span>
+				  </a>
+				  <a class="right carousel-control" href="#carousel-tour" role="button" data-slide="next">
+				    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				    <span class="sr-only">Next</span>
+				  </a>
+				</div>
+				        <!-- End of slider -->
+					    <!-- end first tab -->
+					    </div>
+					    <div role="tabpanel" class="tab-pane" id="Invest">
+					    <!-- start -->
+					    	<!-- Pasting the slider -->
+				        <div id="carousel-tour2" class="carousel slide" data-ride="carousel" data-interval="false">
+				  <!-- Indicators --> 
+						  <ol class="carousel-indicators">
+						    <li data-target="#carousel-tour2" data-slide-to="0" class="active"></li>
+						    <li data-target="#carousel-tour2" data-slide-to="1"></li>
+						    <li data-target="#carousel-tour2" data-slide-to="2"></li>
+						    <li data-target="#carousel-tour2" data-slide-to="3"></li>
+						  </ol>
+
+				  <!-- Wrapper for slides -->
+				  <div class="carousel-inner" role="listbox">
+				    <div class="item active">
+				    <div class="row">
+				    	<div class="col-md-6">
+				    		<img src="images/tour/invest/one.png" alt="tour_summary">
+				    	</div>
+				    	<div class="col-md-6">
+				    	<h5>Execute Portfolio</h5>
+				    		<p>Execute the recommended plan that best meets your needs and tolerance for risk. </p>
+				    	</div> 			    		
+
+				    </div>
+				      
+				    </div>
+				    <div class="item">
+				       <div class="row">
+				    	<div class="col-md-6">
+				    		<img src="images/tour/invest/two.png" alt="tour_summary">
+				    	</div>
+				    	<div class="col-md-6">
+				    	<h5>Change Portfolio</h5>
+				    		<p>If you wish to modify the recommended portfolio you can use this option. Our advisors are available to help you choose wisely.</p>
+				    	</div>  	
+
+				    </div>
+				    </div>
+
+				    <div class="item">
+				      <div class="row">
+				    	<div class="col-md-6">
+				    		<img src="images/tour/invest/three.png" alt="tour_summary">
+				    	</div>
+				    	<div class="col-md-6">
+				    	<h5>Buy/Sell</h5>
+				    		<p>You can transact and manage individual funds/assets from here. </p>
+				    	</div>  	
+
+				    </div>
+				    </div>
+
+				    <div class="item">
+				      <div class="row">
+				    	<div class="col-md-6">
+				    		<img src="images/tour/invest/four.png" alt="tour_summary">
+				    	</div>
+				    	<div class="col-md-6">
+				    	<h5>Mutual Funds Listing</h5>
+				    		<p>List of Mutual funds under your portfolio. You can click on each of the them to view a brief description.</p>
+				    	</div>  	
+
+				    </div>
+				    </div>
+				    
+				  </div>
+
+				  <!-- Controls -->
+				  <a class="left carousel-control" href="#carousel-tour2" role="button" data-slide="prev">
+				    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+				    <span class="sr-only">Previous</span>
+				  </a>
+				  <a class="right carousel-control" href="#carousel-tour2" role="button" data-slide="next">
+				    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				    <span class="sr-only">Next</span>
+				  </a>
+				</div>
+				        <!-- End of slider -->
+					    <!-- end -->
+
+					    </div>
+					    
+						<div role="tabpanel" class="tab-pane" id="Performance">
+
+					    <!-- start -->
+					    	<!-- Pasting the slider -->
+				         <div id="carousel-tour5" class="carousel slide" data-ride="carousel" data-interval="false">
+				  <!-- Indicators --> 
+						  <ol class="carousel-indicators">
+						    <li data-target="#carousel-tour5" data-slide-to="0" class="active"></li>
+						    <li data-target="#carousel-tour5" data-slide-to="1"></li>
+						  </ol>
+
+				  <!-- Wrapper for slides -->
+				  <div class="carousel-inner" role="listbox">
+				    <div class="item active">
+				    <div class="row">
+				    	<div class="col-md-6">
+				    		<img src="images/tour/performance/tour1.png" alt="tour_summary">
+				    	</div>
+				    	<div class="col-md-6">
+				    	<h5>Performance Statistics</h5>
+				    		<p>Check your performance over Balance snapshot,Balance Overtime,Balance and Holding.</p>
+				    	</div> 			    		
+
+				    </div>
+				      
+				    </div>
+				    <div class="item">
+				       <div class="row">
+				    	<div class="col-md-6">
+				    		<img src="images/tour/performance/tour2.png" alt="tour_summary">
+				    	</div>
+				    	<div class="col-md-6">
+				    	<h5>Performance Statistics</h5>
+				    		<p>Compare your performance with our suggested projected savings.</p>
+				    		<p>Also, check your recent transactions to track yourself. </p>
+				    	</div>  	
+
+				    </div>
+				    </div>
+
+				  </div>
+
+				  <!-- Controls -->
+				  <a class="left carousel-control" href="#carousel-tour5" role="button" data-slide="prev">
+				    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+				    <span class="sr-only">Previous</span>
+				  </a>
+				  <a class="right carousel-control" href="#carousel-tour5" role="button" data-slide="next">
+				    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				    <span class="sr-only">Next</span>
+				  </a>
+				</div>
+				        <!-- End of slider -->
+					    <!-- end -->
+					    </div>
+					 
+						<div role="tabpanel" class="tab-pane" id="benchmark">
+
+					    	<!-- start -->
+					    	<!-- Pasting the slider -->
+				        <div id="carousel-tour3" class="carousel slide" data-ride="carousel" data-interval="false">
+				  <!-- Indicators --> 
+						  <ol class="carousel-indicators">
+						    <li data-target="#carousel-tour3" data-slide-to="0" class="active"></li>
+						   
+						  </ol>
+
+				  <!-- Wrapper for slides -->
+				  <div class="carousel-inner" role="listbox">
+				    <div class="item active">
+				    <div class="row">
+				    	<div class="col-md-6">
+				    		<img src="images/tour/benchmark/one.png" alt="tour_summary">
+				    	</div>
+				    	<div class="col-md-6">
+				    	<h5>Benchmark</h5>
+				    		<p>we provide you a set of priorities based on your expectations using finotrust data driven analytics. </p>
+				    	</div> 			    		
+
+				    </div>				      
+				    </div> 			    
+				  </div>
+
+				  <!-- Controls -->
+				  <a class="left carousel-control" href="#carousel-tour3" role="button" data-slide="prev">
+				    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+				    <span class="sr-only">Previous</span>
+				  </a>
+				  <a class="right carousel-control" href="#carousel-tour3" role="button" data-slide="next">
+				    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				    <span class="sr-only">Next</span>
+				  </a>
+				</div>
+				        <!-- End of slider -->
+					    <!-- end -->
+					    </div>
+					    <div role="tabpanel" class="tab-pane" id="funds">
+
+					    <!-- start -->
+					    	<!-- Pasting the slider -->
+				        <div id="carousel-tour4" class="carousel slide" data-ride="carousel" data-interval="false">
+				  <!-- Indicators --> 
+						  <ol class="carousel-indicators">
+						    <li data-target="#carousel-tour4" data-slide-to="0" class="active"></li>
+						    <li data-target="#carousel-tour4" data-slide-to="1"></li>
+						    <li data-target="#carousel-tour4" data-slide-to="2"></li>
+						  </ol>
+
+				  <!-- Wrapper for slides -->
+				  <div class="carousel-inner" role="listbox">
+				    <div class="item active">
+				    <div class="row">
+				    	<div class="col-md-6">
+				    		<img src="images/tour/funds/one.png" alt="tour_summary">
+				    	</div>
+				    	<div class="col-md-6">
+				    	<h5>Mutual Fund Types</h5>
+				    		<p>You can glide through the tabs for different mutual funds each having their own level of risks and returns.</p>
+				    	</div> 			    		
+
+				    </div>
+				      
+				    </div>
+				    <div class="item">
+                      <div class="row">
+                        <div class="col-md-6">
+                            <img src="images/tour/funds/three.png" alt="tour_summary">
+                        </div>
+                        <div class="col-md-6">
+                        <h5>SIP & One Time</h5>
+                            <p>Systematic Investment Planning - SIP is a method of investing a fixed sum, regularly, in a mutual fund scheme allowing you to buy units on a given date each month.</p>
+                            <p> One Time - You can invest lump sum into the mutual fund. </p>
+                        </div>  
+
+                    </div>
+                    </div>
+                    <div class="item">
+                       <div class="row">
+                        <div class="col-md-6">
+                            <img src="images/tour/funds/two.png" alt="tour_summary">
+                        </div>
+                        <div class="col-md-6">
+                        <h5>Search funds to invest</h5>
+                            <p>This sections helps you to search different scheme types to invest in.</p>
+                        </div>      
+
+                    </div>
+                    </div>
+
+				  </div>
+
+				  <!-- Controls -->
+				  <a class="left carousel-control" href="#carousel-tour4" role="button" data-slide="prev">
+				    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+				    <span class="sr-only">Previous</span>
+				  </a>
+				  <a class="right carousel-control" href="#carousel-tour4" role="button" data-slide="next">
+				    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				    <span class="sr-only">Next</span>
+				  </a>
+				</div>
+				        <!-- End of slider -->
+					    <!-- end -->
+					    </div>
+					  </div>
+
+                  
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                  </div>
+                </div>
+              </div>
+    
+	</div>
+            <!-- end tour -->
+
+			<!--Add goal Modal content-->
+  <div class="modal fade multi-step" id="myModal" role="dialog">
+    <div class="modal-dialog add-goal">
+		<div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title text-center">Add your goal</h4>
+        </div>
+        <div class="modal-body step-1" data-step="1">
+			<div class="btn-group goals" data-toggle="buttons">
+				<div class="row " >
+					<div class="col-md-2 goal-header" >Basic</div>
+					<div class="col-md-9" >
+					  <label class="btn btn-default select-goal">
+						<input type="radio" name="add-goal" id="option1" autocomplete="off"> <p>Contingency Plan</p>
+					  </label>
+					  <label class="btn btn-default select-goal">
+						<input type="radio" name="add-goal" id="option2" autocomplete="off"> <p>Retirement</p>
+					  </label>
+					  <label class="btn btn-default select-goal">
+						<input type="radio" name="add-goal" id="option3" autocomplete="off"> <p>General Investment</p>
+					  </label>
+					  <label class="btn btn-default select-goal">
+						<input type="radio" name="add-goal" id="option4" autocomplete="off"> <p>Save on Taxes</p>
+					  </label>
+					</div>
+				</div>
+				<div class="row " >
+					<div class="col-md-2 goal-header" >Planned Spends</div>
+					<div class="col-md-9" >
+					  <label class="btn btn-default select-goal ">
+						<input type="radio" name="add-goal" id="option1" autocomplete="off"> <p>Plan a Purchase</p>
+					  </label>
+					  <label class="btn btn-default select-goal">
+						<input type="radio" name="add-goal" id="option2" autocomplete="off"> <p>Plan a Investment</p>
+					  </label>
+					  <label class="btn btn-default select-goal">
+						<input type="radio" name="add-goal" id="option3" autocomplete="off"> <p>Buying a Vehicle</p>
+					  </label>
+					</div>
+				</div>
+				<div class="row " >
+					<div class="col-md-2 goal-header" >Major Life Goals</div>
+					<div class="col-md-9" >
+					  <label class="btn btn-default select-goal ">
+						<input type="radio" name="add-goal" id="option1" autocomplete="off"> <p>Mariage (Self)</p>
+					  </label>
+					  <label class="btn btn-default select-goal">
+						<input type="radio" name="add-goal" id="option2" autocomplete="off"> <p>Marriage (Kids)</p>
+					  </label>
+					  <label class="btn btn-default select-goal">
+						<input type="radio" name="add-goal" id="option3" autocomplete="off"> <p>Education (Self)</p>
+					  </label>
+					  <label class="btn btn-default select-goal">
+						<input type="radio" name="add-goal" id="option4" autocomplete="off"> <p>Medical</p>
+					  </label>
+					</div>
+				</div>
+				<div class="row " >
+					<div class="col-md-2 goal-header" >Luxury</div>
+					<div class="col-md-9" >
+					  <label class="btn btn-default select-goal ">
+						<input type="radio" name="add-goal" id="option1" autocomplete="off"> <p>Save for Travel</p>
+					  </label>
+					  <label class="btn btn-default select-goal">
+						<input type="radio" name="add-goal" id="option2" autocomplete="off"> <p>Philanthropy</p>
+					  </label>
+					</div>
+				</div>
+				<div class="row " >
+					<div class="col-md-2 goal-header" >Loan Repayment</div>
+					<div class="col-md-9" >
+					  <label class="btn btn-default select-goal ">
+						<input type="radio" name="add-goal" id="option1" autocomplete="off"> <p>House Loan</p>
+					  </label>
+					  <label class="btn btn-default select-goal">
+						<input type="radio" name="add-goal" id="option2" autocomplete="off"> <p>Vehicle Loan</p>
+					  </label>
+					  <label class="btn btn-default select-goal">
+						<input type="radio" name="add-goal" id="option3" autocomplete="off"> <p>Education Loan</p>
+					  </label>
+					  <label class="btn btn-default select-goal">
+						<input type="radio" name="add-goal" id="option4" autocomplete="off"> <p>Personal Loan</p>
+					  </label>
+					</div>
+				</div>
+				<div class="row " >
+					<div class="col-md-2 goal-header" >Add other Goal</div>
+					<div class="col-md-9" >
+						<input type="text">
+					</div>
+				</div>
+				
+			</div>
+        </div>
+		
+		<div class="modal-body step-2" data-step="2">
+			<div class="row target year"><div class="col-md-6"><h3>By when you want to achieve this goal</h3></div><div class="col-md-6"><input type="text" placeholder="Target Year"></div></div>
+			<div class="row target amount"><div class="col-md-6"><h3>How much money wouldyou want to have for this goal</h3></div><div class="col-md-6"><input type="text" placeholder="Target Amount"></div></div>
+		</div>
+        <div class="modal-footer">
+			<button type="button" class="btn btn-primary step step-1" data-step="1" onclick="sendEvent('#myModal', 2)">Continue</button>
+			<button type="button" class="btn btn-primary step step-2" data-step="2" onclick="sendEvent('#myModal', 1)">Back</button>
+			<button type="button" class="btn btn-primary step step-2 submit-goal" data-step="2" data-dismiss="modal">Add Goal</button>
+		</div>
+      </div>
+      
+    </div>
+  </div>
+</div><!-- End of container -->
+
+</div>

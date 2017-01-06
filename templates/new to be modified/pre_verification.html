@@ -1,0 +1,36 @@
+<div ng-controller="loginChech">
+<div ng-controller="navTabsCtrl">
+<nav class="navbar navbar-default navbar-fixed-top"  >
+  <div class="container">
+    <div class="navbar-header page-scroll">
+      <a class="navbar-brand" ><img src="img/logo_priv.png" ></a>
+    </div>
+  </div>
+</nav>
+</div>
+  <span ng-controller="showhistoryController"></span>
+    <div overflow-scroll="true" padding="false" class="has-header">
+		<div class="container statusPage">
+			<div class="rows"><img src="img/step1.jpg" class="steps"></div>
+			<div class="rows padding">
+				<p >You are just one step away to activate your account. Please send us these details to <b>support@finozen.com</b></p>
+				<p>For more details please call us @ 09206073021</p>
+			</div>
+			<hr/>			
+			<div class="rows padding" ng-repeat="n in [42, 42, 43, 43] track by $index">
+				<span class="custom_bullets">1</span><p >Photo of your PAN card</p><br/>
+			</div>
+			<hr/>
+			<div class="rows padding">
+				<p >We will update you once your account is ready for transactions. Happy Investing!</p>
+			</div>
+		</div>
+    </div>
+
+<div>
+	<div class="button-bar " style="padding:0;">
+		<a href="#/sliders" class="button button-positive" style="margin:1px;line-height: 44px;" >know more</a>
+		<a href="#/tour" class="button button-positive" style="margin:1px; line-height: 44px;" >start investing</a>
+	</div>
+</div>
+</div>

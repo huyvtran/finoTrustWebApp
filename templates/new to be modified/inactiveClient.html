@@ -1,0 +1,26 @@
+<div ng-controller="loginChech">
+<div ng-controller="navTabsCtrl">
+<nav class="navbar navbar-default navbar-fixed-top"  >
+  <div class="container">
+    <div class="navbar-header page-scroll">
+      <a class="navbar-brand" ><img src="img/logo_priv.png" ></a>
+    </div>
+  </div>
+</nav>
+</div>
+<div class="verification bankPage"  ng-controller="verifySuccessCtrl">
+		<div class="">
+			<div class=" padding">		
+				<h3 class="text-center" ng-hide="disbledSkip" style="font-weight:600; text-transform:uppercase;color:#18bb9c;">Congratulations!</h3>
+				<p class="padding">Your FinoZen account is currently inactive. Do you wish to start saving and growing your money everyday?</p>
+				<p >Please send us your PAN Number and Bank Details to <b>support@finozen.com</b></p>
+				<p>For more details please call us @ 09206073021</p>
+			</div>
+		</div><br><br>
+	<div class="text-center">
+		<div class="button-bar " style="padding:0;">
+			<button class="button button-positive" ng-click="investNowFunction()">{{startInvesting}}</button>
+		</div>
+	</div>
+</div>
+</div>

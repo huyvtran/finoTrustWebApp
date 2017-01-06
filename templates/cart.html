@@ -18,41 +18,113 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li class="hidden"><a href="#page-top"></a></li>
-                <li class="page-scroll"><a href="#/whyFino">Why Fino</a></li>
-                <li class="page-scroll"><a href="#/whatWeDo" >What We Do</a></li>
-                <li class="page-scroll"><a href="#/aboutUs">About Us</a></li>
-                <li class="page-scroll"><a href="#/pricing" >Pricing</a></li>
-                <li class="page-scroll"><a href="#/FAQs">FAQs</a></li>
-                <li class="page-scroll"><a class="cd-signin" href="#">Sign in</a></li>
-                <li class="page-scroll" id="sign-up" ><a href="#/getStarted"> Sign Up </a></li>        
+                <li class="page-scroll"><a href="/whyFino">Why Fino</a></li>
+                <li class="page-scroll"><a href="/whatWeDo" >What We Do</a></li>
+                <li class="page-scroll"><a href="/aboutUs">About Us</a></li>
+                <li class="page-scroll"><a href="/FAQs">FAQs</a></li>
+                <li class="page-scroll" id="sign-up" ><a href="/getStarted"> Sign in/Sign Up </a></li>   
+                <li class="page-scroll" ><a href="/cart" ng-controller="cartController"> <i class="fa fa-shopping-cart" aria-hidden="true"></i> {{cartLength()}}</a></li>       
             </ul>
             </div>
         </div>
     </nav>
 </header>
 <br/><br/><br/>
-	<button ng-click="addDate()">Add</button>
-
-
 	<div class="container">
-		<div class="list-group" ng-repeat="cart2 in names" >
-		  <div class="list-group-item active cartItem" ng-click="collapsed = !collapsed" >
-		    <h4 class="list-group-item-heading">List group item heading {{cart2 | date}}</h4><span class="badge" ng-click="remove($index)">X</span>
+        <div class="list-group" ng-repeat="comboItems in comboCartItems" >
+          <div class="list-group-item active cartItem">
+            <h4 class="list-group-item-heading row">
+            <span class="col-md-6" ng-click="collapsed = !collapsed" >{{comboItems.comboName}}</span> 
+            <span class="col-md-2">{{comboItems.risk }}</span> 
+            <span class="col-md-2">{{comboItems.amount | currency: '&#8377;' :0 }}</span> 
+            <span class="col-md-1 cartEditDiv" >
+                <button class="cartButton" ng-click="removeCombo($index)">X</button>
+            </span>
 
-			<div class="inner mfScheme row list-group-item-text collapse" ng-class="{'collapse' : collapsed}">
-				<div class="col-md-6 col-xs-12 col-sm-6 ">
-					<p>Scheme type: None</p>
-					<p>Asset Family: Reliance</p>
-					<p>MF Classification: None</p>
-				</div>
-				<div class="col-md-6 col-xs-12 col-sm-6 ">
-					<p>Minimum Investment: Rs. 2,000</p>
-					<p>Lock-in Period: 3 Months</p>
-					<p>Exit Load: None</p>
-				</div>
-			</div>
-		  </div>
-		</div>
+            </h4>
+<div class="" ng-class="{'collapse' : !collapsed}">
+    <div ng-repeat="comboSchemes in comboCartItems[$index].mfData" >
+      <div class="list-group-item active cartItem">
+        <h4 class="list-group-item-heading row">
+        <span class="col-md-6" ng-click="collapsed1 = !collapsed1" >{{comboSchemes.AssetName}}</span> 
+        <span class="col-md-2">{{comboItems.risk }}</span> 
+        <span class="col-md-2" ng-show="!yearhide">{{comboSchemes.Prcnt | currency: '&#8377;' :0}}</span> 
+        <span class="col-md-2 cartEdit" ng-show="yearhide">
+            <input type="number" class="form-control" ng-model="comboItemsScheme.amount" name=""> 
+        </span> 
+        <span class="col-md-1 cartEditDiv" >
+            <button class="cartButton" ng-show="!yearhide" ng-click="yearhide = !yearhide"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></button>
+            <button class="cartButton" ng-show="yearhide" ng-click="yearhide = !yearhide; editComboScheme(comboItemsScheme.amount, $parent.$index, $index, comboSchemes.Prcnt);"><i class="fa fa-floppy-o" aria-hidden="true"></i></button>
+        </span> 
+
+        </h4>
+                <div class="inner mfScheme row list-group-item-text collapse" ng-class="{'collapse' : collapsed1}">
+                    <div class="col-md-6 col-xs-12 col-sm-6 ">
+                        <p>Scheme type: None</p>
+                        <p>Asset Family: Reliance</p>
+                        <p>MF Classification: None</p>
+                    </div>
+                    <div class="col-md-6 col-xs-12 col-sm-6 ">
+                        <p>Minimum Investment: Rs. 2,000</p>
+                        <p>Lock-in Period: 3 Months</p>
+                        <p>Exit Load: None</p>
+                    </div>
+                </div>
+      </div>
+    </div>
+</div>
+          </div>
+        </div>
+
+        <div class="list-group" ng-repeat="cart2 in names" >
+          <div class="list-group-item active cartItem">
+            <h4 class="list-group-item-heading row">
+            <span class="col-md-6" ng-click="collapsed = !collapsed" >{{cart2.schemeName}}</span> 
+            <span class="col-md-2">{{cart2.date | date}}</span> 
+            <span class="col-md-2" ng-show="!yearhide">{{cart2.amount | currency}}</span> 
+            <span class="col-md-2 cartEdit" ng-show="yearhide">
+                <input type="number" class="form-control" ng-model="cart2.amount" name=""> 
+            </span> 
+            <span class="col-md-1 cartEditDiv" >
+                <button class="cartButton" ng-show="!yearhide" ng-click="yearhide = !yearhide"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></button>
+                <button class="cartButton" ng-show="yearhide" ng-click="yearhide = !yearhide"><i class="fa fa-floppy-o" aria-hidden="true"></i></button>
+                <button class="cartButton" ng-click="removeScheme($index)">X</button>
+            </span> 
+
+            </h4>
+
+
+            <div class="inner mfScheme row list-group-item-text collapse" ng-class="{'collapse' : collapsed}">
+                <div class="col-md-6 col-xs-12 col-sm-6 ">
+                    <p>Scheme type: None</p>
+                    <p>Asset Family: Reliance</p>
+                    <p>MF Classification: None</p>
+                </div>
+                <div class="col-md-6 col-xs-12 col-sm-6 ">
+                    <p>Minimum Investment: Rs. 2,000</p>
+                    <p>Lock-in Period: 3 Months</p>
+                    <p>Exit Load: None</p>
+                </div>
+            </div>
+          </div>
+        </div>
+        <hr>
+        <div class="list-group-item active cartItem">
+            <h4 class="list-group-item-heading row">
+            <span class="col-md-6" >Total Value</span> 
+            <span class="col-md-2"></span> 
+            <span class="col-md-2">
+                 {{cartValue() | currency: '&#8377;' :0}}
+            </span> 
+            <span class="col-md-2">
+            </span> 
+            </h4>
+        </div>
+        <hr>
+        <div class="row">
+            <span class="col-md-12 text-right"><button class="btn btn-outline btnCheckout" ng-click="loginCheck()">Proceed to Checkout</button>
+            </span> 
+        </div>
 	</div>
 </div>
 	

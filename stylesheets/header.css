@@ -145,7 +145,7 @@
 }
 /* line 88, ../sass/header.scss */
 .navbar.navbar-default .navbar-nav > li a {
-  font-family: Montserrat;
+  font-family: Open Sans;
   color: white;
   font-weight: 700;
   font-size: 14px;
@@ -234,12 +234,12 @@
 /* footer */
 /* line 140, ../sass/header.scss */
 footer {
-  font-family: 'Montserrat';
+  font-family: Open Sans;
   color: white;
 }
 /* line 142, ../sass/header.scss */
 footer h1, footer h2, footer h3, footer h4, footer h5, footer h6 {
-  font-family: Montserrat;
+  font-family: Open Sans;
   font-weight: 700;
   text-transform: uppercase;
   padding-top: 1em;
@@ -390,21 +390,22 @@ select.search-invest {
   width: 90%;
   font-size: 13px;
   padding: 5px 0;
+  margin: 0;
 }
-/* line 244, ../sass/header.scss */
+/* line 245, ../sass/header.scss */
 select.minimal {
   background-image: linear-gradient(45deg, transparent 50%, #18bb9c 50%), linear-gradient(135deg, #18bb9c 50%, transparent 50%);
   background-position: calc(100% - 20px) calc(0.8em + 2px), calc(100% - 15px) calc(0.8em + 2px), calc(100% - 2.5em) 0.5em;
 }
-/* line 252, ../sass/header.scss */
+/* line 253, ../sass/header.scss */
 select.minimal#retired {
   width: 7.6em;
 }
-/* line 253, ../sass/header.scss */
+/* line 254, ../sass/header.scss */
 select.minimal#married {
   width: 7.6em;
 }
-/* line 254, ../sass/header.scss */
+/* line 255, ../sass/header.scss */
 select.minimal#kids {
   width: 3em;
 }

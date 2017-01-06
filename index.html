@@ -12,6 +12,9 @@
     <link rel="stylesheet" href="stylesheets/outer.css">
     <link rel="stylesheet" href="stylesheets/component.css">
     <link rel="stylesheet" href="stylesheets/newCss.css">
+    <link rel="stylesheet" href="stylesheets/css-loader.css">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#18BB9C">
     <title>Home </title>
 </head>
 <html>
@@ -37,6 +40,7 @@
     </script>
 	</div>
 	<script src="js/app.js"></script>
+	<script src="js/datePicker.js"></script>
 	<script src="js/controller.js"></script>
 	<script src="js/services.js"></script>
 	<script src="js/directives.js"></script>
@@ -55,6 +59,7 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular-animate.min.js"></script>
 	<script src="js/custom.js"></script>
+	<script src="js/readmore.js"></script>
 
 	<!--Date picker css-->
 
@@ -133,7 +138,32 @@
 		});
 	});
 	</script>
-    
+    	<script type="text/javascript">
+    /*Toggle icons for portfolio page + and - */
+        var eventID;
+        $("#headingThree span.sign").toggleClass("plus-sign, minus-sign");
+        $(".panel.panel-default .panel.panel-default").on("show.bs.collapse",function(event){
+            eventID="#"+(event.target.id);
+            $(eventID).siblings().find("span.sign").toggleClass("plus-sign, minus-sign");
+        });
+
+        $(".panel.panel-default .panel.panel-default").on("hide.bs.collapse",function(event){
+            eventID="#"+(event.target.id);
+            $(eventID).siblings().find("span.sign").toggleClass("plus-sign, minus-sign");
+
+        });
+        /*To hide texxt*/
+        $(".panel.panel-default .panel.panel-default").on("show.bs.collapse",function(event){
+            eventID="#"+(event.target.id);
+            $(eventID).siblings().find("span.Current-Value").fadeOut();
+        });
+        $(".panel.panel-default .panel.panel-default").on("hide.bs.collapse",function(event){
+            eventID="#"+(event.target.id);
+            $(eventID).siblings().find("span.Current-Value").fadeIn();
+        });
+
+$('[data-toggle="popover"]').popover(); 
+    </script>
 </body>
 </html>
 

@@ -18,47 +18,45 @@
 	            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav navbar-right">
 	                    <li class="hidden"><a href="#page-top"></a></li>
-						<li class="page-scroll"><a href="#/whyFino">Why Fino</a></li>
-						<li class="page-scroll"><a href="#/whatWeDo" >What We Do</a></li>
-						<li class="page-scroll"><a href="#/aboutUs">About Us</a></li>
-						<li class="page-scroll"><a href="#/pricing" >Pricing</a></li>
-						<li class="page-scroll"><a href="#/FAQs">FAQs</a></li>
-						<li class="page-scroll"><a class="cd-signin" href="#">Sign in</a></li>
-						<li class="page-scroll" id="sign-up" ><a href="#/getStarted"> Sign Up </a></li> 		
+						<li class="page-scroll"><a href="/whyFino">Why Fino</a></li>
+						<li class="page-scroll"><a href="/whatWeDo" >What We Do</a></li>
+						<li class="page-scroll"><a href="/aboutUs">About Us</a></li>
+						<li class="page-scroll"><a href="/FAQs">FAQs</a></li>
+                <li class="page-scroll" id="sign-up" ><a href="/getStarted"> Login/Sign Up </a></li>    
+                		<li class="page-scroll" ><a href="/cart" ng-controller="cartController"> <i class="fa fa-shopping-cart" aria-hidden="true"></i> {{cartLength()}}</a></li>        		
 				</ul>
 	            </div>
 	        </div>
 	    </nav>
-	</header>
-	<div class="main-wrapper" ><br/><br/><br/>
+	</header><div ng-controller="comboDetails"></div>
+	<div class="main-wrapper" >
 		<div class="two-tone-layout left-sidebar">
 			<div class="equal-content-sidebar">
-				<div class="container">
+				<div class="container"  ng-controller="mfFilter">
 					<div class="sidebar-wrapper ">
 						<aside>
 							<div class="mb-10"></div>
-							<div class="result-search-form-wrapper clearfix">
+							<div class="result-search-form-wrapper clearfix"  ng-controller="datePickCrl">
 								<h3 class="text-center">Modify Search</h3>
 								<div class="inner">
 									<form class="gap-10" ng-controller="datePickCrl">
 										<div class="col-xs-12 col-sm-12 paddingLeft2">
 											<div class="form-group form-icon-right mb-10">
 												<label>Amount you want to invest?</label>
-												<input class="form-control mb-0" placeholder="Rs. 25,000" type="text">
+												<input ng-model="totalAmount" class="form-control mb-0" placeholder="Rs. 25,000" type="text">
 											</div>
 										</div>
-										<div class="col-xs-12 col-sm-6 paddingLeft2">
-											<div class="form-group form-icon-right mb-10"> 
-												<label>From</label>
-												<input name="arrival_date" class="form-control mb-0" id="dpd1" placeholder="From" type="text">
-												<i class="fa fa-calendar"></i>
-											</div>
-										</div>
-										<div class="col-xs-12 col-sm-6 paddingLeft2">
-											<div class="form-group form-icon-right mb-10"> 
-												<label>To</label>
+										<div class="col-xs-12 col-sm-12 paddingLeft2">
+											<div class="form-group row timePeriod">
+												<label class="col-xs-12 col-sm-12" style="padding: 0">Time Period</label>
+												<div class="form-icon-right mb-10 col-xs-12 col-sm-6" style="padding: 0"> 
+													<input name="arrival_date" class="form-control mb-0" id="dpd1" placeholder="From" type="text">
+													<i class="fa fa-calendar"></i>
+												</div>
+												<div class="form-icon-right mb-10 col-xs-12 col-sm-6" style="padding: 0">
 												<input name="departure_date" class="form-control mb-0" id="dpd2" placeholder="To" type="text">
 												<i class="fa fa-calendar"></i>
+												</div>
 											</div>
 										</div>
 										<div class="col-xs-12 col-sm-12 paddingLeft2">
@@ -74,38 +72,10 @@
 										      <label><input type="checkbox" value="" name="regular">Regular</label>
 										    </div>
 										</div>
-										<!--
-										<div class="col-xs-6 col-sm-4">
-											<div class="form-group">
-												<label>Adults</label>
-												<div class="fancy-select"><select class="custom-select fancified" id="change-search-adult" style="width: 1px; height: 1px; display: block; position: absolute; top: 0px; left: 0px; opacity: 0;">
-													<option value="0">Adult</option>
-													<option value="1">1</option>
-													<option value="2">2</option>
-													<option value="3">3</option>
-													<option value="4">4‎</option>
-													<option value="5">5</option>
-												</select><div class="form-control">Adult</div><ul class="options"><li data-raw-value="0" class="selected">Adult</li><li data-raw-value="1">1</li><li data-raw-value="2">2</li><li data-raw-value="3">3</li><li data-raw-value="4">4‎</li><li data-raw-value="5">5</li></ul></div>
-											</div>
-										</div>
-										<div class="col-xs-6 col-sm-4">
-											<div class="form-group">
-												<label>Children</label>
-												<div class="fancy-select"><select class="custom-select fancified" id="change-search-child" style="width: 1px; height: 1px; display: block; position: absolute; top: 0px; left: 0px; opacity: 0;">
-													<option value="0">Child</option>
-													<option value="1">1</option>
-													<option value="2">2</option>
-													<option value="3">3</option>
-													<option value="4">4‎</option>
-													<option value="5">5</option>
-												</select><div class="form-control">Child</div><ul class="options"><li data-raw-value="0" class="selected">Child</li><li data-raw-value="1">1</li><li data-raw-value="2">2</li><li data-raw-value="3">3</li><li data-raw-value="4">4‎</li><li data-raw-value="5">5</li></ul></div>
-											</div>
-										</div>
-										-->
 										<div class="clear"></div>
 										
 										<div class="col-sm-12">
-											<button class="btn btn-block btn-primary btn-icon mt-5">Search <span class="icon"><i class="fa fa-search"></i></span></button>
+											<button class="btn btn-block btn-primary btn-icon mt-5"  ng-click="test()">Search <span class="icon"><i class="fa fa-search"></i></span></button>
 										</div>
 										
 										<div class="clear mb-10"></div>
@@ -197,7 +167,7 @@
 								<div class="another-toggle filter-toggle">
 									<h4 class="active " data-toggle="collapse" data-target="#fund-house">Fund House</h4>
 									<div class="another-toggle-content" style="display: block;" >
-										<div class="another-toggle-inner collapse" id="fund-house" class="collapse" aria-expanded="true" ng-controller="serchFilter">
+										<div class="another-toggle-inner collapse" id="fund-house" class="collapse" aria-expanded="true" ng-controller="mfFilter">
 											<div class="checkbox-block font-icon-checkbox">
 												<input name="" class="" type="text" ng-model="test" style="margin-bottom: 4px;">
 											</div>
@@ -246,16 +216,17 @@
 							
 							<div class="mb-20"></div>
 							
-						</aside><br/><br/><br/><br/>
+						</aside><br/><br/>
 					</div>
 					
-					<div class="content-wrapper">
+					<div class="content-wrapper" >
 						
 						<div class="mb-10"></div>
 						<div class="sort-wrapper">
 					
 							<ul class="clearfix">
 							
+								<li class="text input-wrapper"><input type="text" class="form-control" ng-model="fil" name="" placeholder="Search by Scheme">	</li>
 								<li class="text">Sort by: </li>
 								<li class="active"><a href="#">Risk <i class="fa fa-long-arrow-up"></i></a></li>
 								<li><a href="#">Expected Returns</a></li>
@@ -271,22 +242,23 @@
 										<li><a href="#">5 Year</a></li>
 									</ul>
 								</li>
+								<li><a>Investment {{totalAmount | currency:'&#8377;':0 }}</a></li>
 							</ul>
 						
 						</div>
 						
-						<div class="hotel-item-list-wrapper comboSchemes mb-40" ng-controller="serchFilter">
-							<div class="data1"  ng-repeat="combos in combo">
-								<div class="hotel-item-list">
+						<div class="hotel-item-list-wrapper comboSchemes mb-40">
+							<div class="data1"  ng-repeat="combos in combo | filter:{ComboName : fil}">
+								<div class="hotel-item-list combosch">
 									<div class="image" style="background-image:url('images/TLH/3.png');"></div>
-									<div class="content">
+									<div class="content" ng-click="selectCombo[$index] = !selectCombo[$index]; schemeOpen=false;">
 										<div class="heading">
-											<h4>{{combo[$index].ComboName}}</h4>
+											<h4><span class="suggestedCombo"> Suggested Combo {{$index+1}}: </span>{{combo[$index].ComboName}}</h4>
 										</div>
-										<div class="risk-info">
+										<div class="risk-info col-md-4">
 											<p>Risk Level :   <span><strong style="color:red; font-weight: 600;">{{combo[$index].Risk}}</strong></span></p>
 										</div>
-										<div class="risk-info" ng-if="combo[$index].TaxSaving == 'Y'">
+										<div class="risk-info col-md-4" ng-if="combo[$index].TaxSaving == 'Y'">
 											<p><i class="fa fa-check-square-o" style="color: #18bb9c" aria-hidden="true"></i> Tax Saving</p>
 										</div>
 										<div class="price-wrapper ">
@@ -317,23 +289,82 @@
 													Expected Returns
 												</div>
 												<p class="price text-center"><span class="number">Rs. 18,537</span></p>
-												<p class="meta-option ">(Rs. 18,000)</p>
 											</a>
 										</div>
 										<div class="price-wrapper">
 											
-											<a class="btn btn-outline btn-sm" ng-controller="cartController" ng-click="addDate()">Add to cart</a>
+											<a class="btn btn-outline btn-sm"  ng-controller="cartController"  ng-click="addCombo($index)">Add to cart</a>
 										</div>
 									</div>
 								</div>
+									<div class="schemeDetails" ng-show="selectCombo[$index]" style="padding: 10px;"> 
+										<div class="hotel-item-list" ng-repeat="comboMf in comboMfs[$index].mfData">
+											<div class="image" style="background-image:url('images/TLH/3.png');"></div>
+											<div class="content" ng-click="schemeOpen=!schemeOpen">
+												<div class="heading">
+													<h4>{{comboMf.AssetName}}</h4>
+												</div>
+												<div class="risk-info">
+													<p>Risk Level :   <span><strong style="color:red; font-weight: 600;">{{comboMf.Prcnt}}</strong></span></p>
+												</div>
+												<div class="risk-info" ng-if="combo[$index].TaxSaving == 'Y'">
+													<p><i class="fa fa-check-square-o" style="color: #18bb9c" aria-hidden="true"></i> Tax Saving</p>
+												</div>
+												<div class="price-wrapper ">
+													<table class="previousStats">
+														<thead>
+															<th>1 Mon</th>
+															<th class="hidden-6m">3 Mon</th>
+															<th class="hidden-6m">6 Mon</th>
+															<th>1 Yr</th>
+															<th>3 Yr</th>
+															<th>5 Yr</th>
+														</thead>
+														<tr>
+															<td>8%</td>
+															<td class="hidden-6m">8.4%</td>
+															<td class="hidden-6m">8.2%</td>
+															<td>5.8%</td>
+															<td>9.8%</td>
+															<td>14.8%</td>
+														</tr>
+													</table>
+												</div>
+											</div>
+											<div class="absolute-right">
+												<div class="meta-option">
+													<a class="tripadvisor-module">
+														<div class="texting">
+															Investment Split
+														</div>
+														<p class="price text-center "><span class="number">{{(totalAmount*comboMf.Prcnt)/100 | currency: '&#8377;' :0}}</span></p>
+													</a>
+												</div>
+											</div>
+										</div>	
+										<div class="schemeDetails"  > 
+											<div class="inner mfScheme row">
+												<div class="col-md-6">
+													<p>Scheme type: {{customer.AmcName}}</p>
+													<p>Asset Family: {{customer.AssetFamily}}</p>
+													<p>MF Classification: {{customer.ClassificationName}}</p>
+												</div>
+												<div class="col-md-6">
+													<p>Minimum Investment: {{customer.AssetFamily}}</p>
+													<p>Lock-in Period: {{customer.AmcName}}</p>
+													<p>Exit Load: {{customer.AssetFamily}}</p>
+												</div>
+											</div>
+										</div>
+									</div>
 							</div>
 						</div>
 						<div class="hotel-item-list-wrapper mb-40" ng-controller="mfFilter">
-							<div class="data1"   ng-repeat="customer in pagedData | limitTo:pageSize" ng-class="{'lastItem': $last}"  >
-								<div class="hotel-item-list"  ng-click="yearhide = !yearhide">
+							<div class="data1"   ng-repeat="customer in pagedData | limitTo:pageSize  | filter:{SchemeName : fil}" ng-class="{'lastItem': $last}"  >
+								<div class="hotel-item-list" >
 									<div class="image" style="background-image:url('images/TLH/1.png');"></div>
 									<div class="content">
-										<div class="heading">
+										<div class="heading"  ng-click="yearhide = !yearhide">
 											<h4>{{customer.SchemeName}}</h4>
 										</div>
 										<div class="risk-info">
@@ -367,12 +398,11 @@
 													Expected Returns
 												</div>
 												<p class="price text-center"><span class="number">Rs. 18,537</span></p>
-												<p class="meta-option ">(Rs. 18,000)</p>
 											</a>
 										</div>
 										<div class="price-wrapper">
 											
-											<a class="btn btn-outline btn-sm" ng-controller="cartController" ng-click="addDate()">Add to cart</a>
+											<a class="btn btn-outline btn-sm" ng-controller="cartController" ng-click="addScheme(customer.AmcName, 25445, customer.AssetFamily)">Add to cart</a>
 										</div>
 									</div>
 								</div>
@@ -392,10 +422,13 @@
 								</div>
 							</div>
 							<div class="text-center">
-								 <button ng-disabled="pageButtonDisabled(-1)" ng-click="paginate(-1)">Previous</button>
+								 <button class="btn btn-outline" ng-disabled="pageButtonDisabled(-1)" ng-click="paginate(-1)">Previous</button>
 								 	&nbsp;&nbsp; Page {{currentPage+1}} of {{totalPages}}
-						    	 <button ng-disabled="pageButtonDisabled(1)" ng-click="paginate(1)">Next</button>
-							</div>
+						    	 <button class="btn btn-outline" ng-disabled="pageButtonDisabled(1)" ng-click="paginate(1)">Next</button>
+							</div><br/><br/>
+							<div class="text-center">
+								 <a class="btn btn-outline" href="/cart">Continue to Cart</a>
+							</div><br/><br/>
 						</div>
 						
 						<!--<div class="result-paging-wrapper">

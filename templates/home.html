@@ -1,0 +1,260 @@
+<div class="home"> 
+        <header> 
+            <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top"  >
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://finotrust.com"><img src="./images/logo_img.jpg " ></a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="hidden"><a href="#page-top"></a></li>
+                <li class="page-scroll"><a href="/whyFino">Why Fino</a></li>
+                <li class="page-scroll"><a href="/whatWeDo" >What We Do</a></li>
+                <li class="page-scroll"><a href="/aboutUs">About Us</a></li>
+                <li class="page-scroll"><a href="/FAQs">FAQs</a></li>
+                <li class="page-scroll" id="sign-up" ><a href="/login"> Login/Sign Up </a></li>      
+            </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+<!--<div class="container" id="intro">
+    <div class="row">
+        <div class="col-lg-12">
+            <img class="img-responsive" src="images/profile.png" alt="">
+            <div class="intro-text">
+                <span class="name"><h2>Invest smartly & hassle-free!</h2></span>
+                <hr class="star-light">
+                <span ><p >We enable people to better manage and grow their wealth through smarter technology for a fraction of cost of traditional Financial Services</p></span>
+            </div>
+            <div class="row list-inline" id="btn-start"  >
+                <li  class="btn btn-lg btn-outline get-start" onclick="location.href = 'Get-started.html'"><b>Get Started</b></li>
+                <li  class="btn btn-lg btn-outline learn-more" onclick="location.href = 'What-We-Do.html'">Learn More</li>
+            </div>
+        </div>
+    </div>
+</div>-->
+
+    <div class="intro-text get-started ">
+        <div class="main-search-wrapper text-left">
+            <div class="inner animated">
+                 <h3 class="name text-center">START YOUR INVESTMENT PLAN</h3>  
+                <form class="row gap-20" ng-controller="datePickCrl">
+                    <div class="col-xs-12 col-sm-12 row gap-20 form-group" style="margin-bottom: 7px;">
+                        <div class="col-xss-12 col-xs-12 col-sm-5">     
+                            <p for="dpd1">Amount you want to invest? <sup class="mandatory">*</sup></p>
+                        </div>
+                        <div class="col-xss-12 col-xs-12 col-sm-6">
+                            <div class="row gap-20">
+                                <div class="col-xss-12 col-xs-6 col-sm-6">
+                                    <div class="form-group form-icon-right"> 
+                                        <input ng-model="totalAmount" name="Amount" autocomplete="off" class="form-control bigButton" placeholder="Rs: 25,000" type="number">
+                                    </div>
+                                </div>
+                            
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 row gap-20 form-group" style="margin-bottom: 7px;">
+                        <div class="col-xss-12 col-xs-12 col-sm-5">     
+                            <p for="dpd1">Time period <sup class="mandatory">*</sup></p>
+                        </div>
+                        <div class="col-xss-12 col-xs-12 col-sm-6">
+                            <div class="row gap-20">
+                                <div class="col-xss-12 col-xs-6 col-sm-6">
+                                    <div class="form-group form-icon-right"> 
+                                        <input name="dpd1" class="form-control" id="dpd1" placeholder="From" readonly="" type="text">
+                                        <i class="fa fa-calendar"></i>
+                                    </div>
+                                </div>
+                                
+                                <div class="col-xss-12 col-xs-6 col-sm-6">
+                                    <div class="form-group form-icon-right"> 
+                                        <input name="dpd2" class="form-control" id="dpd2" placeholder="To" readonly="" type="text">
+                                        <i class="fa fa-calendar"></i>
+                                    </div>
+                                </div>
+                            
+                            </div>
+                        </div>
+                    </div>
+                     <div class="loader loader-ball is-active" data-shadow></div>
+                    <div class="col-xs-12 col-sm-12 row gap-20">
+                        <div class="col-xss-12 col-xs-12 col-sm-5 col-md-5 col-lg-5">     
+                            <p for="dpd1">Investment type</p>
+                        </div>
+                        <div class="col-xss-12 col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                            <div class="row gap-20">
+                                <div class="col-xss-12 col-xs-6 col-sm-6">
+                                    <div class="form-group checkbox">
+                                      <label><input type="checkbox" value="" name="taxSaving">Tax Saving</label>
+                                    </div>
+                                </div>
+                                <div class="col-xss-12 col-xs-6 col-sm-6">
+                                    <div class="form-group checkbox">
+                                      <label><input type="checkbox" value="" name="regular">Regular</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                        
+                    <div class="col-xs-12">
+                    
+                        <div class="row">
+                        
+                            <div class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4 text-center">
+                                <button class="btn btn-lg btn-outline btn-lg btn-icon bigButton" ng-click="test()">Search <span class="icon"><i class="fa fa-search"></i></span></button>
+                            </div>
+                        
+                        </div>
+                        
+                    </div>
+                    <div class="col-xs-12 text-center">
+                        <a href="/mfDisplay" class="searchScheme">Search by Scheme</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+        <div class="row how-it-works" >
+                <div class="col-lg-12 text-center">
+                    <div class="row" >
+                     <h3>how it works</h3>
+                    <hr class="star-primary">
+                    </div>
+                </div>
+               <div class="col-sm-4 portfolio-item text-center">
+                <img  src="images/icons/b.png">
+                     <h4><b>1. Get Advice</b></h4>
+                     <p>Tell us about yourself/your goals and we'll recommend an investment plan. You can customize this at any time.</p>
+                </div>
+                <div class="col-sm-4 portfolio-item text-center">
+                <img  src="images/icons/c.png">
+                    <h4><b>2. Invest</b></h4>
+                    <p>Invest through us and we’ll monitor your portfolio closely to make you reach your goals while saving taxes.</p>   
+                </div>
+                <div class="col-sm-4 portfolio-item text-center">
+                <img src="images/icons/a.png" >
+                     <h4><b>3. Relax</b></h4>
+                     <p>Relax, sit back and talk to us when you want. We are available Mon – Fri 9 am to 9 pm on email and phone.</p>  
+                </div>
+                
+            </div>
+            
+    <!-- Portfolio Grid Section -->
+    <section id="portfolio">
+        <div class="container" >
+            <div class="row" >
+                <div class="col-lg-12 text-center">
+                    <h3>Read more about finotrust</h3>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4 portfolio-item">
+                    <a href="transparency.html" class="portfolio-link" >
+                        <div class="caption">
+                            <div class="caption-content">
+                                <h4>New level of transparency in Investing</h4>
+                                <span style=" font-size:12px; ">Read More</span>
+                            </div>
+                        </div>
+                        <img src="images/Portfolio/search.jpg" class="img-responsive" alt="">
+                    </a>
+                </div>
+                <div class="col-sm-4 portfolio-item">
+                    <a href="easy.html" class="portfolio-link" >
+                        <div class="caption">
+                            <div class="caption-content">
+                                <h4>Easy and Personalized&nbsp;</h4>
+                                <span style=" font-size:12px; ">Read More</span>
+                            </div>
+                        </div>
+                        <img src="images/Portfolio/easy.jpg" class="img-responsive" alt="">
+                    </a>
+                </div>
+                <div class="col-sm-4 portfolio-item">
+                    <a href="safe-secure.html" class="portfolio-link" >
+                        <div class="caption">
+                            <div class="caption-content">
+                                <h4>Safe and secure&nbsp;</h4>
+                                <span style=" font-size:12px; ">Read More</span>
+                            </div>
+                        </div>
+                        <img src="images/Portfolio/secure.jpg" class="img-responsive" alt="">
+                    </a>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+        
+        
+<footer class="text-center">
+        <div class="footer-above">
+            <div class="container" >
+            <div class="row" >
+                <div class="col-md-4 support col-xs-6 text-left">
+                    <i class="fa fa-mobile"></i><span>+91 92060 73021</span>
+                </div>
+                <div class="col-md-4 support col-xs-6 text-left " >
+                    <i class="fa fa-envelope-o"></i><span >support@finotrust.com</span>
+                </div>
+            </div>
+            </div>
+        </div>
+        <div class="footer-below">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col col-md-3 col-xs-6">
+                        <ul>
+                        <a href="/home"><li>Home</li></a>
+                        <a href="/whyFino"><li>Why Fino</li></a>
+                        <a href="/whatWeDo"><li>What We Do</li></a>
+                        </ul>
+                    </div>
+                    <div class="footer-col col-md-3 col-xs-6">
+                        <ul>
+                    <!--    <a href="tlh.html"><li>Tax Loss Harvesting</li></a>
+                        <a href="career.html"><li>Careers</li></a>
+                        <a href="#"><li>Blog</li></a>
+                        <a href="/aboutUs"><li>Our Mission</li></a>
+                        <a href="Policy.html"><li>Privacy Policy</li></a>
+                        <a href="Policy.html"><li>Terms & Conditions</li></a>-->
+                        <a href="/aboutUs"><li>About Us</li></a>
+                        <a href="/FAQs"><li>FAQs</li></a>
+
+                        </ul>
+                    </div>
+                    <div class="footer-col col-md-6 big col-xs-12">
+                        <!--<div class="col-md-8 col-xs-6"><h3 >Follow Us on</h3></div>-->
+                        <div class="col-md-8 col-xs-6"><ul class="list-inline">
+                            <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a></li>
+                            <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a></li>
+                            <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a></li>
+                            <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a></li>
+                        </ul></div>
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="container copyright">
+                <p>DISCLAIMER (ARN- 107100): <br>Mutual Funds and securities investments are subject to market risks, read all scheme-related documents carefully. There is no assurance or guarantee that the objectives of the scheme will be achieved. As with any investment in securities, the NAV of the units issued under the Scheme can go up or down depending on the factors and forces affecting the capital markets. Past performance is not indicative of the future performance of the Scheme.
+                </p>
+                <h4 >Copyright  FinoTrue Services Pvt.Ltd &copy; 2015</h4>
+            </div>
+        </div>
+    </footer>
+
+</div>

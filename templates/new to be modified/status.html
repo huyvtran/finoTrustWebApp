@@ -1,0 +1,38 @@
+<div ng-controller="loginChech">
+<div ng-controller="navTabsCtrl">
+<nav class="navbar navbar-default navbar-fixed-top"  >
+  <div class="container">
+    <div class="navbar-header page-scroll">
+      <a class="navbar-brand" ><img src="img/logo_priv.png" ></a>
+    </div>
+  </div>
+</nav>
+</div>
+<div class="verification bankPage" ng-controller="statusPageCtrl">
+		<div class=" statusPage" >
+			<div class="rows padding">
+				<p>{{para1}}</p>
+
+				<p >Please send us your PAN Number and Bank Details to <b>support@finozen.com</b></p>
+				<p>For more details please call us @ 09206073021</p>
+			</div>
+			<div ng-hide="docstatus">
+				<hr/>
+				<div class="rows padding" ng-repeat="n in nextSteps track by $index">
+					<span class="custom_bullets">{{ $index+1}}</span><p >{{docsToSubmit[nextSteps[$index]]}}</p>
+				</div>
+				<hr/>
+			</div>
+			<div ng-if="docstatus">
+				<p class="padding" style="padding: 0px 10px; margin: 0px;"><b>FinoZen Key Features -<br/></b></p>
+				<p>
+					<span style="color: rgb(24, 187, 156); padding: 11px;" class="ion-checkmark-circled"></span>Completely safe and secure<br/><span style="color: rgb(24, 187, 156); padding: 11px;" class="ion-checkmark-circled"></span>Expected returns better than FD<br/><span style="color: rgb(24, 187, 156); padding: 11px;" class="ion-checkmark-circled"></span>Withdraw anytime without penalty<br/><span style="color: rgb(24, 187, 156); padding: 11px;" class="ion-checkmark-circled"></span>24X7 Customer Support</li>
+				</p>
+			</div>
+		</div>
+
+	<div class="button-bar text-center" style="padding:0;">
+		<button class="button button-positive" ng-click="investNowFunction()" >Invest Now</button>
+	</div>
+	</div>
+</div>

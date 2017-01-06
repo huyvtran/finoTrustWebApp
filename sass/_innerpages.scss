@@ -1,7 +1,7 @@
 .popover-content {
     width: 20em;
 }
-.summary{
+.summaryPage{
 	
 	.manage_account{
 		h1{
@@ -73,7 +73,7 @@
 		
 	.bottom-table{
 	.tab-content{margin-top:0.5em; h3{font-size:15px; font-weight:600; padding:2em 0 0;} }
-	.bottom-nav-tabs li{width:25%; border:none; color:white;  background: gainsboro; & a{color:#000; font-weight:600;} 
+	.nav-tabs li{width:25%; border:none; color:white;  background: gainsboro; & a{color:#000; font-weight:600;} 
 	&.active a, &.active a:focus, &.active a:hover{color:white;background-color:#18bb9c;}}
 		padding:0px !important;
 		margin:1em auto; border:2px solid #DDD; border-radius:4px;
@@ -82,27 +82,28 @@
 				width: auto;
 			}
 		}
-	table{
-		border: 1px solid rgb(204, 204, 204);
-		width: 100%;
-		font-size:12px;
-		th {
-			font-size:15px;
-			text-align:center;
-			background:#18bb9c; color:white;
-			border: 2px solid rgb(204, 204, 204);
-			padding:3px;
-			&:first-child{
-				width: 250px;
+		table{
+			border: 1px solid rgb(204, 204, 204);
+			width: 100%;
+			th {
+				font-size:14px;
+				text-align:center;
+				background:#18bb9c; color:white;
+				border: 2px solid rgb(204, 204, 204);
+				padding:3px;
+				font-size:12px;
+				&:first-child{
+					width: 250px;
+				}
 			}
+			margin-top: 20px;
 		}
-		margin-top: 20px;
-		}
-		
 		td{
-		padding:5px;
-		border: 1px solid rgb(204, 204, 204);
-		}}
+			padding:5px;
+			font-size:12px;
+			border: 1px solid rgb(204, 204, 204);
+		}
+	}
 }
 /* Overview */
 .panel-default{
@@ -203,7 +204,10 @@
 	display:none;
 }
 
-
+.plus-sign {
+    color: #18bb9c;
+    margin: 4px;
+}
 
 /* POrtfolio Page */
 .portfolio{
@@ -284,10 +288,14 @@
 			}
 			.portfolio_large_info{
 				.Current-Value{float:right;}
-				.heading {
-					padding: 20px 15px;
-					a:focus, a:hover {
-						text-decoration: none;
+				.panel.panel-default{
+					border-radius:4px;
+					.panel-heading {
+						background:white;
+						padding: 20px 15px;
+						a:focus, a:hover {
+							text-decoration: none;
+						}
 					}
 				}
 				table {
@@ -312,6 +320,11 @@
 					td{
 						padding: 6px;
 						vertical-align: middle;
+						.form-control{
+							max-width: 180px;
+							width: 100%;
+							margin: 0;
+						}
 						&:first-child{
 							padding-left:5px;
 						}

@@ -1,8 +1,8 @@
 body{
-	@include fontl(16);
+	@include fontl(14);
 }
 p{
-	@include fontm(14);
+	@include fontm(13);
 }
 a,a:focus{
 	outline: 0;

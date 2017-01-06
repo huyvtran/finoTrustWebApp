@@ -1,17 +1,28 @@
 
 
 var confirmation=0;
-angular.module('myApp', ['ngRoute','myApp.services','myApp.directives','myApp.controllers','ngMessages','ngIdle','ngResource','ngStorage','ui.router','ui.bootstrap'])
-.run(function($rootScope) {
-    $rootScope.names = [];
+angular.module('myApp', ['ngRoute','myApp.services','myApp.directives','myApp.controllers','ngMessages','ngIdle','ngResource','ngStorage','ui.router','ui.bootstrap','angularSpinner'])
+.run(function($rootScope,$sessionStorage) {
+  if($sessionStorage.names == undefined){
+    $sessionStorage.names = [];
+  }
+  if($sessionStorage.comboCartItems == undefined){
+    $sessionStorage.comboCartItems = [];
+  }
+  if($sessionStorage.combo == undefined){
+    $sessionStorage.combo = [];
+  }
+
 })
-.config(function($stateProvider, $urlRouterProvider) {
+.config(function($stateProvider, $urlRouterProvider,$locationProvider) {
     $urlRouterProvider.otherwise('/home');
     $stateProvider
+  
+  /*Pre Log in */
 
   .state('home', {
     url: '/home',
-    templateUrl: 'templates/login.html',
+    templateUrl: 'templates/home.html',
     controller:''
   })
   .state('whatWeDo', {
@@ -34,16 +45,6 @@ angular.module('myApp', ['ngRoute','myApp.services','myApp.directives','myApp.co
     templateUrl: 'templates/whyFino.html',
     controller:''
   })
-  .state('pricing', {
-    url: '/pricing',
-    templateUrl: 'templates/Pricing.html',
-    controller:''
-  })
-  .state('getStarted', {
-    url: '/getStarted',
-    templateUrl: 'templates/getStarted.html',
-    controller:''
-  })
   .state('mfDisplay', {
     url: '/mfDisplay',
     templateUrl: 'templates/mfDisplay.html',
@@ -54,5 +55,98 @@ angular.module('myApp', ['ngRoute','myApp.services','myApp.directives','myApp.co
     templateUrl: 'templates/cart.html',
     controller:''
   })
-;   
+
+  /* Post Log in */
+
+  .state('summary', {
+    url: '/summary',
+    templateUrl: 'templates/summary.html',
+    controller:''
+  })
+  .state('invest', {
+    url: '/invest',
+    templateUrl: 'templates/invest.html',
+    controller:''
+  })
+  .state('benchmark', {
+    url: '/benchmark',
+    templateUrl: 'templates/benchmark.html',
+    controller:''
+  })
+  .state('funds', {
+    url: '/funds',
+    templateUrl: 'templates/funds.html',
+    controller:''
+  })
+  .state('performance', {
+    url: '/performance',
+    templateUrl: 'templates/performance.html',
+    controller:''
+  })
+
+  /*Log in  Sign up flow */
+
+  .state('login', {
+    url: '/login',
+    templateUrl: 'templates/login.html',
+    controller:''
+  })
+  .state('questions', {
+    url: '/questions',         
+    templateUrl: 'templates/questions.html',
+    controller: ''     
+  })
+  .state('bank', {
+  url: '/bank',         
+    templateUrl: 'templates/bank.html',
+    controller: ''     
+  }) 
+  .state('panImage', {
+    url: '/panImage',         
+    templateUrl: 'templates/panImage.html'
+
+  })  
+  .state('selfiImage', {
+    url: '/selfiImage',         
+    templateUrl: 'templates/selfiImage.html'
+
+  })  
+  .state('addressFrontImage', {
+    url: '/addressFrontImage',         
+    templateUrl: 'templates/addressFrontImage.html'
+
+  })  
+  .state('addressBackImage', {
+    url: '/addressBackImage',         
+    templateUrl: 'templates/addressBackImage.html'
+
+  })  
+  .state('signature', {
+    url: '/signature',         
+    templateUrl: 'templates/signature.html'
+
+  })  
+
+/*  success pages */
+
+ .state('inactiveClient', {
+    url: '/inactiveClient',         
+        templateUrl: 'templates/inactiveClient.html'
+  })
+
+  .state('status', {
+    url: '/status',
+    templateUrl: 'templates/status.html',
+  })
+      
+  .state('activeClientStatus', {
+    url: '/activeClientStatus',         
+    templateUrl: 'templates/activeClientStatus.html'
+  })
+
+; 
+$locationProvider.html5Mode({
+ enabled: true,
+ requireBase: false
+});
 });
